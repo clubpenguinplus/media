@@ -1,0 +1,1163 @@
+{
+    "anims": [
+        {
+            "key": "coffee-cashregister",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-coffee0053",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "coffee-smoothieregister",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "cashregister-smoothie0039",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "coffee-smoothiesmash",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "smoothiemachine0060",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "coffee-beans",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "coffeebagbarrel0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

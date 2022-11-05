@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "skate-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1936,
+				"h": 1945
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1934,
+						"h": 501
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1934,
+						"h": 501
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1934,
+						"h": 501
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1824,
+						"h": 1057
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1824,
+						"h": 1057
+					},
+					"frame": {
+						"x": 1,
+						"y": 504,
+						"w": 1824,
+						"h": 1057
+					}
+				},
+				{
+					"filename": "fg2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 540,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 540,
+						"h": 381
+					},
+					"frame": {
+						"x": 1,
+						"y": 1563,
+						"w": 540,
+						"h": 381
+					}
+				},
+				{
+					"filename": "pillar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 360
+					},
+					"frame": {
+						"x": 543,
+						"y": 1563,
+						"w": 236,
+						"h": 360
+					}
+				},
+				{
+					"filename": "bar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 46
+					},
+					"frame": {
+						"x": 1827,
+						"y": 504,
+						"w": 56,
+						"h": 46
+					}
+				},
+				{
+					"filename": "railing2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 140
+					},
+					"frame": {
+						"x": 1885,
+						"y": 504,
+						"w": 49,
+						"h": 140
+					}
+				},
+				{
+					"filename": "railing3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 134
+					},
+					"frame": {
+						"x": 1827,
+						"y": 552,
+						"w": 47,
+						"h": 134
+					}
+				},
+				{
+					"filename": "skate-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 172,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 185
+					},
+					"frame": {
+						"x": 781,
+						"y": 1563,
+						"w": 172,
+						"h": 185
+					}
+				},
+				{
+					"filename": "skate",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 172,
+						"h": 185
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 163,
+						"h": 176
+					},
+					"frame": {
+						"x": 781,
+						"y": 1750,
+						"w": 163,
+						"h": 176
+					}
+				},
+				{
+					"filename": "bench",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 171
+					},
+					"frame": {
+						"x": 946,
+						"y": 1750,
+						"w": 202,
+						"h": 171
+					}
+				},
+				{
+					"filename": "railing1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 162
+					},
+					"frame": {
+						"x": 955,
+						"y": 1563,
+						"w": 147,
+						"h": 162
+					}
+				},
+				{
+					"filename": "puffle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1104,
+						"y": 1563,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "catalog-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1692,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "catalog",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 0,
+						"w": 113,
+						"h": 113
+					},
+					"frame": {
+						"x": 1234,
+						"y": 1563,
+						"w": 113,
+						"h": 113
+					}
+				},
+				{
+					"filename": "pillar2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 99
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1809,
+						"w": 112,
+						"h": 99
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9923d3f631d267897b7f52f4347e7f0b:b565a467b5a62d871351cb557a944d2d:f97ef3e9a3f65839f560d3aa450f5780$"
+	}
+}

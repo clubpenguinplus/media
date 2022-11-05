@@ -1,0 +1,1721 @@
+{
+	"textures": [
+		{
+			"image": "shack-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1917,
+				"h": 1795
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "shackbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1915,
+						"h": 1064
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1915,
+						"h": 1064
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1915,
+						"h": 1064
+					}
+				},
+				{
+					"filename": "bigtree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 553,
+						"h": 659
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 553,
+						"h": 659
+					},
+					"frame": {
+						"x": 1,
+						"y": 1067,
+						"w": 553,
+						"h": 659
+					}
+				},
+				{
+					"filename": "book",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1728,
+						"w": 69,
+						"h": 62
+					}
+				},
+				{
+					"filename": "carrot",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 45,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 58
+					},
+					"frame": {
+						"x": 72,
+						"y": 1728,
+						"w": 45,
+						"h": 58
+					}
+				},
+				{
+					"filename": "volleyball0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 57
+					},
+					"frame": {
+						"x": 119,
+						"y": 1728,
+						"w": 59,
+						"h": 57
+					}
+				},
+				{
+					"filename": "volleyballplay0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 125,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 180,
+						"y": 1728,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 79,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 237,
+						"y": 1728,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 10,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 294,
+						"y": 1728,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 3,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 351,
+						"y": 1728,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 11,
+						"w": 55,
+						"h": 54
+					},
+					"frame": {
+						"x": 408,
+						"y": 1728,
+						"w": 55,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 150,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 465,
+						"y": 1728,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 159,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 465,
+						"y": 1728,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 175,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 521,
+						"y": 1728,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "cpu_fence_r",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 620,
+						"h": 518
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 620,
+						"h": 518
+					},
+					"frame": {
+						"x": 556,
+						"y": 1067,
+						"w": 620,
+						"h": 518
+					}
+				},
+				{
+					"filename": "volley_polll",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 135
+					},
+					"frame": {
+						"x": 556,
+						"y": 1587,
+						"w": 20,
+						"h": 135
+					}
+				},
+				{
+					"filename": "bucket",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 70
+					},
+					"frame": {
+						"x": 577,
+						"y": 1724,
+						"w": 69,
+						"h": 70
+					}
+				},
+				{
+					"filename": "volley_net",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 246,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 246,
+						"h": 122
+					},
+					"frame": {
+						"x": 578,
+						"y": 1587,
+						"w": 246,
+						"h": 122
+					}
+				},
+				{
+					"filename": "gardenrock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 81
+					},
+					"frame": {
+						"x": 648,
+						"y": 1711,
+						"w": 119,
+						"h": 81
+					}
+				},
+				{
+					"filename": "mine_overhang",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 81
+					},
+					"frame": {
+						"x": 769,
+						"y": 1711,
+						"w": 113,
+						"h": 81
+					}
+				},
+				{
+					"filename": "minedoor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 116
+					},
+					"frame": {
+						"x": 826,
+						"y": 1587,
+						"w": 88,
+						"h": 116
+					}
+				},
+				{
+					"filename": "guitar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 80
+					},
+					"frame": {
+						"x": 884,
+						"y": 1705,
+						"w": 141,
+						"h": 80
+					}
+				},
+				{
+					"filename": "minedoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 88,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 83,
+						"h": 116
+					},
+					"frame": {
+						"x": 916,
+						"y": 1587,
+						"w": 83,
+						"h": 116
+					}
+				},
+				{
+					"filename": "schooldoor",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 14,
+						"w": 112,
+						"h": 111
+					},
+					"frame": {
+						"x": 1001,
+						"y": 1587,
+						"w": 112,
+						"h": 111
+					}
+				},
+				{
+					"filename": "pizzaplant",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 194
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 89,
+						"h": 194
+					},
+					"frame": {
+						"x": 1115,
+						"y": 1587,
+						"w": 89,
+						"h": 194
+					}
+				},
+				{
+					"filename": "flag0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 86,
+						"h": 73
+					},
+					"frame": {
+						"x": 1027,
+						"y": 1700,
+						"w": 86,
+						"h": 73
+					}
+				},
+				{
+					"filename": "hourhand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5,
+						"h": 16
+					},
+					"frame": {
+						"x": 1027,
+						"y": 1775,
+						"w": 5,
+						"h": 16
+					}
+				},
+				{
+					"filename": "flagpole",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 356
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1067,
+						"w": 42,
+						"h": 356
+					}
+				},
+				{
+					"filename": "schooldoor-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 162,
+						"h": 146
+					},
+					"frame": {
+						"x": 1178,
+						"y": 1425,
+						"w": 162,
+						"h": 146
+					}
+				},
+				{
+					"filename": "righttree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 218
+					},
+					"frame": {
+						"x": 1206,
+						"y": 1573,
+						"w": 184,
+						"h": 218
+					}
+				},
+				{
+					"filename": "cpu_fence_l",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 252
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1067,
+						"w": 299,
+						"h": 252
+					}
+				},
+				{
+					"filename": "flag0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 82,
+						"h": 76
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1321,
+						"w": 82,
+						"h": 76
+					}
+				},
+				{
+					"filename": "minutehand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 5,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 5,
+						"h": 24
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1399,
+						"w": 5,
+						"h": 24
+					}
+				},
+				{
+					"filename": "flag0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 1,
+						"w": 85,
+						"h": 75
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1321,
+						"w": 85,
+						"h": 75
+					}
+				},
+				{
+					"filename": "mine_de",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 55,
+						"h": 25
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1398,
+						"w": 55,
+						"h": 25
+					}
+				},
+				{
+					"filename": "mine_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 55,
+						"h": 25
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1398,
+						"w": 55,
+						"h": 25
+					}
+				},
+				{
+					"filename": "mine_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 55,
+						"h": 25
+					},
+					"frame": {
+						"x": 1306,
+						"y": 1398,
+						"w": 55,
+						"h": 25
+					}
+				},
+				{
+					"filename": "squash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 172
+					},
+					"frame": {
+						"x": 1363,
+						"y": 1398,
+						"w": 181,
+						"h": 172
+					}
+				},
+				{
+					"filename": "flag0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 78,
+						"h": 75
+					},
+					"frame": {
+						"x": 1393,
+						"y": 1321,
+						"w": 78,
+						"h": 75
+					}
+				},
+				{
+					"filename": "flag0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 91,
+						"h": 74
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1321,
+						"w": 91,
+						"h": 74
+					}
+				},
+				{
+					"filename": "arch",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 345,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 190
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1067,
+						"w": 345,
+						"h": 190
+					}
+				},
+				{
+					"filename": "coffee",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 38
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1067,
+						"w": 40,
+						"h": 38
+					}
+				},
+				{
+					"filename": "volley_pollr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 165
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 165
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1107,
+						"w": 35,
+						"h": 165
+					}
+				},
+				{
+					"filename": "volleyballplay0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 44,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1560,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "bottom_bush",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 357,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 357,
+						"h": 161
+					},
+					"frame": {
+						"x": 1546,
+						"y": 1397,
+						"w": 357,
+						"h": 161
+					}
+				},
+				{
+					"filename": "flag0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 89,
+						"h": 74
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1315,
+						"w": 89,
+						"h": 74
+					}
+				},
+				{
+					"filename": "volleyballplay0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 23,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1616,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "flag0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 93,
+						"h": 73
+					},
+					"frame": {
+						"x": 1657,
+						"y": 1315,
+						"w": 93,
+						"h": 73
+					}
+				},
+				{
+					"filename": "volleyballplay0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 2,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1672,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 9,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1728,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "flag0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 2,
+						"w": 83,
+						"h": 73
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1315,
+						"w": 83,
+						"h": 73
+					}
+				},
+				{
+					"filename": "volleyballplay0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 19,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 19,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1784,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "lantern",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 72
+					},
+					"frame": {
+						"x": 1837,
+						"y": 1315,
+						"w": 50,
+						"h": 72
+					}
+				},
+				{
+					"filename": "volleyballplay0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 24,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1840,
+						"y": 1259,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "rail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 181
+					},
+					"frame": {
+						"x": 1392,
+						"y": 1572,
+						"w": 119,
+						"h": 181
+					}
+				},
+				{
+					"filename": "mine_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 55,
+						"h": 26
+					},
+					"frame": {
+						"x": 1392,
+						"y": 1755,
+						"w": 55,
+						"h": 26
+					}
+				},
+				{
+					"filename": "mine_pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 63,
+						"h": 171
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 16,
+						"w": 55,
+						"h": 26
+					},
+					"frame": {
+						"x": 1392,
+						"y": 1755,
+						"w": 55,
+						"h": 26
+					}
+				},
+				{
+					"filename": "flag0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 94,
+						"h": 72
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1572,
+						"w": 94,
+						"h": 72
+					}
+				},
+				{
+					"filename": "flag0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 93,
+						"h": 72
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1646,
+						"w": 93,
+						"h": 72
+					}
+				},
+				{
+					"filename": "flag0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 95,
+						"h": 71
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1720,
+						"w": 95,
+						"h": 71
+					}
+				},
+				{
+					"filename": "flag0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 90,
+						"h": 71
+					},
+					"frame": {
+						"x": 1608,
+						"y": 1646,
+						"w": 90,
+						"h": 71
+					}
+				},
+				{
+					"filename": "volleyballplay0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 8,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1719,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 7,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1719,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 4,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1666,
+						"y": 1719,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 4,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1609,
+						"y": 1560,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 23,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1665,
+						"y": 1560,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 45,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1700,
+						"y": 1616,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 79,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1721,
+						"y": 1560,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 79,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 1721,
+						"y": 1560,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyball0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 59,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 54
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1672,
+						"w": 53,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 45,
+						"w": 53,
+						"h": 54
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1616,
+						"w": 53,
+						"h": 54
+					}
+				},
+				{
+					"filename": "cpu_fence_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 54
+					},
+					"frame": {
+						"x": 1777,
+						"y": 1560,
+						"w": 52,
+						"h": 54
+					}
+				},
+				{
+					"filename": "cpu_fence_pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 54
+					},
+					"frame": {
+						"x": 1777,
+						"y": 1560,
+						"w": 52,
+						"h": 54
+					}
+				},
+				{
+					"filename": "volleyballplay0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 207,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1728,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "volleyballplay0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 0,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1777,
+						"y": 1672,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "volleyballplay0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 0,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1777,
+						"y": 1672,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "volleyballplay0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 219,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 0,
+						"w": 54,
+						"h": 53
+					},
+					"frame": {
+						"x": 1777,
+						"y": 1672,
+						"w": 54,
+						"h": 53
+					}
+				},
+				{
+					"filename": "cpu_fence_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 52,
+						"h": 52
+					},
+					"frame": {
+						"x": 1811,
+						"y": 1616,
+						"w": 52,
+						"h": 52
+					}
+				},
+				{
+					"filename": "cpu_fence_de",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1560,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "cpu_fence_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1560,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "cpu_fence_ru",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 45,
+						"h": 48
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1612,
+						"w": 45,
+						"h": 48
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f4246ad4f8d1bb78b82b1c0596e0ea26:671d645810593d7f33721e38390a6fa6:3c88dea83063868735d959c9a0ae3f1e$"
+	}
+}

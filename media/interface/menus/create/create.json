@@ -1,0 +1,370 @@
+{
+	"textures": [
+		{
+			"image": "create-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1888,
+				"h": 1791
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "rookie-happy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 726,
+						"h": 1007
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 726,
+						"h": 1007
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 726,
+						"h": 1007
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rookie-stand",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 654,
+						"h": 860
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 654,
+						"h": 860
+					},
+					"frame": {
+						"x": 726,
+						"y": 0,
+						"w": 654,
+						"h": 860
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 900,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 900,
+						"h": 600
+					},
+					"frame": {
+						"x": 0,
+						"y": 1007,
+						"w": 900,
+						"h": 600
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rookie-talk",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 756,
+						"h": 727
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 16,
+						"w": 508,
+						"h": 711
+					},
+					"frame": {
+						"x": 1380,
+						"y": 0,
+						"w": 508,
+						"h": 711
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "text-bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 965,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 965,
+						"h": 184
+					},
+					"frame": {
+						"x": 0,
+						"y": 1607,
+						"w": 965,
+						"h": 184
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "logo2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 834,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 834,
+						"h": 381
+					},
+					"frame": {
+						"x": 900,
+						"y": 860,
+						"w": 834,
+						"h": 381
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "body-highlight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 506
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 506
+					},
+					"frame": {
+						"x": 965,
+						"y": 1241,
+						"w": 335,
+						"h": 506
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "penguin-body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 412
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 412
+					},
+					"frame": {
+						"x": 1300,
+						"y": 1241,
+						"w": 335,
+						"h": 412
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "color-body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 134
+					},
+					"frame": {
+						"x": 726,
+						"y": 860,
+						"w": 133,
+						"h": 134
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "color-highlight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 134
+					},
+					"frame": {
+						"x": 1380,
+						"y": 711,
+						"w": 133,
+						"h": 134
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "color-highlight-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 152
+					},
+					"frame": {
+						"x": 1635,
+						"y": 1241,
+						"w": 151,
+						"h": 152
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ok-btn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 42
+					},
+					"frame": {
+						"x": 965,
+						"y": 1747,
+						"w": 130,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ok-btn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 42
+					},
+					"frame": {
+						"x": 1300,
+						"y": 1653,
+						"w": 130,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ok-btn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 130,
+						"h": 42
+					},
+					"frame": {
+						"x": 1513,
+						"y": 711,
+						"w": 130,
+						"h": 42
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:aa82035f324d269e20f335e04b91c9ed:25d095ca17015e3960340925f35b55a1:9c2ea07510cb6664b02febb64d841cab$"
+	}
+}

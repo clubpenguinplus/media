@@ -1,0 +1,151 @@
+{
+    "anims": [
+        {
+            "key": "plaza-holeopen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "plaza",
+                    "frame": "cover_0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0020",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "plaza-holeclose",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "plaza",
+                    "frame": "cover_0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plaza",
+                    "frame": "cover_0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "client/fonts/Arial.woff2",
+                "type": "binary",
+                "key": "Arial"
+            },
+            {
+                "url": "client/fonts/Arial Bold.woff2",
+                "type": "binary",
+                "key": "Arial Bold"
+            },
+            {
+                "url": "client/fonts/Arial Narrow.woff2",
+                "type": "binary",
+                "key": "Arial Narrow"
+            },
+            {
+                "url": "client/fonts/Arial Narrow Bold.woff2",
+                "type": "binary",
+                "key": "Arial Narrow Bold"
+            },
+            {
+                "url": "client/fonts/Asterisk.woff2",
+                "type": "binary",
+                "key": "Asterisk"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/windows/prompt/banning.json",
+                "path": "client/media/interface/windows/prompt",
+                "key": "banning"
+            },
+            {
+                "url": "client/fonts/Burbank Small Bold.woff2",
+                "type": "binary",
+                "key": "Burbank Small Bold"
+            },
+            {
+                "url": "client/fonts/Burbank Small Medium.woff2",
+                "type": "binary",
+                "key": "Burbank Small Medium"
+            },
+            {
+                "url": "client/fonts/CCComicrazy-Roman.woff2",
+                "type": "binary",
+                "key": "CCComicrazy-Roman"
+            },
+            {
+                "url": "client/fonts/CCFaceFront Bold Italic.woff2",
+                "type": "binary",
+                "key": "CCFaceFront Bold Italic"
+            },
+            {
+                "url": "client/media/crumbs/en.json",
+                "type": "json",
+                "key": "crumbs-en"
+            },
+            {
+                "url": "client/media/crumbs/es.json",
+                "type": "json",
+                "key": "crumbs-es"
+            },
+            {
+                "url": "client/media/crumbs/pt.json",
+                "type": "json",
+                "key": "crumbs-pt"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/game/main/endscreens.json",
+                "path": "client/media/interface/game/main",
+                "key": "endscreens"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/games/four/four.json",
+                "path": "client/media/games/four",
+                "key": "four"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/game/iglooedit/iglooedit.json",
+                "path": "client/media/interface/game/iglooedit/",
+                "key": "iglooedit"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/menus/login/login.json",
+                "path": "client/media/interface/menus/login/",
+                "key": "login"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/game/main/main.json",
+                "path": "client/media/interface/game/main/",
+                "key": "main"
+            },
+            {
+                "url": "client/media/interface/game/main/main-anims.json",
+                "type": "animation",
+                "key": "main-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/games/mancala/mancala.json",
+                "path": "client/media/games/mancala",
+                "key": "mancala"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/game/map/map.json",
+                "path": "client/media/interface/game/map/",
+                "key": "map"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/game/map/map-for-igloo.json",
+                "path": "client/media/interface/game/map",
+                "key": "map-for-igloo"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/game/map/map-new.json",
+                "path": "client/media/interface/game/map",
+                "key": "map-new"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/penguin/penguin.json",
+                "path": "client/media/penguin/",
+                "key": "penguin"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/penguin/penguin_base.json",
+                "path": "client/media/penguin/",
+                "key": "penguin_base"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/penguin/penguin_body.json",
+                "path": "client/media/penguin/",
+                "key": "penguin_body"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/windows/prompt/prompt.json",
+                "path": "client/media/interface/windows/prompt/",
+                "key": "prompt"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/menus/servers/servers.json",
+                "path": "client/media/interface/menus/servers/",
+                "key": "servers"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/menus/start/start.json",
+                "path": "client/media/interface/menus/start/",
+                "key": "start"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": true
+    }
+}

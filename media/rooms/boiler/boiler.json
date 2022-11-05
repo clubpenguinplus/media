@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "boiler-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1802,
+				"h": 982
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "cabinet",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 265,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 19,
+						"w": 231,
+						"h": 217
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 231,
+						"h": 217
+					}
+				},
+				{
+					"filename": "smoke0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 136
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1,
+						"w": 42,
+						"h": 136
+					}
+				},
+				{
+					"filename": "smoke0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 42,
+						"h": 134
+					},
+					"frame": {
+						"x": 1756,
+						"y": 139,
+						"w": 42,
+						"h": 134
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 398
+					},
+					"frame": {
+						"x": 1523,
+						"y": 220,
+						"w": 176,
+						"h": 398
+					}
+				},
+				{
+					"filename": "drawer0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 70
+					},
+					"frame": {
+						"x": 1701,
+						"y": 275,
+						"w": 100,
+						"h": 70
+					}
+				},
+				{
+					"filename": "drawer0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 67
+					},
+					"frame": {
+						"x": 1701,
+						"y": 347,
+						"w": 98,
+						"h": 67
+					}
+				},
+				{
+					"filename": "drawer0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 67
+					},
+					"frame": {
+						"x": 1701,
+						"y": 347,
+						"w": 98,
+						"h": 67
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 398
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 361
+					},
+					"frame": {
+						"x": 1523,
+						"y": 620,
+						"w": 176,
+						"h": 361
+					}
+				},
+				{
+					"filename": "drawer0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 63
+					},
+					"frame": {
+						"x": 1701,
+						"y": 416,
+						"w": 95,
+						"h": 63
+					}
+				},
+				{
+					"filename": "drawer0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 63
+					},
+					"frame": {
+						"x": 1701,
+						"y": 481,
+						"w": 95,
+						"h": 63
+					}
+				},
+				{
+					"filename": "drawer0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 59
+					},
+					"frame": {
+						"x": 1701,
+						"y": 546,
+						"w": 91,
+						"h": 59
+					}
+				},
+				{
+					"filename": "drawer0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 59
+					},
+					"frame": {
+						"x": 1701,
+						"y": 546,
+						"w": 91,
+						"h": 59
+					}
+				},
+				{
+					"filename": "drawer0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 55
+					},
+					"frame": {
+						"x": 1701,
+						"y": 607,
+						"w": 88,
+						"h": 55
+					}
+				},
+				{
+					"filename": "drawer0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 55
+					},
+					"frame": {
+						"x": 1701,
+						"y": 607,
+						"w": 88,
+						"h": 55
+					}
+				},
+				{
+					"filename": "smoke0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 42,
+						"h": 116
+					},
+					"frame": {
+						"x": 1701,
+						"y": 664,
+						"w": 42,
+						"h": 116
+					}
+				},
+				{
+					"filename": "smoke0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 42,
+						"h": 105
+					},
+					"frame": {
+						"x": 1745,
+						"y": 664,
+						"w": 42,
+						"h": 105
+					}
+				},
+				{
+					"filename": "smoke0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 42,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 41,
+						"h": 125
+					},
+					"frame": {
+						"x": 1745,
+						"y": 771,
+						"w": 41,
+						"h": 125
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:92b06d2099166ffa67f522028ea84272:f38cb8ac1107fe666e5956f2ab36ad62:ac342a251eedbfbca065eea48075106d$"
+	}
+}

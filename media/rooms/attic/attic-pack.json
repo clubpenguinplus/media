@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "client/media/rooms/attic/attic.json",
+                "path": "client/media/rooms/attic",
+                "key": "attic"
+            },
+            {
+                "url": "client/media/rooms/attic/attic-anims.json",
+                "type": "animation",
+                "key": "attic-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

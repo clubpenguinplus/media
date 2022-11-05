@@ -1,0 +1,10 @@
+scripts/client/clubpenguinplus.js
+*.bak
+*.zip
+*.DS_Store
+*.fla
+*.as
+*.html
+media/crumbs/en
+media/crumbs/pt
+media/crumbs/es

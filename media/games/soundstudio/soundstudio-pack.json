@@ -1,0 +1,899 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_1.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_1"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_10.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_10"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_11.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_11"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_12.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_12"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_13.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_13"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_14.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_14"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_15.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_15"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_16.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_16"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_17.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_17"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_18.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_18"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_19.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_19"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_2.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_2"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_20.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_20"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_21.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_21"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_22.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_22"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_23.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_23"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_24.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_24"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_25.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_25"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_3.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_3"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_4.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_4"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_5.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_5"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_6.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_6"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_7.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_7"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_8.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_8"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dance_9.mp3"
+                ],
+                "type": "audio",
+                "key": "dance_9"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_1.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_1"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_10.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_10"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_11.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_11"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_12.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_12"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_13.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_13"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_14.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_14"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_15.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_15"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_16.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_16"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_17.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_17"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_18.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_18"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_19.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_19"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_2.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_2"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_20.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_20"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_21.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_21"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_22.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_22"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_23.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_23"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_24.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_24"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_25.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_25"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_3.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_3"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_4.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_4"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_5.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_5"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_6.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_6"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_7.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_7"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_8.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_8"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/dubstep_9.mp3"
+                ],
+                "type": "audio",
+                "key": "dubstep_9"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_1.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_1"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_10.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_10"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_11.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_11"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_12.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_12"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_13.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_13"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_14.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_14"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_15.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_15"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_16.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_16"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_17.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_17"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_18.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_18"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_19.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_19"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_2.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_2"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_20.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_20"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_21.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_21"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_22.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_22"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_23.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_23"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_24.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_24"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_25.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_25"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_3.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_3"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_4.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_4"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_5.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_5"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_6.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_6"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_7.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_7"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_8.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_8"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/pop_9.mp3"
+                ],
+                "type": "audio",
+                "key": "pop_9"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_1.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_1"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_10.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_10"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_11.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_11"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_12.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_12"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_13.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_13"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_14.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_14"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_15.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_15"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_16.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_16"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_17.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_17"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_18.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_18"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_19.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_19"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_2.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_2"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_20.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_20"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_21.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_21"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_22.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_22"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_23.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_23"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_24.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_24"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_25.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_25"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_3.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_3"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_4.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_4"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_5.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_5"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_6.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_6"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_7.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_7"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_8.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_8"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/rock_9.mp3"
+                ],
+                "type": "audio",
+                "key": "rock_9"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/games/soundstudio/soundstudio.json",
+                "path": "client/media/games/soundstudio",
+                "key": "soundstudio"
+            },
+            {
+                "url": "client/media/games/soundstudio/soundstudio-anims.json",
+                "type": "animation",
+                "key": "soundstudio-anims"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_1.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_1"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_10.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_10"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_11.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_11"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_12.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_12"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_13.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_13"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_14.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_14"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_15.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_15"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_16.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_16"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_17.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_17"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_18.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_18"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_19.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_19"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_2.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_2"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_20.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_20"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_21.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_21"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_22.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_22"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_23.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_23"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_24.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_24"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_25.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_25"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_3.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_3"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_4.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_4"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_5.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_5"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_6.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_6"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_7.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_7"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_8.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_8"
+            },
+            {
+                "url": [
+                    "client/media/games/soundstudio/audio/spooky_9.mp3"
+                ],
+                "type": "audio",
+                "key": "spooky_9"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
