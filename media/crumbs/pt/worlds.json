@@ -1,0 +1,24 @@
+{
+    "Login": {
+        "host": "login.cpplus.pw",
+        "login": true,
+        "path": "/"
+    },
+    "Blizzard": {
+        "host": "blizzard.cpplus.pw",
+        "path": "/",
+        "unlock": true
+    },
+    "sandbox": {
+        "Login": {
+            "host": "",
+            "path": "/world/login",
+            "login": true
+        },
+        "Blizzard": {
+            "host": "",
+            "path": "/world/blizzard",
+            "unlock": true
+        }
+    }
+}
