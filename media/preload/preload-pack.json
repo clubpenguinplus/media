@@ -2,55 +2,10 @@
     "section1": {
         "files": [
             {
-                "url": "client/fonts/Arial.woff2",
-                "type": "binary",
-                "key": "Arial"
-            },
-            {
-                "url": "client/fonts/Arial Bold.woff2",
-                "type": "binary",
-                "key": "Arial Bold"
-            },
-            {
-                "url": "client/fonts/Arial Narrow.woff2",
-                "type": "binary",
-                "key": "Arial Narrow"
-            },
-            {
-                "url": "client/fonts/Arial Narrow Bold.woff2",
-                "type": "binary",
-                "key": "Arial Narrow Bold"
-            },
-            {
-                "url": "client/fonts/Asterisk.woff2",
-                "type": "binary",
-                "key": "Asterisk"
-            },
-            {
                 "type": "multiatlas",
                 "url": "client/media/interface/windows/prompt/banning.json",
                 "path": "client/media/interface/windows/prompt",
                 "key": "banning"
-            },
-            {
-                "url": "client/fonts/Burbank Small Bold.woff2",
-                "type": "binary",
-                "key": "Burbank Small Bold"
-            },
-            {
-                "url": "client/fonts/Burbank Small Medium.woff2",
-                "type": "binary",
-                "key": "Burbank Small Medium"
-            },
-            {
-                "url": "client/fonts/CCComicrazy-Roman.woff2",
-                "type": "binary",
-                "key": "CCComicrazy-Roman"
-            },
-            {
-                "url": "client/fonts/CCFaceFront Bold Italic.woff2",
-                "type": "binary",
-                "key": "CCFaceFront Bold Italic"
             },
             {
                 "url": "client/media/crumbs/en.json",
