@@ -205,6 +205,13 @@
 	"create-account-created": "Awesome! Your account has been created. Check your email for a link to activate your account.",
 	"create-account-created-parent": "Awesome! Your account has been created. We've sent your parent or guardian an email with a link to activate your account.",
 
+	"registerKey": "REGISTER YOUR BETA KEY",
+	"betaKey": "Beta Key:",
+	"register": "Register",
+	"registering": "Registering...",
+	"registerKeySuccess": "You now have access to the beta!",
+	"registerKeyFail": "Something went wrong. Please check your key, and make sure an account with that username exists.",
+
 	"moderator-body": "If someone is breaking the rules, click on their penguin, then click the 'M' to report them to a moderator. You can also click on the skull to ignore them",
 	"kick-header": "A moderator has removed you from the server.",
 	"kick-body": "Please remember to follow the Club Penguin Plus rules.",
