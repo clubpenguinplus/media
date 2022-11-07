@@ -284,6 +284,11 @@
 		"40": "Only game moderators can access the mod panel!",
 		"41": "You logged in from another location!",
 		"42": "A moderator has removed you from the server.\nPlease make sure to follow the rules!",
-		"43": "Club Penguin Plus is currently in a closed beta. You must have a beta key to access the game. Please join the Discord server for more information."
+		"43": "Club Penguin Plus is currently in a closed beta. You must have a beta key to access the game. Please join the Discord server for more information.",
+		"44": "Your password cannot include your username",
+		"45": "Sorry, but that doesn't look like a valid email address.",
+		"46": "Sorry, but that email address is too long.",
+		"47": "Sorry, but you cannot use an email alias.",
+		"48": "Sorry, but your username must contain only letters, numbers, and spaces."
 	}
 }
