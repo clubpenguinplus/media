@@ -283,6 +283,7 @@
 		"39": "Authentication failed, please try again.",
 		"40": "Only game moderators can access the mod panel!",
 		"41": "You logged in from another location!",
-		"42": "A moderator has removed you from the server.\nPlease make sure to follow the rules!"
+		"42": "A moderator has removed you from the server.\nPlease make sure to follow the rules!",
+		"43": "Club Penguin Plus is currently in a closed beta. You must have a beta key to access the game. Please join the Discord server for more information."
 	}
 }
