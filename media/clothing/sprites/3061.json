@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "3061-0.png",
+			"image": "3061-0.webp",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
@@ -8244,7 +8244,7 @@
 			]
 		},
 		{
-			"image": "3061-1.png",
+			"image": "3061-1.webp",
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
