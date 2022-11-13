@@ -6,12 +6,6 @@
             "frames": [
                 {
                     "key": "agentlobby",
-                    "frame": "changechannel0001",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
                     "frame": "changechannel0002",
                     "duration": 0,
                     "keyframe": false
