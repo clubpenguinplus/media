@@ -11,6 +11,11 @@
                 "url": "client/media/rooms/attic/attic-anims.json",
                 "type": "animation",
                 "key": "attic-anims"
+            },
+            {
+                "url": "client/media/rooms/attic/attic-physics.json",
+                "type": "json",
+                "key": "attic-physics"
             }
         ]
     },

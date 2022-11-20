@@ -3,19 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "client/media/rooms/mall/mall.json",
-                "path": "client/media/rooms/mall",
-                "key": "mall"
+                "url": "client/media/rooms/boxdimension/boxdimension.json",
+                "path": "client/media/rooms/boxdimension",
+                "key": "boxdimension"
             },
             {
-                "url": "client/media/rooms/mall/mall-anims.json",
-                "type": "animation",
-                "key": "mall-anims"
-            },
-            {
-                "url": "client/media/rooms/mall/mall-physics.json",
+                "url": "client/media/rooms/boxdimension/boxdimension-physics.json",
                 "type": "json",
-                "key": "mall-physics"
+                "key": "boxdimension-physics"
             }
         ]
     },
