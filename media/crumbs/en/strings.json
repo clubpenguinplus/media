@@ -201,6 +201,7 @@
 	"create-choose-email":  "Great! Now, enter your email address. We'll send you a link to activate your account.",
 	"create-choose-email-parent": "Great! Now, ask your parent or guardian to enter their email address. We'll send them a link to activate your account.",
 	"create-email-invalid": "Sorry, but that doesn't look like a valid email address.",
+	"create-unhandled-error": "Sorry, but there was an error creating your account. Please try again later. If this problem persists, please contact support.",
 	"create-email-taken": "Sorry, but that email address is already in use.",
 	"create-account-created": "Awesome! Your account has been created. Check your email for a link to activate your account.",
 	"create-account-created-parent": "Awesome! Your account has been created. We've sent your parent or guardian an email with a link to activate your account.",
