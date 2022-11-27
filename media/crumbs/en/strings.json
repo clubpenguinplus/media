@@ -290,6 +290,7 @@
 		"45": "Sorry, but that doesn't look like a valid email address.",
 		"46": "Sorry, but that email address is too long.",
 		"47": "Sorry, but you cannot use an email alias.",
-		"48": "Sorry, but your username must contain only letters, numbers, and spaces."
+		"48": "Sorry, but your username must contain only letters, numbers, and spaces.",
+		"49": "Your account has not previously logged in from this device. Please check your email for a link to verify this login location."
 	}
 }
