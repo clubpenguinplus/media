@@ -3,9 +3,9 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "client/media/interface/catalogs/clothing/Sep2005.json",
+                "url": "client/media/interface/catalogs/clothing/jan22clothing.json",
                 "path": "client/media/interface/catalogs/clothing",
-                "key": "Sep2005"
+                "key": "jan22clothing"
             }
         ]
     },

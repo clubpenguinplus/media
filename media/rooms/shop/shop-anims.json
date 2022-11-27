@@ -1,7 +1,7 @@
 {
     "anims": [
         {
-            "key": "clothesspeakers",
+            "key": "shop-clothesspeakers",
             "type": "frame",
             "frames": [
                 {
@@ -70,7 +70,7 @@
             "repeat": -1
         },
         {
-            "key": "spinner",
+            "key": "shop-spinner",
             "type": "frame",
             "frames": [
                 {
