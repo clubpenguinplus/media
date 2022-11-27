@@ -111,6 +111,8 @@
 	
 	"arcade": "Arcade Games",
 	
+	"mixmusic": "Mix Music",
+	
 	"aquagrabber": "Aqua Grabber",
 	"astrobarrier": "Astro Barrier",
     "beancounters": "Bean Counters",
@@ -240,6 +242,8 @@
 	"claimGiveaway": "Claim Giveaway",
 	"warnPlayer": "Warn Player",
 	"kickPlayer": "Kick Player",
+	"editIgloo": "Edit Igloo",
+	"openIgloo": "Open Igloo",
 	
 	"errors":{
 		"0": "You need more coins",
