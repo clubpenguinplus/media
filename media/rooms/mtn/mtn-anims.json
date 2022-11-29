@@ -1,7 +1,7 @@
 {
     "anims": [
         {
-            "key": "skichairtopfront",
+            "key": "mtn-skichairtopfront",
             "type": "frame",
             "frames": [
                 {
@@ -1420,7 +1420,7 @@
             "repeat": -1
         },
         {
-            "key": "skichairtopback",
+            "key": "mtn-skichairtopback",
             "type": "frame",
             "frames": [
                 {
@@ -2839,7 +2839,7 @@
             "repeat": -1
         },
         {
-            "key": "skichairfront",
+            "key": "mtn-skichairfront",
             "type": "frame",
             "frames": [
                 {
@@ -4258,7 +4258,7 @@
             "repeat": -1
         },
         {
-            "key": "skichairback",
+            "key": "mtn-skichairback",
             "type": "frame",
             "frames": [
                 {
@@ -5677,7 +5677,7 @@
             "repeat": -1
         },
         {
-            "key": "skicat",
+            "key": "mtn-skicat",
             "type": "frame",
             "frames": [
                 {
