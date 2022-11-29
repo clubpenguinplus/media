@@ -598,7 +598,7 @@
             "repeat": -1
         },
         {
-            "key": "arcade-game/grey-light",
+            "key": "arcade-game-grey-light",
             "type": "frame",
             "frames": [
                 {
@@ -673,7 +673,7 @@
             "repeat": -1
         },
         {
-            "key": "arcade-game/white-light",
+            "key": "arcade-game-white-light",
             "type": "frame",
             "frames": [
                 {
