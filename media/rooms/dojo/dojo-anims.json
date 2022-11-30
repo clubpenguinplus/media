@@ -1,0 +1,567 @@
+{
+    "anims": [
+        {
+            "key": "dojo-potmagic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potmagic0060",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "dojo-potdots",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dojo",
+                    "frame": "potdots0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojo",
+                    "frame": "potdots0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
