@@ -16,6 +16,13 @@
                 "url": "client/media/rooms/pet/pet-physics.json",
                 "type": "json",
                 "key": "pet-physics"
+            },
+            {
+                "url": [
+                    "client/media/rooms/pet/puffles.webm"
+                ],
+                "type": "video",
+                "key": "pet-puffles-video"
             }
         ]
     },
