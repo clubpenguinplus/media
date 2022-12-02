@@ -2,6 +2,17 @@
     "section1": {
         "files": [
             {
+                "url": "client/media/interface/catalogs/clothing/9213.webp",
+                "type": "image",
+                "key": "9213"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/catalogs/clothing/constant.json",
+                "path": "client/media/interface/catalogs/clothing",
+                "key": "constant"
+            },
+            {
                 "type": "multiatlas",
                 "url": "client/media/interface/catalogs/clothing/jan22clothing.json",
                 "path": "client/media/interface/catalogs/clothing",
