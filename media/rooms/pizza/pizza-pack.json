@@ -8,6 +8,11 @@
                 "key": "pizza"
             },
             {
+                "url": "client/media/rooms/pizza/pizza-anims.json",
+                "type": "animation",
+                "key": "pizza-anims"
+            },
+            {
                 "url": "client/media/rooms/pizza/pizza-physics.json",
                 "type": "json",
                 "key": "pizza-physics"

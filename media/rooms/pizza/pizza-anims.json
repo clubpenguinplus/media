@@ -1,0 +1,223 @@
+{
+    "anims": [
+        {
+            "key": "pizza-cashregdown",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregdown0015",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "pizza-cashregover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza",
+                    "frame": "pizzacashregover0018",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

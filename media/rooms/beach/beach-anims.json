@@ -1,7 +1,7 @@
 {
     "anims": [
         {
-            "key": "bucket1",
+            "key": "beach-bucket1",
             "type": "frame",
             "frames": [
                 {
@@ -429,7 +429,7 @@
             "skipMissedFrames": true
         },
         {
-            "key": "bucket2",
+            "key": "beach-bucket2",
             "type": "frame",
             "frames": [
                 {
@@ -839,7 +839,7 @@
             "skipMissedFrames": true
         },
         {
-            "key": "bucket3",
+            "key": "beach-bucket3",
             "type": "frame",
             "frames": [
                 {
@@ -1285,7 +1285,7 @@
             "skipMissedFrames": true
         },
         {
-            "key": "bucket4",
+            "key": "beach-bucket4",
             "type": "frame",
             "frames": [
                 {
@@ -1647,7 +1647,7 @@
             "skipMissedFrames": true
         },
         {
-            "key": "bucket5",
+            "key": "beach-bucket5",
             "type": "frame",
             "frames": [
                 {
