@@ -11,6 +11,27 @@
                 "url": "client/media/rooms/boxdimension/boxdimension-physics.json",
                 "type": "json",
                 "key": "boxdimension-physics"
+            },
+            {
+                "url": [
+                    "client/media/rooms/boxdimension/frontboxes.webm"
+                ],
+                "type": "video",
+                "key": "boxdimension-frontboxes"
+            },
+            {
+                "url": [
+                    "client/media/rooms/boxdimension/leftboxes.webm"
+                ],
+                "type": "video",
+                "key": "boxdimension-leftboxes"
+            },
+            {
+                "url": [
+                    "client/media/rooms/boxdimension/portal.webm"
+                ],
+                "type": "video",
+                "key": "boxdimension-portal"
             }
         ]
     },
