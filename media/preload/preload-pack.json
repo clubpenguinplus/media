@@ -42,6 +42,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "client/media/interface/game/iglooedit/iglooedit-new.json",
+                "path": "client/media/interface/game/iglooedit",
+                "key": "iglooedit-new"
+            },
+            {
+                "type": "multiatlas",
                 "url": "client/media/interface/menus/login/login.json",
                 "path": "client/media/interface/menus/login/",
                 "key": "login"
