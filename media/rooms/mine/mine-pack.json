@@ -8,6 +8,11 @@
                 "key": "mine"
             },
             {
+                "url": "client/media/rooms/mine/mine-anims.json",
+                "type": "animation",
+                "key": "mine-anims"
+            },
+            {
                 "url": "client/media/rooms/mine/mine-physics.json",
                 "type": "json",
                 "key": "mine-physics"
