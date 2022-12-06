@@ -17596,11 +17596,47 @@
 					}
 				}
 			]
+		},
+		{
+			"image": "main-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1520,
+				"h": 960
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "backgroun",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
 		}
 	],
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:24488e1adf1a5347d5a9197fffa7d57f:fbd505a391d033318cdfe0158adbc0d9:c3b73c3af38497525294f1819cd605d7$"
+		"smartupdate": "$TexturePacker:SmartUpdate:bd2f1fa2f8e6dbf1f491b118e3fc3f0d:f3dffb28c21685e33beae8044e64c3aa:e0119f692bf8e6d2982ed2b466d0f657$"
 	}
 }

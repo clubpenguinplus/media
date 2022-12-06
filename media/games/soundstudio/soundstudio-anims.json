@@ -399,6 +399,78 @@
                     "frame": "waveforms/eight0066",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/eight0078",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -694,60 +766,6 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/eighteen0048",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eighteen0057",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -1047,114 +1065,6 @@
                     "frame": "waveforms/eleven0048",
                     "duration": 0,
                     "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0057",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0058",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0059",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0060",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0061",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0062",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0063",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0064",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0065",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/eleven0066",
-                    "duration": 0,
-                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -1450,60 +1360,6 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/fifteen0048",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/fifteen0057",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -1855,6 +1711,132 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/five0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/five0078",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -2559,186 +2541,6 @@
                     "frame": "waveforms/four0048",
                     "duration": 0,
                     "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0057",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0058",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0059",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0060",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0061",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0062",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0063",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0064",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0065",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0066",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0067",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0068",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0069",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0070",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0071",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0072",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0073",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0074",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0075",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0076",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0077",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/four0078",
-                    "duration": 0,
-                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -3034,6 +2836,186 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/fourteen0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/fourteen0078",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -3441,78 +3423,6 @@
                     "frame": "waveforms/nine0066",
                     "duration": 0,
                     "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0067",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0068",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0069",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0070",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0071",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0072",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0073",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0074",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0075",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0076",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0077",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/nine0078",
-                    "duration": 0,
-                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -3808,6 +3718,60 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/nineteen0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/nineteen0057",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -4215,6 +4179,78 @@
                     "frame": "waveforms/one0066",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/one0078",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -4510,186 +4546,6 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/seven0048",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0057",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0058",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0059",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0060",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0061",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0062",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0063",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0064",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0065",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0066",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0067",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0068",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0069",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0070",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0071",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0072",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0073",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0074",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0075",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0076",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0077",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/seven0078",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -4989,6 +4845,60 @@
                     "frame": "waveforms/seventeen0048",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/seventeen0057",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -5284,6 +5194,60 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/six0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/six0057",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -5934,6 +5898,186 @@
                     "frame": "waveforms/ten0048",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/ten0078",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -6229,186 +6373,6 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/thirteen0048",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0057",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0058",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0059",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0060",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0061",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0062",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0063",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0064",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0065",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0066",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0067",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0068",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0069",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0070",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0071",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0072",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0073",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0074",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0075",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0076",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0077",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "soundstudio",
-                    "frame": "waveforms/thirteen0078",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -10488,6 +10452,114 @@
                     "frame": "waveforms/three0048",
                     "duration": 0,
                     "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/three0066",
+                    "duration": 0,
+                    "keyframe": false
                 }
             ],
             "frameRate": 24,
@@ -10783,6 +10855,114 @@
                 {
                     "key": "soundstudio",
                     "frame": "waveforms/twelve0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "soundstudio",
+                    "frame": "waveforms/twelve0066",
                     "duration": 0,
                     "keyframe": false
                 }
