@@ -1,7 +1,7 @@
 {
     "anims": [
         {
-            "key": "drawer_open",
+            "key": "boiler-drawer_open",
             "type": "frame",
             "frames": [
                 {
@@ -39,7 +39,7 @@
             "skipMissedFrames": true
         },
         {
-            "key": "drawer_close",
+            "key": "boiler-drawer_close",
             "type": "frame",
             "frames": [
                 {

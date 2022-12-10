@@ -284,7 +284,7 @@
 	"mask (2)": {
 		"type": "fromPhysicsEditor",
 		"label": "mask (2)",
-		"isStatic": false,
+		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
 		"friction": 0.10000000149011612,

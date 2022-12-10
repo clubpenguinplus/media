@@ -167,7 +167,7 @@
 	"waterfall": {
 		"type": "fromPhysicsEditor",
 		"label": "waterfall",
-		"isStatic": false,
+		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
 		"friction": 0.10000000149011612,
@@ -198,7 +198,7 @@
 	"phone": {
 		"type": "fromPhysicsEditor",
 		"label": "phone",
-		"isStatic": false,
+		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
 		"friction": 0.10000000149011612,

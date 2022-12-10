@@ -3,7 +3,7 @@
 	"dance": {
 		"type": "fromPhysicsEditor",
 		"label": "dance",
-		"isStatic": false,
+		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
 		"friction": 0.10000000149011612,
@@ -27,7 +27,7 @@
 	"block": {
 		"type": "fromPhysicsEditor",
 		"label": "block",
-		"isStatic": false,
+		"isStatic": true,
 		"density": 0.1,
 		"restitution": 0,
 		"friction": 0.1,
@@ -65,7 +65,7 @@
 	"cave": {
 		"type": "fromPhysicsEditor",
 		"label": "cave",
-		"isStatic": false,
+		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
 		"friction": 0.10000000149011612,
