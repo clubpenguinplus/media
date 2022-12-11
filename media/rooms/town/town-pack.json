@@ -3,6 +3,12 @@
         "files": [
             {
                 "type": "multiatlas",
+                "url": "client/media/rooms/town/parties/merrywalrus.json",
+                "path": "client/media/rooms/town/parties",
+                "key": "town-merrywalrus"
+            },
+            {
+                "type": "multiatlas",
                 "url": "client/media/rooms/town/town.json",
                 "path": "client/media/rooms/town",
                 "key": "town"
