@@ -2960,321 +2960,6 @@
             "repeat": -1
         },
         {
-            "key": "agentlobby-phonebox_reflection",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0001",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0002",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0003",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0004",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0005",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0006",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0007",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0008",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0009",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0010",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0011",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0012",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0013",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0014",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0015",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0016",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0017",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0018",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0019",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0020",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0021",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0022",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0023",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0024",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0025",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0026",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0027",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0028",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0029",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0030",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0031",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0032",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0033",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0034",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0035",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0036",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0037",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0038",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0039",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0040",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0041",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0042",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0043",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0044",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0045",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0046",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0047",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0048",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "phonebox_reflection0051",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
             "key": "agentlobby-phonebox",
             "type": "frame",
             "frames": [
@@ -3983,1656 +3668,306 @@
             "repeat": -1
         },
         {
-            "key": "agentlobby-stairsanim",
+            "key": "agentlobby-droplets",
             "type": "frame",
             "frames": [
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0001",
+                    "frame": "droplets0005",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0002",
+                    "frame": "droplets0006",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0003",
+                    "frame": "droplets0007",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0004",
+                    "frame": "droplets0008",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0005",
+                    "frame": "droplets0009",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0006",
+                    "frame": "droplets0010",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0007",
+                    "frame": "droplets0011",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0008",
+                    "frame": "droplets0012",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0009",
+                    "frame": "droplets0013",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0010",
+                    "frame": "droplets0014",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0011",
+                    "frame": "droplets0015",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0012",
+                    "frame": "droplets0016",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0013",
+                    "frame": "droplets0017",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0014",
+                    "frame": "droplets0018",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0015",
+                    "frame": "droplets0019",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0016",
+                    "frame": "droplets0020",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0017",
+                    "frame": "droplets0021",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0018",
+                    "frame": "droplets0022",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0019",
+                    "frame": "droplets0023",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0020",
+                    "frame": "droplets0024",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0021",
+                    "frame": "droplets0025",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0022",
+                    "frame": "droplets0026",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0023",
+                    "frame": "droplets0027",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0024",
+                    "frame": "droplets0028",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0025",
+                    "frame": "droplets0029",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0026",
+                    "frame": "droplets0030",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0027",
+                    "frame": "droplets0031",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0028",
+                    "frame": "droplets0032",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0029",
+                    "frame": "droplets0033",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0030",
+                    "frame": "droplets0034",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0031",
+                    "frame": "droplets0035",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0032",
+                    "frame": "droplets0036",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0033",
+                    "frame": "droplets0037",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0034",
+                    "frame": "droplets0038",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0035",
+                    "frame": "droplets0039",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0036",
+                    "frame": "droplets0040",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0037",
+                    "frame": "droplets0041",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0038",
+                    "frame": "droplets0042",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0039",
+                    "frame": "droplets0043",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0040",
+                    "frame": "droplets0044",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0041",
+                    "frame": "droplets0045",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0042",
+                    "frame": "droplets0046",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0043",
+                    "frame": "droplets0047",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0044",
+                    "frame": "droplets0048",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0045",
+                    "frame": "droplets0049",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0046",
+                    "frame": "droplets0050",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0047",
+                    "frame": "droplets0051",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0048",
+                    "frame": "droplets0052",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0049",
+                    "frame": "droplets0053",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "stairsanim0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0057",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0058",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0059",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0060",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0061",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0062",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0063",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0064",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0065",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0066",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0067",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0068",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0069",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0070",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0071",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0072",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0073",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0074",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0075",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0076",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0077",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0078",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0079",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0080",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0081",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0082",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0083",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0084",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0085",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0086",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0087",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0088",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0089",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0090",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0091",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0092",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0093",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0094",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0095",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0096",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0097",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0098",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0099",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0100",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0101",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0102",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0103",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0104",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0105",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0106",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0107",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0108",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0109",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0110",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0111",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0112",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0113",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0114",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0115",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0116",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0117",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0118",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0119",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0120",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0121",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0122",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0123",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0124",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0125",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0126",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0127",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0128",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0129",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0130",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0131",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0132",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0133",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0134",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0135",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0136",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0137",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0138",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0139",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0140",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0141",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0142",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0143",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0144",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0145",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0146",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0147",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0148",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0149",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0150",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0151",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0152",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0153",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0154",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0155",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0156",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0157",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0158",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0159",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0160",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0161",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0162",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0163",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0164",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0165",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0166",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0167",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0168",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0169",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0170",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0171",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0172",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0173",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0174",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0175",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0176",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0177",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0178",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0179",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0180",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0181",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0182",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0183",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0184",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0185",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0186",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0187",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0188",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0189",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0190",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0191",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0192",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0193",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0194",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0195",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0196",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0197",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0198",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0199",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0200",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0201",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0202",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0203",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0204",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0205",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0206",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0207",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0208",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0209",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0210",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0211",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0212",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0213",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0214",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0215",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0216",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0217",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0218",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0219",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0220",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0221",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0222",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0223",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0224",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0225",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0226",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0227",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0228",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0229",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0230",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0231",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0232",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0233",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0234",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0235",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0236",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0237",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0238",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0239",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0240",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0241",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0242",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0243",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0244",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0245",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0246",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0247",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0248",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0249",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0250",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0251",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0252",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0253",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0254",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0255",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0256",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0257",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0258",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0259",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0260",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0261",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0262",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0263",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0264",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0265",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0266",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0267",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0268",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0269",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0270",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0271",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0272",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0273",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0274",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "stairsanim0275",
+                    "frame": "droplets0054",
                     "duration": 0,
                     "keyframe": false
                 }
@@ -5642,1663 +3977,338 @@
             "repeat": -1
         },
         {
-            "key": "agentlobby-waterfallanim",
+            "key": "agentlobby-epf-close",
             "type": "frame",
             "frames": [
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0001",
+                    "frame": "phonebox_epf_close0001",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0002",
+                    "frame": "phonebox_epf_close0002",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0003",
+                    "frame": "phonebox_epf_close0003",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0004",
+                    "frame": "phonebox_epf_close0004",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0005",
+                    "frame": "phonebox_epf_close0005",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0006",
+                    "frame": "phonebox_epf_close0006",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0007",
+                    "frame": "phonebox_epf_close0007",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0008",
+                    "frame": "phonebox_epf_close0008",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0009",
+                    "frame": "phonebox_epf_close0009",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0010",
+                    "frame": "phonebox_epf_close0010",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0011",
+                    "frame": "phonebox_epf_close0011",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0012",
+                    "frame": "phonebox_epf_close0012",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0013",
+                    "frame": "phonebox_epf_close0013",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0014",
+                    "frame": "phonebox_epf_close0014",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0015",
+                    "frame": "phonebox_epf_close0015",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0016",
+                    "frame": "phonebox_epf_close0016",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0017",
+                    "frame": "phonebox_epf_close0017",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0018",
+                    "frame": "phonebox_epf_close0018",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0019",
+                    "frame": "phonebox_epf_close0019",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "agentlobby",
-                    "frame": "waterfallanim0020",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0021",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0022",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0023",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0024",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0025",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0026",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0027",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0028",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0029",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0030",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0031",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0032",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0033",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0034",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0035",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0036",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0037",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0038",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0039",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0040",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0041",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0042",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0043",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0044",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0045",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0046",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0047",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0048",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0049",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0050",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0051",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0052",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0053",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0054",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0055",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0056",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0057",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0058",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0059",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0060",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0061",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0062",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0063",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0064",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0065",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0066",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0067",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0068",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0069",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0070",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0071",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0072",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0073",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0074",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0075",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0076",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0077",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0078",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0079",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0080",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0081",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0082",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0083",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0084",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0085",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0086",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0087",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0088",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0089",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0090",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0091",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0092",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0093",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0094",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0095",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0096",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0097",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0098",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0099",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0100",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0101",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0102",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0103",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0104",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0105",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0106",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0107",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0108",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0109",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0110",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0111",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0112",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0113",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0114",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0115",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0116",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0117",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0118",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0119",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0120",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0121",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0122",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0123",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0124",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0125",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0126",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0127",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0128",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0129",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0130",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0131",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0132",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0133",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0134",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0135",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0136",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0137",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0138",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0139",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0140",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0141",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0142",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0143",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0144",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0145",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0146",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0147",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0148",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0149",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0150",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0151",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0152",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0153",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0154",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0155",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0156",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0157",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0158",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0159",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0160",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0161",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0162",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0163",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0164",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0165",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0166",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0167",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0168",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0169",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0170",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0171",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0172",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0173",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0174",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0175",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0176",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0177",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0178",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0179",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0180",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0181",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0182",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0183",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0184",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0185",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0186",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0187",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0188",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0189",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0190",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0191",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0192",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0193",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0194",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0195",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0196",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0197",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0198",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0199",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0200",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0201",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0202",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0203",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0204",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0205",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0206",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0207",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0208",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0209",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0210",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0211",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0212",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0213",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0214",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0215",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0216",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0217",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0218",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0219",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0220",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0221",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0222",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0223",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0224",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0225",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0226",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0227",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0228",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0229",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0230",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0231",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0232",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0233",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0234",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0235",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0236",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0237",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0238",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0239",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0240",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0241",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0242",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0243",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0244",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0245",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0246",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0247",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0248",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0249",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0250",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0251",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0252",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0253",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0254",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0255",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0256",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0257",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0258",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0259",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0260",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0261",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0262",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0263",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0264",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0265",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0266",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0267",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0268",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0269",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0270",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0271",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0272",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0273",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0274",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "agentlobby",
-                    "frame": "waterfallanim0275",
+                    "frame": "phonebox_epf_close0020",
                     "duration": 0,
                     "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentlobby-epf-open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentlobby",
+                    "frame": "phonebox_epf_open0033",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
         }
     ],
     "globalTimeScale": 1,

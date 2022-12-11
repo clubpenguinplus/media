@@ -16,6 +16,48 @@
                 "url": "client/media/rooms/agentlobby/agentlobby-physics.json",
                 "type": "json",
                 "key": "agentlobby-physics"
+            },
+            {
+                "url": [
+                    "client/media/rooms/agentlobby/stairs_closing.webm"
+                ],
+                "type": "video",
+                "key": "agentlobby-stairs_closing"
+            },
+            {
+                "url": [
+                    "client/media/rooms/agentlobby/stairs_opening.webm"
+                ],
+                "type": "video",
+                "key": "agentlobby-stairs_opening"
+            },
+            {
+                "url": [
+                    "client/media/rooms/agentlobby/waterfall_closed.webm"
+                ],
+                "type": "video",
+                "key": "agentlobby-waterfall_closed"
+            },
+            {
+                "url": [
+                    "client/media/rooms/agentlobby/waterfall_closing.webm"
+                ],
+                "type": "video",
+                "key": "agentlobby-waterfall_closing"
+            },
+            {
+                "url": [
+                    "client/media/rooms/agentlobby/waterfall_open.webm"
+                ],
+                "type": "video",
+                "key": "agentlobby-waterfall_open"
+            },
+            {
+                "url": [
+                    "client/media/rooms/agentlobby/waterfall_opening.webm"
+                ],
+                "type": "video",
+                "key": "agentlobby-waterfall_opening"
             }
         ]
     },
