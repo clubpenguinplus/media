@@ -510,6 +510,99 @@
             ],
             "frameRate": 24,
             "skipMissedFrames": true
+        },
+        {
+            "key": "mine-candle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "mine",
+                    "frame": "candleflame0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mine",
+                    "frame": "candleflame0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
         }
     ],
     "globalTimeScale": 1,
