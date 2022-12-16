@@ -2,9 +2,10 @@
     "section1": {
         "files": [
             {
-                "url": "client/media/interface/catalogs/music/musiccatalog.webp",
-                "type": "image",
-                "key": "musiccatalog"
+                "type": "multiatlas",
+                "url": "client/media/interface/catalogs/music/music.json",
+                "path": "client/media/interface/catalogs/music",
+                "key": "music"
             }
         ]
     },
