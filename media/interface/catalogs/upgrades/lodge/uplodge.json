@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "uplodge.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1843,
+				"h": 962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "tag-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 145
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 319,
+						"h": 145
+					}
+				},
+				{
+					"filename": "tag-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 145
+					},
+					"frame": {
+						"x": 1523,
+						"y": 148,
+						"w": 319,
+						"h": 145
+					}
+				},
+				{
+					"filename": "tag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 145
+					},
+					"frame": {
+						"x": 1523,
+						"y": 295,
+						"w": 319,
+						"h": 145
+					}
+				},
+				{
+					"filename": "hook",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 80
+					},
+					"frame": {
+						"x": 1523,
+						"y": 442,
+						"w": 111,
+						"h": 80
+					}
+				},
+				{
+					"filename": "exit-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1523,
+						"y": 524,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1581,
+						"y": 524,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1636,
+						"y": 442,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 58,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 46,
+						"h": 35
+					},
+					"frame": {
+						"x": 1523,
+						"y": 582,
+						"w": 46,
+						"h": 35
+					}
+				},
+				{
+					"filename": "coin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 31
+					},
+					"frame": {
+						"x": 1571,
+						"y": 582,
+						"w": 23,
+						"h": 31
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:044533cdc74995b527ff0301cf4f915c:601eb58d760bddd11869244e2834c202:a4172c5e86c858f07a3748a32d872254$"
+	}
+}

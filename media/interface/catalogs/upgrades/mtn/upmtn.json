@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "upmtn.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1832,
+				"h": 909
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pamphlet",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 710,
+						"h": 842
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 710,
+						"h": 842
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 710,
+						"h": 842
+					}
+				},
+				{
+					"filename": "exit-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 59,
+						"y": 845,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exit",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 117,
+						"y": 845,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "300_one",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 56,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 44,
+						"h": 39
+					},
+					"frame": {
+						"x": 175,
+						"y": 845,
+						"w": 44,
+						"h": 39
+					}
+				},
+				{
+					"filename": "coin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 31
+					},
+					"frame": {
+						"x": 221,
+						"y": 845,
+						"w": 23,
+						"h": 31
+					}
+				},
+				{
+					"filename": "upgrades",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 25
+					},
+					"frame": {
+						"x": 221,
+						"y": 878,
+						"w": 227,
+						"h": 25
+					}
+				},
+				{
+					"filename": "greensled",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 811,
+						"h": 520
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 61,
+						"w": 797,
+						"h": 401
+					},
+					"frame": {
+						"x": 713,
+						"y": 1,
+						"w": 797,
+						"h": 401
+					}
+				},
+				{
+					"filename": "tag-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 145
+					},
+					"frame": {
+						"x": 1512,
+						"y": 1,
+						"w": 319,
+						"h": 145
+					}
+				},
+				{
+					"filename": "tag-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 145
+					},
+					"frame": {
+						"x": 1512,
+						"y": 148,
+						"w": 319,
+						"h": 145
+					}
+				},
+				{
+					"filename": "tag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 145
+					},
+					"frame": {
+						"x": 1512,
+						"y": 295,
+						"w": 319,
+						"h": 145
+					}
+				},
+				{
+					"filename": "toboggan",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 307,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 307,
+						"h": 504
+					},
+					"frame": {
+						"x": 713,
+						"y": 404,
+						"w": 307,
+						"h": 504
+					}
+				},
+				{
+					"filename": "pinksled",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 55,
+						"w": 567,
+						"h": 372
+					},
+					"frame": {
+						"x": 1022,
+						"y": 442,
+						"w": 567,
+						"h": 372
+					}
+				},
+				{
+					"filename": "hook",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 80
+					},
+					"frame": {
+						"x": 1022,
+						"y": 816,
+						"w": 111,
+						"h": 80
+					}
+				},
+				{
+					"filename": "frontsnow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 257,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 257,
+						"h": 69
+					},
+					"frame": {
+						"x": 1135,
+						"y": 816,
+						"w": 257,
+						"h": 69
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1a07b080aea97750f2001a5063eff50b:b762167afb6842c74e4673ed3cf34281:b0b8051f3a2ce515dee4e4e9d873d73c$"
+	}
+}
