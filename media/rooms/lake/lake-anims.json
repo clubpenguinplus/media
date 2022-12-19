@@ -924,66 +924,6 @@
             "frames": [
                 {
                     "key": "lake",
-                    "frame": "door0001",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0002",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0003",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0004",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0005",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0006",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0007",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0008",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0009",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
-                    "frame": "door0010",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "lake",
                     "frame": "door0011",
                     "duration": 0,
                     "keyframe": false
@@ -1086,8 +1026,7 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
         },
         {
             "key": "lake-squigglyone",
