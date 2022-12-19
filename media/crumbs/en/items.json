@@ -434,7 +434,7 @@
   "180":{
     "name":"Snare Drum",
     "type":4,
-    "cost":380,
+    "cost":200,
     "member":1
   },
   "181":{
@@ -1376,7 +1376,7 @@
   "343":{
     "name":"Violin",
     "type":6,
-    "cost":450,
+    "cost":300,
     "member":1
   },
   "344":{
@@ -3428,7 +3428,7 @@
   "732":{
     "name":"Microphone",
     "type":6,
-    "cost":250,
+    "cost":300,
     "member":1
   },
   "739":{
