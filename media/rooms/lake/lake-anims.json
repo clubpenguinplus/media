@@ -1,0 +1,1188 @@
+{
+    "anims": [
+        {
+            "key": "lake-rockanimone",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimone0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-rockanimtwo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimtwo0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-rockanimthree",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimthree0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-rockanimfour",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "rockanimfour0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-waterfallone",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfallone0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-waterfalltwo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "waterfalltwo0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-door",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "door0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "door0027",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-squigglyone",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "squigglyone0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglyone0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglyone0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglyone0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglyone0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglyone0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "lake-squigglytwo",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "lake",
+                    "frame": "squigglytwo0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglytwo0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglytwo0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglytwo0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglytwo0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "lake",
+                    "frame": "squigglytwo0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
