@@ -3,9 +3,9 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "client/media/interface/catalogs/costume/costume.json",
+                "url": "client/media/interface/catalogs/costume/stagecat.json",
                 "path": "client/media/interface/catalogs/costume",
-                "key": "costume"
+                "key": "stagecat"
             }
         ]
     },
