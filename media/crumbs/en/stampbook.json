@@ -538,7 +538,7 @@
         "x": 255,
         "y": 120
       },
-      "group": 16,
+      "group": 58,
       "background": {
         "frame": "pagebgs/smoothie",
         "x": 744,
@@ -615,5 +615,5 @@
         "y": 120
       }
     },
-    "enabledPages": ["front", "contents", "events", "characters", "party", "activities", "games", "aqua", "astro", "cart", "fishing", "jpa", "pizzatron", "launch", "rescue", "thinice", "pins"]
+    "enabledPages": ["front", "contents", "events", "characters", "party", "activities", "games", "aqua", "astro", "cart", "fishing", "jpa", "pizzatron", "launch", "rescue", "smoothie", "thinice", "pins"]
 }

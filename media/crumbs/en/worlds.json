@@ -2,22 +2,22 @@
     "Login": {
         "host": "login.cpplus.pw",
         "login": true,
-        "path": "/"
+        "path": "/socket/"
     },
     "Blizzard": {
         "host": "blizzard.cpplus.pw",
-        "path": "/",
+        "path": "/socket/",
         "unlock": true
     },
     "sandbox": {
         "Login": {
             "host": "",
-            "path": "/world/login",
+            "path": "/world/login/socket/",
             "login": true
         },
         "Blizzard": {
             "host": "",
-            "path": "/world/blizzard",
+            "path": "/world/blizzard/socket/",
             "unlock": true
         }
     }
