@@ -1,0 +1,737 @@
+{
+	"textures": [
+		{
+			"image": "winter-sports-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page10body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "page11body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-sports-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page12body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "page13body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-sports-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page1body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "page2body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-sports-3.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page3body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "page4body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-sports-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page5body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "page6body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-sports-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page7body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "page8body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-sports-6.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1671,
+				"h": 1661
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "page9body",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "secretholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 614,
+						"h": 614
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 614,
+						"h": 614
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 614,
+						"h": 614
+					}
+				},
+				{
+					"filename": "secrettext",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 606,
+						"h": 227
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 606,
+						"h": 227
+					},
+					"frame": {
+						"x": 617,
+						"y": 963,
+						"w": 606,
+						"h": 227
+					}
+				},
+				{
+					"filename": "secretwrap",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 445,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 445,
+						"h": 445
+					},
+					"frame": {
+						"x": 1225,
+						"y": 963,
+						"w": 445,
+						"h": 445
+					}
+				},
+				{
+					"filename": "sec_goal.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 42,
+						"w": 294,
+						"h": 217
+					},
+					"frame": {
+						"x": 617,
+						"y": 1192,
+						"w": 294,
+						"h": 217
+					}
+				},
+				{
+					"filename": "sec_free.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 20,
+						"w": 293,
+						"h": 260
+					},
+					"frame": {
+						"x": 913,
+						"y": 1192,
+						"w": 293,
+						"h": 260
+					}
+				},
+				{
+					"filename": "sec_snowy.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 66,
+						"w": 281,
+						"h": 195
+					},
+					"frame": {
+						"x": 617,
+						"y": 1411,
+						"w": 281,
+						"h": 195
+					}
+				},
+				{
+					"filename": "sec_goalhel.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 21,
+						"w": 224,
+						"h": 250
+					},
+					"frame": {
+						"x": 1208,
+						"y": 1410,
+						"w": 224,
+						"h": 250
+					}
+				},
+				{
+					"filename": "coinholder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 206,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 206,
+						"h": 120
+					},
+					"frame": {
+						"x": 900,
+						"y": 1454,
+						"w": 206,
+						"h": 120
+					}
+				},
+				{
+					"filename": "backpage-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 89,
+						"h": 191
+					},
+					"frame": {
+						"x": 1108,
+						"y": 1454,
+						"w": 89,
+						"h": 191
+					}
+				},
+				{
+					"filename": "tag-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 155,
+						"h": 42
+					},
+					"frame": {
+						"x": 900,
+						"y": 1576,
+						"w": 155,
+						"h": 42
+					}
+				},
+				{
+					"filename": "nextpage-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 103,
+						"h": 225
+					},
+					"frame": {
+						"x": 1434,
+						"y": 1410,
+						"w": 103,
+						"h": 225
+					}
+				},
+				{
+					"filename": "backpage-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 225
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1410,
+						"w": 102,
+						"h": 225
+					}
+				},
+				{
+					"filename": "tag-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 155,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 1579,
+						"w": 155,
+						"h": 42
+					}
+				},
+				{
+					"filename": "tag",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 155,
+						"h": 42
+					},
+					"frame": {
+						"x": 158,
+						"y": 1579,
+						"w": 155,
+						"h": 42
+					}
+				},
+				{
+					"filename": "exit",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 315,
+						"y": 1579,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "backpage",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 121,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 33,
+						"w": 89,
+						"h": 191
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 89,
+						"h": 191
+					}
+				},
+				{
+					"filename": "nextpage-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 33,
+						"w": 89,
+						"h": 191
+					},
+					"frame": {
+						"x": 1523,
+						"y": 194,
+						"w": 89,
+						"h": 191
+					}
+				},
+				{
+					"filename": "nextpage",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 225
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 33,
+						"w": 89,
+						"h": 191
+					},
+					"frame": {
+						"x": 1523,
+						"y": 387,
+						"w": 89,
+						"h": 191
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:13db03b5c28fa0f8e5b9bf41aeac3ed5:8998e1640e846a8c7db9748403c05ef5:7a2508ec56430503b52bb6bd23eb412b$"
+	}
+}

@@ -3,9 +3,9 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "client/media/interface/catalogs/sports/jul22-sport.json",
+                "url": "client/media/interface/catalogs/sports/winter-sports.json",
                 "path": "client/media/interface/catalogs/sports",
-                "key": "jul22-sport"
+                "key": "winter-sports"
             }
         ]
     },
