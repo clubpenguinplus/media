@@ -11,6 +11,12 @@
                 "url": "client/media/rooms/rink/rink-physics.json",
                 "type": "json",
                 "key": "rink-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/rooms/rink/winter.json",
+                "path": "client/media/rooms/rink",
+                "key": "winter"
             }
         ]
     },
