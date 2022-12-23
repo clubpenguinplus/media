@@ -615,5 +615,5 @@
         "y": 120
       }
     },
-    "enabledPages": ["front", "contents", "events", "characters", "party", "activities", "games", "aqua", "astro", "cart", "fishing", "jpa", "pizzatron", "launch", "rescue", "smoothie", "thinice", "pins"]
+    "enabledPages": ["front", "contents", "events", "characters", "party", "activities", "games", "aqua", "astro", "cart", "waves", "fishing", "jpa", "pizzatron", "launch", "rescue", "smoothie", "thinice", "pins"]
 }
