@@ -2,10 +2,9 @@
     "section1": {
         "files": [
             {
-                "type": "multiatlas",
-                "url": "client/media/rooms/beacon/lightroof.json",
-                "path": "client/media/rooms/beacon",
-                "key": "lightroof"
+                "url": "client/media/rooms/beacon/beacon-physics.json",
+                "type": "json",
+                "key": "beacon-physics"
             },
             {
                 "url": "client/media/rooms/lightroof/lightroof-anims.json",
@@ -13,9 +12,15 @@
                 "key": "lighroof-anims"
             },
             {
-                "url": "client/media/rooms/beacon/beacon-physics.json",
-                "type": "json",
-                "key": "beacon-physics"
+                "type": "multiatlas",
+                "url": "client/media/rooms/beacon/lightroof.json",
+                "path": "client/media/rooms/beacon",
+                "key": "lightroof"
+            },
+            {
+                "url": "client/media/rooms/beacon/lightroof-anims.json",
+                "type": "animation",
+                "key": "lightroof-anims"
             }
         ]
     },
