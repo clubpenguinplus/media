@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "berg-0.png",
+			"image": "berg-0.webp",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1900,
@@ -4537,7 +4537,7 @@
 			]
 		},
 		{
-			"image": "berg-1.png",
+			"image": "berg-1.webp",
 			"format": "RGBA8888",
 			"size": {
 				"w": 1558,
