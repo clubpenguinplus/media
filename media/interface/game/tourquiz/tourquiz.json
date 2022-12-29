@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 2048,
-				"h": 2044
+				"h": 2047
 			},
 			"scale": 1,
 			"frames": [
@@ -31,6 +31,27 @@
 					}
 				},
 				{
+					"filename": "questions9_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 616,
+						"h": 534
+					},
+					"frame": {
+						"x": 711,
+						"y": 1,
+						"w": 616,
+						"h": 534
+					}
+				},
+				{
 					"filename": "questions2_pt",
 					"rotated": false,
 					"trimmed": false,
@@ -45,10 +66,31 @@
 						"h": 540
 					},
 					"frame": {
-						"x": 711,
+						"x": 1329,
 						"y": 1,
 						"w": 603,
 						"h": 540
+					}
+				},
+				{
+					"filename": "done_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 29
+					},
+					"frame": {
+						"x": 1934,
+						"y": 1,
+						"w": 103,
+						"h": 29
 					}
 				},
 				{
@@ -66,31 +108,31 @@
 						"h": 540
 					},
 					"frame": {
-						"x": 1316,
-						"y": 1,
+						"x": 711,
+						"y": 537,
 						"w": 603,
 						"h": 540
 					}
 				},
 				{
-					"filename": "done_fr",
+					"filename": "done_en",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 126,
-						"h": 30
+						"w": 78,
+						"h": 29
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 126,
-						"h": 30
+						"w": 78,
+						"h": 29
 					},
 					"frame": {
-						"x": 1921,
-						"y": 1,
-						"w": 126,
-						"h": 30
+						"x": 1934,
+						"y": 32,
+						"w": 78,
+						"h": 29
 					}
 				},
 				{
@@ -108,50 +150,8 @@
 						"h": 56
 					},
 					"frame": {
-						"x": 1921,
-						"y": 33,
-						"w": 56,
-						"h": 56
-					}
-				},
-				{
-					"filename": "exit-hover",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 56,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 56,
-						"h": 56
-					},
-					"frame": {
-						"x": 1979,
-						"y": 33,
-						"w": 56,
-						"h": 56
-					}
-				},
-				{
-					"filename": "exit",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 56,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 56,
-						"h": 56
-					},
-					"frame": {
-						"x": 1921,
-						"y": 91,
+						"x": 1934,
+						"y": 63,
 						"w": 56,
 						"h": 56
 					}
@@ -171,8 +171,8 @@
 						"h": 30
 					},
 					"frame": {
-						"x": 1979,
-						"y": 91,
+						"x": 1992,
+						"y": 63,
 						"w": 42,
 						"h": 30
 					}
@@ -192,8 +192,8 @@
 						"h": 30
 					},
 					"frame": {
-						"x": 1979,
-						"y": 91,
+						"x": 1992,
+						"y": 63,
 						"w": 42,
 						"h": 30
 					}
@@ -213,77 +213,56 @@
 						"h": 30
 					},
 					"frame": {
-						"x": 1979,
-						"y": 91,
+						"x": 1992,
+						"y": 63,
 						"w": 42,
 						"h": 30
 					}
 				},
 				{
-					"filename": "done_pt",
+					"filename": "exit-hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 103,
-						"h": 29
+						"w": 56,
+						"h": 56
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 103,
-						"h": 29
+						"w": 56,
+						"h": 56
 					},
 					"frame": {
-						"x": 1921,
-						"y": 149,
-						"w": 103,
-						"h": 29
+						"x": 1934,
+						"y": 121,
+						"w": 56,
+						"h": 56
 					}
 				},
 				{
-					"filename": "done_en",
+					"filename": "exit",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 78,
-						"h": 29
+						"w": 56,
+						"h": 56
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 78,
-						"h": 29
+						"w": 56,
+						"h": 56
 					},
 					"frame": {
-						"x": 1921,
-						"y": 180,
-						"w": 78,
-						"h": 29
+						"x": 1934,
+						"y": 179,
+						"w": 56,
+						"h": 56
 					}
 				},
 				{
 					"filename": "questions5_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 603,
-						"h": 540
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 603,
-						"h": 540
-					},
-					"frame": {
-						"x": 711,
-						"y": 543,
-						"w": 603,
-						"h": 540
-					}
-				},
-				{
-					"filename": "questions8_pt",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -304,6 +283,69 @@
 					}
 				},
 				{
+					"filename": "questions8_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 603,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 540
+					},
+					"frame": {
+						"x": 1316,
+						"y": 543,
+						"w": 603,
+						"h": 540
+					}
+				},
+				{
+					"filename": "done_fr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 30
+					},
+					"frame": {
+						"x": 1921,
+						"y": 543,
+						"w": 126,
+						"h": 30
+					}
+				},
+				{
+					"filename": "ok_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 37
+					},
+					"frame": {
+						"x": 1921,
+						"y": 575,
+						"w": 123,
+						"h": 37
+					}
+				},
+				{
 					"filename": "questions10_pt",
 					"rotated": false,
 					"trimmed": true,
@@ -318,56 +360,14 @@
 						"h": 533
 					},
 					"frame": {
-						"x": 1316,
-						"y": 543,
+						"x": 606,
+						"y": 1079,
 						"w": 603,
 						"h": 533
 					}
 				},
 				{
 					"filename": "questions11_pt",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 603,
-						"h": 540
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 603,
-						"h": 533
-					},
-					"frame": {
-						"x": 1316,
-						"y": 1078,
-						"w": 603,
-						"h": 533
-					}
-				},
-				{
-					"filename": "questions12_pt",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 603,
-						"h": 540
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 603,
-						"h": 533
-					},
-					"frame": {
-						"x": 606,
-						"y": 1085,
-						"w": 603,
-						"h": 533
-					}
-				},
-				{
-					"filename": "questions13_pt",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -402,31 +402,157 @@
 						"h": 258
 					},
 					"frame": {
-						"x": 1211,
-						"y": 1613,
+						"x": 1,
+						"y": 1744,
 						"w": 586,
 						"h": 258
 					}
 				},
 				{
-					"filename": "sorry_pt",
+					"filename": "congratstitle_fr",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 247,
-						"h": 34
+						"w": 375,
+						"h": 42
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 247,
-						"h": 34
+						"w": 375,
+						"h": 42
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1613,
-						"w": 247,
-						"h": 34
+						"x": 1,
+						"y": 2004,
+						"w": 375,
+						"h": 42
+					}
+				},
+				{
+					"filename": "congratstitle_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 272,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 42
+					},
+					"frame": {
+						"x": 378,
+						"y": 2004,
+						"w": 272,
+						"h": 42
+					}
+				},
+				{
+					"filename": "hometext_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 571,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 571,
+						"h": 246
+					},
+					"frame": {
+						"x": 589,
+						"y": 1744,
+						"w": 571,
+						"h": 246
+					}
+				},
+				{
+					"filename": "bantext_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 126
+					},
+					"frame": {
+						"x": 606,
+						"y": 1614,
+						"w": 505,
+						"h": 126
+					}
+				},
+				{
+					"filename": "bantext_fr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 463,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 463,
+						"h": 126
+					},
+					"frame": {
+						"x": 1113,
+						"y": 1614,
+						"w": 463,
+						"h": 126
+					}
+				},
+				{
+					"filename": "questions11_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 0,
+						"w": 469,
+						"h": 541
+					},
+					"frame": {
+						"x": 1578,
+						"y": 1085,
+						"w": 469,
+						"h": 541
+					}
+				},
+				{
+					"filename": "takequiz_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 359,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 359,
+						"h": 37
+					},
+					"frame": {
+						"x": 1211,
+						"y": 1085,
+						"w": 359,
+						"h": 37
 					}
 				},
 				{
@@ -444,8 +570,8 @@
 						"h": 42
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1649,
+						"x": 652,
+						"y": 1992,
 						"w": 186,
 						"h": 42
 					}
@@ -465,10 +591,157 @@
 						"h": 42
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1649,
+						"x": 652,
+						"y": 1992,
 						"w": 186,
 						"h": 42
+					}
+				},
+				{
+					"filename": "already_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 453,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 453,
+						"h": 62
+					},
+					"frame": {
+						"x": 1578,
+						"y": 1628,
+						"w": 453,
+						"h": 62
+					}
+				},
+				{
+					"filename": "guidestitle_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 415,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 415,
+						"h": 38
+					},
+					"frame": {
+						"x": 840,
+						"y": 1992,
+						"w": 415,
+						"h": 38
+					}
+				},
+				{
+					"filename": "congrats_fr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 559,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 559,
+						"h": 246
+					},
+					"frame": {
+						"x": 1162,
+						"y": 1742,
+						"w": 559,
+						"h": 246
+					}
+				},
+				{
+					"filename": "already_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 542,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 542,
+						"h": 56
+					},
+					"frame": {
+						"x": 1257,
+						"y": 1990,
+						"w": 542,
+						"h": 56
+					}
+				},
+				{
+					"filename": "guidestitle_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 34
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1692,
+						"w": 315,
+						"h": 34
+					}
+				},
+				{
+					"filename": "done_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 29
+					},
+					"frame": {
+						"x": 1578,
+						"y": 1692,
+						"w": 140,
+						"h": 29
+					}
+				},
+				{
+					"filename": "tourguidehat_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 315,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 315,
+						"h": 29
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1728,
+						"w": 315,
+						"h": 29
 					}
 				},
 				{
@@ -486,31 +759,10 @@
 						"h": 32
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1693,
+						"x": 1801,
+						"y": 1759,
 						"w": 217,
 						"h": 32
-					}
-				},
-				{
-					"filename": "psst_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 192,
-						"h": 36
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 192,
-						"h": 36
-					},
-					"frame": {
-						"x": 1799,
-						"y": 1727,
-						"w": 192,
-						"h": 36
 					}
 				},
 				{
@@ -528,10 +780,73 @@
 						"h": 32
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1765,
+						"x": 1801,
+						"y": 1793,
 						"w": 212,
 						"h": 32
+					}
+				},
+				{
+					"filename": "takequiz_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 207,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 207,
+						"h": 29
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1827,
+						"w": 207,
+						"h": 29
+					}
+				},
+				{
+					"filename": "psst_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 36
+					},
+					"frame": {
+						"x": 1801,
+						"y": 1858,
+						"w": 192,
+						"h": 36
+					}
+				},
+				{
+					"filename": "failtitle_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 38
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1896,
+						"w": 256,
+						"h": 38
 					}
 				},
 				{
@@ -549,8 +864,8 @@
 						"h": 36
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1799,
+						"x": 1723,
+						"y": 1936,
 						"w": 184,
 						"h": 36
 					}
@@ -570,220 +885,73 @@
 						"h": 36
 					},
 					"frame": {
-						"x": 1799,
-						"y": 1837,
+						"x": 1801,
+						"y": 1974,
 						"w": 171,
 						"h": 36
 					}
 				},
 				{
-					"filename": "hometext_en",
+					"filename": "failtitle_en",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 571,
-						"h": 246
+						"w": 170,
+						"h": 34
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 571,
-						"h": 246
+						"w": 170,
+						"h": 34
 					},
 					"frame": {
-						"x": 606,
-						"y": 1620,
-						"w": 571,
-						"h": 246
+						"x": 1801,
+						"y": 2012,
+						"w": 170,
+						"h": 34
 					}
 				},
 				{
-					"filename": "congrats_fr",
+					"filename": "sorry_en",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 559,
-						"h": 246
+						"w": 170,
+						"h": 34
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 559,
-						"h": 246
+						"w": 170,
+						"h": 34
 					},
 					"frame": {
-						"x": 1,
-						"y": 1744,
-						"w": 559,
-						"h": 246
+						"x": 1801,
+						"y": 2012,
+						"w": 170,
+						"h": 34
 					}
 				},
 				{
-					"filename": "fail_en",
+					"filename": "sorry_pt",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 588,
-						"h": 174
+						"w": 247,
+						"h": 34
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 588,
-						"h": 174
+						"w": 247,
+						"h": 34
 					},
 					"frame": {
-						"x": 562,
-						"y": 1868,
-						"w": 588,
-						"h": 174
-					}
-				},
-				{
-					"filename": "guidestitle_fr",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 531,
-						"h": 36
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 531,
-						"h": 36
-					},
-					"frame": {
-						"x": 1,
-						"y": 1992,
-						"w": 531,
-						"h": 36
-					}
-				},
-				{
-					"filename": "bantext_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 505,
-						"h": 126
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 505,
-						"h": 126
-					},
-					"frame": {
-						"x": 1152,
-						"y": 1873,
-						"w": 505,
-						"h": 126
-					}
-				},
-				{
-					"filename": "congratstitle_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 483,
-						"h": 36
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 483,
-						"h": 36
-					},
-					"frame": {
-						"x": 1152,
-						"y": 2001,
-						"w": 483,
-						"h": 36
-					}
-				},
-				{
-					"filename": "congratstitle_fr",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 375,
-						"h": 42
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 375,
-						"h": 42
-					},
-					"frame": {
-						"x": 1637,
-						"y": 2001,
-						"w": 375,
-						"h": 42
-					}
-				},
-				{
-					"filename": "tourguidehat_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 386,
-						"h": 37
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 386,
-						"h": 37
-					},
-					"frame": {
-						"x": 1659,
-						"y": 1875,
-						"w": 386,
-						"h": 37
-					}
-				},
-				{
-					"filename": "guidestitle_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 375,
-						"h": 38
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 375,
-						"h": 38
-					},
-					"frame": {
-						"x": 1659,
-						"y": 1914,
-						"w": 375,
-						"h": 38
-					}
-				},
-				{
-					"filename": "congratstitle_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 272,
-						"h": 42
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 272,
-						"h": 42
-					},
-					"frame": {
-						"x": 1659,
-						"y": 1954,
-						"w": 272,
-						"h": 42
+						"x": 1211,
+						"y": 1124,
+						"w": 247,
+						"h": 34
 					}
 				}
 			]
@@ -792,13 +960,13 @@
 			"image": "tourquiz-1.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 2041,
-				"h": 2041
+				"w": 2047,
+				"h": 2044
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "questions14_pt",
+					"filename": "questions12_pt",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -819,7 +987,7 @@
 					}
 				},
 				{
-					"filename": "questions1_pt",
+					"filename": "questions13_pt",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -834,6 +1002,479 @@
 					},
 					"frame": {
 						"x": 606,
+						"y": 1,
+						"w": 603,
+						"h": 533
+					}
+				},
+				{
+					"filename": "questions14_pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 603,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 533
+					},
+					"frame": {
+						"x": 1211,
+						"y": 1,
+						"w": 603,
+						"h": 533
+					}
+				},
+				{
+					"filename": "questions8_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 592,
+						"h": 541
+					},
+					"frame": {
+						"x": 1,
+						"y": 536,
+						"w": 592,
+						"h": 541
+					}
+				},
+				{
+					"filename": "questions13_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 561,
+						"h": 541
+					},
+					"frame": {
+						"x": 1,
+						"y": 1079,
+						"w": 561,
+						"h": 541
+					}
+				},
+				{
+					"filename": "hometext_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 571,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 571,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 1622,
+						"w": 571,
+						"h": 222
+					}
+				},
+				{
+					"filename": "questions2_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 0,
+						"w": 536,
+						"h": 541
+					},
+					"frame": {
+						"x": 564,
+						"y": 1079,
+						"w": 536,
+						"h": 541
+					}
+				},
+				{
+					"filename": "questions12_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 0,
+						"w": 473,
+						"h": 541
+					},
+					"frame": {
+						"x": 595,
+						"y": 536,
+						"w": 473,
+						"h": 541
+					}
+				},
+				{
+					"filename": "questions5_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 0,
+						"w": 389,
+						"h": 541
+					},
+					"frame": {
+						"x": 1070,
+						"y": 536,
+						"w": 389,
+						"h": 541
+					}
+				},
+				{
+					"filename": "hometext_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 585,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 585,
+						"h": 210
+					},
+					"frame": {
+						"x": 1461,
+						"y": 536,
+						"w": 585,
+						"h": 210
+					}
+				},
+				{
+					"filename": "age_fr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 585,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 585,
+						"h": 94
+					},
+					"frame": {
+						"x": 1461,
+						"y": 748,
+						"w": 585,
+						"h": 94
+					}
+				},
+				{
+					"filename": "questions14_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 582,
+						"h": 534
+					},
+					"frame": {
+						"x": 1461,
+						"y": 844,
+						"w": 582,
+						"h": 534
+					}
+				},
+				{
+					"filename": "fail_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 531,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 531,
+						"h": 190
+					},
+					"frame": {
+						"x": 1,
+						"y": 1846,
+						"w": 531,
+						"h": 190
+					}
+				},
+				{
+					"filename": "fail_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 588,
+						"h": 174
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 588,
+						"h": 174
+					},
+					"frame": {
+						"x": 534,
+						"y": 1846,
+						"w": 588,
+						"h": 174
+					}
+				},
+				{
+					"filename": "congrats_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 536,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 536,
+						"h": 222
+					},
+					"frame": {
+						"x": 574,
+						"y": 1622,
+						"w": 536,
+						"h": 222
+					}
+				},
+				{
+					"filename": "congrats_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 581,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 581,
+						"h": 210
+					},
+					"frame": {
+						"x": 1102,
+						"y": 1380,
+						"w": 581,
+						"h": 210
+					}
+				},
+				{
+					"filename": "fail_fr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 572,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 572,
+						"h": 210
+					},
+					"frame": {
+						"x": 1112,
+						"y": 1592,
+						"w": 572,
+						"h": 210
+					}
+				},
+				{
+					"filename": "congratstitle_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 410,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 410,
+						"h": 38
+					},
+					"frame": {
+						"x": 1112,
+						"y": 1804,
+						"w": 410,
+						"h": 38
+					}
+				},
+				{
+					"filename": "bantext_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 518,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 518,
+						"h": 94
+					},
+					"frame": {
+						"x": 1524,
+						"y": 1804,
+						"w": 518,
+						"h": 94
+					}
+				},
+				{
+					"filename": "tourguidehat_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 37
+					},
+					"frame": {
+						"x": 1124,
+						"y": 1844,
+						"w": 386,
+						"h": 37
+					}
+				},
+				{
+					"filename": "guidestitle_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 375,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 375,
+						"h": 38
+					},
+					"frame": {
+						"x": 1124,
+						"y": 1883,
+						"w": 375,
+						"h": 38
+					}
+				},
+				{
+					"filename": "guidestitle_fr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 531,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 531,
+						"h": 36
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1900,
+						"w": 531,
+						"h": 36
+					}
+				},
+				{
+					"filename": "button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 105
+					},
+					"frame": {
+						"x": 1124,
+						"y": 1938,
+						"w": 558,
+						"h": 105
+					}
+				}
+			]
+		},
+		{
+			"image": "tourquiz-2.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2046,
+				"h": 2028
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "questions1_pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 603,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 533
+					},
+					"frame": {
+						"x": 1,
 						"y": 1,
 						"w": 603,
 						"h": 533
@@ -854,73 +1495,10 @@
 						"h": 533
 					},
 					"frame": {
-						"x": 1211,
+						"x": 606,
 						"y": 1,
 						"w": 603,
 						"h": 533
-					}
-				},
-				{
-					"filename": "takequiz_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 207,
-						"h": 29
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 207,
-						"h": 29
-					},
-					"frame": {
-						"x": 1816,
-						"y": 1,
-						"w": 207,
-						"h": 29
-					}
-				},
-				{
-					"filename": "failtitle_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 170,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 170,
-						"h": 34
-					},
-					"frame": {
-						"x": 1816,
-						"y": 32,
-						"w": 170,
-						"h": 34
-					}
-				},
-				{
-					"filename": "sorry_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 170,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 170,
-						"h": 34
-					},
-					"frame": {
-						"x": 1816,
-						"y": 32,
-						"w": 170,
-						"h": 34
 					}
 				},
 				{
@@ -938,359 +1516,12 @@
 						"h": 533
 					},
 					"frame": {
-						"x": 1,
-						"y": 536,
+						"x": 1211,
+						"y": 1,
 						"w": 603,
 						"h": 533
 					}
 				},
-				{
-					"filename": "questions7_pt",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 603,
-						"h": 540
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 603,
-						"h": 533
-					},
-					"frame": {
-						"x": 1,
-						"y": 1071,
-						"w": 603,
-						"h": 533
-					}
-				},
-				{
-					"filename": "hometext_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 571,
-						"h": 222
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 571,
-						"h": 222
-					},
-					"frame": {
-						"x": 1,
-						"y": 1606,
-						"w": 571,
-						"h": 222
-					}
-				},
-				{
-					"filename": "fail_fr",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 572,
-						"h": 210
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 572,
-						"h": 210
-					},
-					"frame": {
-						"x": 1,
-						"y": 1830,
-						"w": 572,
-						"h": 210
-					}
-				},
-				{
-					"filename": "congrats_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 536,
-						"h": 222
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 536,
-						"h": 222
-					},
-					"frame": {
-						"x": 574,
-						"y": 1606,
-						"w": 536,
-						"h": 222
-					}
-				},
-				{
-					"filename": "congrats_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 560,
-						"h": 210
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 560,
-						"h": 210
-					},
-					"frame": {
-						"x": 575,
-						"y": 1830,
-						"w": 560,
-						"h": 210
-					}
-				},
-				{
-					"filename": "questions9_pt",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 603,
-						"h": 540
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 603,
-						"h": 533
-					},
-					"frame": {
-						"x": 1112,
-						"y": 536,
-						"w": 603,
-						"h": 533
-					}
-				},
-				{
-					"filename": "questions10_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 39,
-						"y": 0,
-						"w": 498,
-						"h": 536
-					},
-					"frame": {
-						"x": 606,
-						"y": 536,
-						"w": 498,
-						"h": 536
-					}
-				},
-				{
-					"filename": "questions10_fr",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 593,
-						"h": 537
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 593,
-						"h": 530
-					},
-					"frame": {
-						"x": 1106,
-						"y": 1071,
-						"w": 593,
-						"h": 530
-					}
-				},
-				{
-					"filename": "questions7_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 50,
-						"y": 0,
-						"w": 477,
-						"h": 529
-					},
-					"frame": {
-						"x": 606,
-						"y": 1074,
-						"w": 477,
-						"h": 529
-					}
-				},
-				{
-					"filename": "fail_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 531,
-						"h": 190
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 531,
-						"h": 190
-					},
-					"frame": {
-						"x": 1112,
-						"y": 1603,
-						"w": 531,
-						"h": 190
-					}
-				},
-				{
-					"filename": "tourguidehat_fr",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 501,
-						"h": 30
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 501,
-						"h": 30
-					},
-					"frame": {
-						"x": 1112,
-						"y": 1795,
-						"w": 501,
-						"h": 30
-					}
-				},
-				{
-					"filename": "tourguidehat_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 425,
-						"h": 30
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 425,
-						"h": 30
-					},
-					"frame": {
-						"x": 1615,
-						"y": 1795,
-						"w": 425,
-						"h": 30
-					}
-				},
-				{
-					"filename": "guidestitle_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 315,
-						"h": 34
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 315,
-						"h": 34
-					},
-					"frame": {
-						"x": 1645,
-						"y": 1603,
-						"w": 315,
-						"h": 34
-					}
-				},
-				{
-					"filename": "failtitle_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 256,
-						"h": 38
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 256,
-						"h": 38
-					},
-					"frame": {
-						"x": 1645,
-						"y": 1639,
-						"w": 256,
-						"h": 38
-					}
-				},
-				{
-					"filename": "button-active",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 558,
-						"h": 105
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 558,
-						"h": 105
-					},
-					"frame": {
-						"x": 1137,
-						"y": 1827,
-						"w": 558,
-						"h": 105
-					}
-				},
-				{
-					"filename": "button-hover",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 558,
-						"h": 105
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 558,
-						"h": 105
-					},
-					"frame": {
-						"x": 1137,
-						"y": 1934,
-						"w": 558,
-						"h": 105
-					}
-				}
-			]
-		},
-		{
-			"image": "tourquiz-2.webp",
-			"format": "RGBA8888",
-			"size": {
-				"w": 1745,
-				"h": 1882
-			},
-			"scale": 1,
-			"frames": [
 				{
 					"filename": "questions8_fr",
 					"rotated": false,
@@ -1307,7 +1538,7 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 1,
+						"y": 536,
 						"w": 593,
 						"h": 537
 					}
@@ -1328,97 +1559,34 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 540,
+						"y": 1075,
 						"w": 589,
 						"h": 537
 					}
 				},
 				{
-					"filename": "questions3_en.png",
+					"filename": "congrats_en",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 574,
-						"h": 536
+						"w": 560,
+						"h": 210
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 574,
-						"h": 536
-					},
-					"frame": {
-						"x": 596,
-						"y": 1,
-						"w": 574,
-						"h": 536
-					}
-				},
-				{
-					"filename": "questions9_fr",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 593,
-						"h": 537
-					},
-					"spriteSourceSize": {
-						"x": 11,
-						"y": 0,
-						"w": 572,
-						"h": 530
-					},
-					"frame": {
-						"x": 1172,
-						"y": 1,
-						"w": 572,
-						"h": 530
-					}
-				},
-				{
-					"filename": "questions8_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 3,
-						"y": 0,
-						"w": 570,
-						"h": 536
+						"w": 560,
+						"h": 210
 					},
 					"frame": {
 						"x": 1,
-						"y": 1079,
-						"w": 570,
-						"h": 536
+						"y": 1614,
+						"w": 560,
+						"h": 210
 					}
 				},
 				{
-					"filename": "age_fr",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 585,
-						"h": 94
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 585,
-						"h": 94
-					},
-					"frame": {
-						"x": 1,
-						"y": 1617,
-						"w": 585,
-						"h": 94
-					}
-				},
-				{
-					"filename": "button",
+					"filename": "button-hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1433,114 +1601,9 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 1713,
+						"y": 1826,
 						"w": 558,
 						"h": 105
-					}
-				},
-				{
-					"filename": "already_en",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 542,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 542,
-						"h": 56
-					},
-					"frame": {
-						"x": 1,
-						"y": 1820,
-						"w": 542,
-						"h": 56
-					}
-				},
-				{
-					"filename": "questions14_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 2,
-						"y": 0,
-						"w": 570,
-						"h": 529
-					},
-					"frame": {
-						"x": 1172,
-						"y": 533,
-						"w": 570,
-						"h": 529
-					}
-				},
-				{
-					"filename": "questions4_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 7,
-						"y": 0,
-						"w": 563,
-						"h": 536
-					},
-					"frame": {
-						"x": 573,
-						"y": 1079,
-						"w": 563,
-						"h": 536
-					}
-				},
-				{
-					"filename": "questions13_fr",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 593,
-						"h": 537
-					},
-					"spriteSourceSize": {
-						"x": 19,
-						"y": 0,
-						"w": 556,
-						"h": 537
-					},
-					"frame": {
-						"x": 592,
-						"y": 540,
-						"w": 556,
-						"h": 537
-					}
-				},
-				{
-					"filename": "age_pt",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 548,
-						"h": 94
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 548,
-						"h": 94
-					},
-					"frame": {
-						"x": 588,
-						"y": 1617,
-						"w": 548,
-						"h": 94
 					}
 				},
 				{
@@ -1558,8 +1621,8 @@
 						"h": 94
 					},
 					"frame": {
-						"x": 561,
-						"y": 1713,
+						"x": 1,
+						"y": 1933,
 						"w": 569,
 						"h": 94
 					}
@@ -1579,9 +1642,240 @@
 						"h": 94
 					},
 					"frame": {
-						"x": 561,
-						"y": 1713,
+						"x": 1,
+						"y": 1933,
 						"w": 569,
+						"h": 94
+					}
+				},
+				{
+					"filename": "button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 105
+					},
+					"frame": {
+						"x": 561,
+						"y": 1826,
+						"w": 558,
+						"h": 105
+					}
+				},
+				{
+					"filename": "fail_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 554,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 554,
+						"h": 210
+					},
+					"frame": {
+						"x": 563,
+						"y": 1614,
+						"w": 554,
+						"h": 210
+					}
+				},
+				{
+					"filename": "questions13_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 556,
+						"h": 537
+					},
+					"frame": {
+						"x": 592,
+						"y": 1075,
+						"w": 556,
+						"h": 537
+					}
+				},
+				{
+					"filename": "questions1_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 0,
+						"w": 496,
+						"h": 537
+					},
+					"frame": {
+						"x": 596,
+						"y": 536,
+						"w": 496,
+						"h": 537
+					}
+				},
+				{
+					"filename": "questions12_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 0,
+						"w": 471,
+						"h": 537
+					},
+					"frame": {
+						"x": 1094,
+						"y": 536,
+						"w": 471,
+						"h": 537
+					}
+				},
+				{
+					"filename": "questions7_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 0,
+						"w": 477,
+						"h": 529
+					},
+					"frame": {
+						"x": 1567,
+						"y": 536,
+						"w": 477,
+						"h": 529
+					}
+				},
+				{
+					"filename": "age_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 553,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 553,
+						"h": 94
+					},
+					"frame": {
+						"x": 572,
+						"y": 1933,
+						"w": 553,
+						"h": 94
+					}
+				},
+				{
+					"filename": "tourguidehat_en",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 30
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1067,
+						"w": 425,
+						"h": 30
+					}
+				},
+				{
+					"filename": "questions11_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 0,
+						"w": 414,
+						"h": 536
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1075,
+						"w": 414,
+						"h": 536
+					}
+				},
+				{
+					"filename": "questions6_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 0,
+						"w": 479,
+						"h": 534
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1099,
+						"w": 479,
+						"h": 534
+					}
+				},
+				{
+					"filename": "age_pt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 548,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 548,
+						"h": 94
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1635,
+						"w": 548,
 						"h": 94
 					}
 				},
@@ -1600,94 +1894,94 @@
 						"h": 62
 					},
 					"frame": {
-						"x": 561,
-						"y": 1809,
+						"x": 1119,
+						"y": 1731,
 						"w": 581,
 						"h": 62
 					}
 				},
 				{
-					"filename": "questions12_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 3,
-						"y": 0,
-						"w": 568,
-						"h": 529
-					},
-					"frame": {
-						"x": 1150,
-						"y": 1064,
-						"w": 568,
-						"h": 529
-					}
-				},
-				{
-					"filename": "bantext_pt",
+					"filename": "bantext_es",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 518,
+						"w": 491,
 						"h": 94
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 518,
+						"w": 491,
 						"h": 94
 					},
 					"frame": {
-						"x": 1138,
-						"y": 1595,
-						"w": 518,
+						"x": 1121,
+						"y": 1795,
+						"w": 491,
 						"h": 94
 					}
 				},
 				{
-					"filename": "already_pt",
+					"filename": "congratstitle_en",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 453,
+						"w": 483,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 483,
+						"h": 36
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1891,
+						"w": 483,
+						"h": 36
+					}
+				},
+				{
+					"filename": "already_es",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 570,
 						"h": 62
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 453,
+						"w": 570,
 						"h": 62
 					},
 					"frame": {
-						"x": 1138,
-						"y": 1691,
-						"w": 453,
+						"x": 1127,
+						"y": 1929,
+						"w": 570,
 						"h": 62
 					}
 				},
 				{
-					"filename": "bantext_fr",
+					"filename": "tourguidehat_fr",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 463,
-						"h": 126
+						"w": 501,
+						"h": 30
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 463,
-						"h": 126
+						"w": 501,
+						"h": 30
 					},
 					"frame": {
-						"x": 1144,
-						"y": 1755,
-						"w": 463,
-						"h": 126
+						"x": 1127,
+						"y": 1993,
+						"w": 501,
+						"h": 30
 					}
 				}
 			]
@@ -1696,13 +1990,13 @@
 			"image": "tourquiz-3.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 2009,
-				"h": 1603
+				"w": 1774,
+				"h": 1605
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "questions2_en",
+					"filename": "questions14_en",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1710,16 +2004,58 @@
 						"h": 536
 					},
 					"spriteSourceSize": {
-						"x": 3,
+						"x": 2,
 						"y": 0,
-						"w": 568,
+						"w": 570,
 						"h": 529
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 568,
+						"w": 570,
 						"h": 529
+					}
+				},
+				{
+					"filename": "questions10_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 593,
+						"h": 530
+					},
+					"frame": {
+						"x": 573,
+						"y": 1,
+						"w": 593,
+						"h": 530
+					}
+				},
+				{
+					"filename": "questions9_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 572,
+						"h": 530
+					},
+					"frame": {
+						"x": 1168,
+						"y": 1,
+						"w": 572,
+						"h": 530
 					}
 				},
 				{
@@ -1744,6 +2080,206 @@
 					}
 				},
 				{
+					"filename": "questions7_pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 603,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 533
+					},
+					"frame": {
+						"x": 565,
+						"y": 533,
+						"w": 603,
+						"h": 533
+					}
+				},
+				{
+					"filename": "questions9_pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 603,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 533
+					},
+					"frame": {
+						"x": 1170,
+						"y": 533,
+						"w": 603,
+						"h": 533
+					}
+				},
+				{
+					"filename": "questions3_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 579,
+						"h": 534
+					},
+					"frame": {
+						"x": 1,
+						"y": 1068,
+						"w": 579,
+						"h": 534
+					}
+				},
+				{
+					"filename": "questions3_en.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 574,
+						"h": 536
+					},
+					"frame": {
+						"x": 582,
+						"y": 1068,
+						"w": 574,
+						"h": 536
+					}
+				},
+				{
+					"filename": "questions8_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 570,
+						"h": 536
+					},
+					"frame": {
+						"x": 1158,
+						"y": 1068,
+						"w": 570,
+						"h": 536
+					}
+				}
+			]
+		},
+		{
+			"image": "tourquiz-4.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1668,
+				"h": 1600
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "questions4_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 563,
+						"h": 536
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 563,
+						"h": 536
+					}
+				},
+				{
+					"filename": "questions10_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 564,
+						"h": 534
+					},
+					"frame": {
+						"x": 566,
+						"y": 1,
+						"w": 564,
+						"h": 534
+					}
+				},
+				{
+					"filename": "questions12_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 568,
+						"h": 529
+					},
+					"frame": {
+						"x": 1,
+						"y": 539,
+						"w": 568,
+						"h": 529
+					}
+				},
+				{
+					"filename": "questions2_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 568,
+						"h": 529
+					},
+					"frame": {
+						"x": 1,
+						"y": 1070,
+						"w": 568,
+						"h": 529
+					}
+				},
+				{
 					"filename": "questions5_fr",
 					"rotated": false,
 					"trimmed": true,
@@ -1758,8 +2294,8 @@
 						"h": 530
 					},
 					"frame": {
-						"x": 1,
-						"y": 1064,
+						"x": 571,
+						"y": 537,
 						"w": 553,
 						"h": 530
 					}
@@ -1780,8 +2316,50 @@
 					},
 					"frame": {
 						"x": 571,
-						"y": 1,
+						"y": 1069,
 						"w": 549,
+						"h": 530
+					}
+				},
+				{
+					"filename": "questions4_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 0,
+						"w": 530,
+						"h": 534
+					},
+					"frame": {
+						"x": 1132,
+						"y": 1,
+						"w": 530,
+						"h": 534
+					}
+				},
+				{
+					"filename": "questions6_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 540,
+						"h": 530
+					},
+					"frame": {
+						"x": 1126,
+						"y": 537,
+						"w": 540,
 						"h": 530
 					}
 				},
@@ -1801,93 +2379,62 @@
 					},
 					"frame": {
 						"x": 1122,
-						"y": 1,
+						"y": 1069,
 						"w": 545,
 						"h": 529
 					}
-				},
+				}
+			]
+		},
+		{
+			"image": "tourquiz-5.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1765,
+				"h": 1605
+			},
+			"scale": 1,
+			"frames": [
 				{
-					"filename": "questions6_fr",
+					"filename": "questions7_es",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 593,
-						"h": 537
+						"w": 616,
+						"h": 541
 					},
 					"spriteSourceSize": {
-						"x": 27,
+						"x": 40,
 						"y": 0,
-						"w": 540,
-						"h": 530
+						"w": 520,
+						"h": 534
 					},
 					"frame": {
-						"x": 565,
-						"y": 533,
-						"w": 540,
-						"h": 530
+						"x": 1,
+						"y": 1,
+						"w": 520,
+						"h": 534
 					}
 				},
 				{
-					"filename": "questions3_fr",
+					"filename": "questions10_en",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 593,
-						"h": 537
+						"w": 574,
+						"h": 536
 					},
 					"spriteSourceSize": {
-						"x": 47,
+						"x": 39,
 						"y": 0,
-						"w": 499,
-						"h": 530
+						"w": 498,
+						"h": 536
 					},
 					"frame": {
-						"x": 556,
-						"y": 1065,
-						"w": 499,
-						"h": 530
-					}
-				},
-				{
-					"filename": "questions1_fr",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 593,
-						"h": 537
-					},
-					"spriteSourceSize": {
-						"x": 49,
-						"y": 0,
-						"w": 496,
-						"h": 537
-					},
-					"frame": {
-						"x": 1057,
-						"y": 1065,
-						"w": 496,
-						"h": 537
-					}
-				},
-				{
-					"filename": "questions11_fr",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 593,
-						"h": 537
-					},
-					"spriteSourceSize": {
-						"x": 80,
-						"y": 0,
-						"w": 433,
-						"h": 530
-					},
-					"frame": {
-						"x": 1107,
-						"y": 533,
-						"w": 433,
-						"h": 530
+						"x": 1,
+						"y": 537,
+						"w": 498,
+						"h": 536
 					}
 				},
 				{
@@ -1905,10 +2452,31 @@
 						"h": 529
 					},
 					"frame": {
-						"x": 1542,
-						"y": 532,
+						"x": 1,
+						"y": 1075,
 						"w": 457,
 						"h": 529
+					}
+				},
+				{
+					"filename": "questions3_fr",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 593,
+						"h": 537
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 0,
+						"w": 499,
+						"h": 530
+					},
+					"frame": {
+						"x": 523,
+						"y": 1,
+						"w": 499,
+						"h": 530
 					}
 				},
 				{
@@ -1926,23 +2494,54 @@
 						"h": 529
 					},
 					"frame": {
-						"x": 1555,
-						"y": 1063,
+						"x": 460,
+						"y": 1075,
 						"w": 453,
 						"h": 529
 					}
-				}
-			]
-		},
-		{
-			"image": "tourquiz-4.webp",
-			"format": "RGBA8888",
-			"size": {
-				"w": 884,
-				"h": 1609
-			},
-			"scale": 1,
-			"frames": [
+				},
+				{
+					"filename": "questions1_es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 616,
+						"h": 541
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 482,
+						"h": 534
+					},
+					"frame": {
+						"x": 1024,
+						"y": 1,
+						"w": 482,
+						"h": 534
+					}
+				},
+				{
+					"filename": "questions1_en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 574,
+						"h": 536
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 0,
+						"w": 466,
+						"h": 536
+					},
+					"frame": {
+						"x": 501,
+						"y": 537,
+						"w": 466,
+						"h": 536
+					}
+				},
 				{
 					"filename": "questions6_en",
 					"rotated": false,
@@ -1958,8 +2557,8 @@
 						"h": 529
 					},
 					"frame": {
-						"x": 1,
-						"y": 1,
+						"x": 915,
+						"y": 1075,
 						"w": 414,
 						"h": 529
 					}
@@ -1979,56 +2578,14 @@
 						"h": 530
 					},
 					"frame": {
-						"x": 417,
-						"y": 1,
+						"x": 969,
+						"y": 537,
 						"w": 463,
 						"h": 530
 					}
 				},
 				{
-					"filename": "questions11_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 83,
-						"y": 0,
-						"w": 414,
-						"h": 536
-					},
-					"frame": {
-						"x": 1,
-						"y": 532,
-						"w": 414,
-						"h": 536
-					}
-				},
-				{
-					"filename": "questions1_en",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 574,
-						"h": 536
-					},
-					"spriteSourceSize": {
-						"x": 53,
-						"y": 0,
-						"w": 466,
-						"h": 536
-					},
-					"frame": {
-						"x": 417,
-						"y": 533,
-						"w": 466,
-						"h": 536
-					}
-				},
-				{
-					"filename": "questions12_fr",
+					"filename": "questions11_fr",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2036,16 +2593,16 @@
 						"h": 537
 					},
 					"spriteSourceSize": {
-						"x": 61,
+						"x": 80,
 						"y": 0,
-						"w": 471,
-						"h": 537
+						"w": 433,
+						"h": 530
 					},
 					"frame": {
-						"x": 1,
-						"y": 1071,
-						"w": 471,
-						"h": 537
+						"x": 1331,
+						"y": 1069,
+						"w": 433,
+						"h": 530
 					}
 				}
 			]
@@ -2054,6 +2611,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:03182beb338fbca2c81263d5fb208ddf:55975a4ff932482946bfeabc81f18004:aa5be11f75d67cc8ea745c82a757d2bb$"
+		"smartupdate": "$TexturePacker:SmartUpdate:b60f7f3f0ec9a33e547d5eea4f0e4c62:617d4b4b9a351d0004759fbaaa193a58:e26c353c5d62522f7699f092330f0fa0$"
 	}
 }
