@@ -3595,6 +3595,128 @@
             "frameRate": 24,
             "skipMissedFrames": true,
             "repeat": -1
+        },
+        {
+            "key": "shipnest-cannon",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shipnest",
+                    "frame": "cannon0043",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
         }
     ],
     "globalTimeScale": 1,
