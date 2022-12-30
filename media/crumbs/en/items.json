@@ -1149,31 +1149,36 @@
     "name":"Red Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "302":{
     "name":"Blue Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "303":{
     "name":"Black Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "304":{
     "name":"Lime Green Cape",
     "type":4,
     "cost":0,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "305":{
     "name":"Magicians Cape",
     "type":4,
     "cost":550,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "306":{
     "name":"Red Backpack",
@@ -1197,13 +1202,15 @@
     "name":"Bee Wings",
     "type":4,
     "cost":350,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "310":{
     "name":"Fairy Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "312":{
     "name":"Blue Backpack",
@@ -1227,7 +1234,8 @@
     "name":"Pink Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":11,
+    "back": 1
   },
   "316":{
     "name":"Supply Bag",
@@ -1923,7 +1931,8 @@
     "name":"Winter Cape",
     "type":2,
     "cost":550,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "449":{
     "name":"Fruit Headdress",
@@ -3681,7 +3690,8 @@
     "name":"Royal Robe",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "794":{
     "name":"Knight Costume",
@@ -10887,19 +10897,22 @@
     "name":"Faery Wings",
     "type":4,
     "cost":350,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3007":{
     "name":"Yellow Cape",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "3008":{
     "name":"Twee's Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3009":{
     "name":"Green Parrot",
@@ -10959,7 +10972,8 @@
     "name":"Green Hooded Cloak",
     "type":4,
     "cost":550,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3021":{
     "name":"Torc",
@@ -10989,7 +11003,8 @@
     "name":"Golden Fairy Wings",
     "type":4,
     "cost":350,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3026":{
     "name":"Big White Scarf",
@@ -11001,13 +11016,15 @@
     "name":"Test Glider",
     "type":4,
     "cost":450,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3028":{
     "name":"Jet Pack",
     "type":4,
     "cost":0,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3029":{
     "name":"Shell Collar",
@@ -11037,13 +11054,15 @@
     "name":"Snow Fairy Wings",
     "type":4,
     "cost":350,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3034":{
     "name":"Butterfly Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3035":{
     "name":"Blue Striped Scarf",
@@ -11055,7 +11074,8 @@
     "name":"Moth Wings",
     "type":4,
     "cost":350,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3037":{
     "name":"White Fuzzy Beard",
@@ -11085,7 +11105,8 @@
     "name":"Phoenix Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3043":{
     "name":"Checkered Tote",
@@ -11157,7 +11178,8 @@
     "name":"Magician's Cloak",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3058":{
     "name":"The Count's Cloak",
@@ -11205,7 +11227,8 @@
     "name":"Royal Blue Robe",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3068":{
     "name":"Red Tabard",
@@ -11325,19 +11348,22 @@
     "name":"Purple Butterfly Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3089":{
     "name":"Pegasus Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3090":{
     "name":"Raven Wings",
     "type":4,
     "cost":300,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3091":{
     "name":"Purple Rugby Scarf",
@@ -11409,37 +11435,43 @@
     "name":"Green Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3103":{
     "name":"Yellow Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3104":{
     "name":"Purple Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3105":{
     "name":"White Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3106":{
     "name":"Orange Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3107":{
     "name":"Brown Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3108":{
     "name":"Red Feather Boa",
@@ -11511,7 +11543,8 @@
     "name":"Golden Wings",
     "type":4,
     "cost":300,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3120":{
     "name":"Battle Cape",
@@ -11583,13 +11616,15 @@
     "name":"Green Butterfly Wings",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3135":{
     "name":"Brown Bat Wings",
     "type":4,
     "cost":400,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3136":{
     "name":"Sea Foam Pearls",
@@ -11739,7 +11774,8 @@
     "name":"Hardscrabble's Wings",
     "type":4,
     "cost":150,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3166":{
     "name":"14K Fish Necklace",
@@ -11757,7 +11793,8 @@
     "name":"Yellow Monster Wings",
     "type":4,
     "cost":100,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "3169":{
     "name":"Jedi Cloak",
@@ -11805,13 +11842,15 @@
     "name":"Enchanted Dragon Wings",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3177":{
     "name":"Enchanted Wings",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3178":{
     "name":"Medieval Cloak",
@@ -11829,7 +11868,8 @@
     "name":"Vampire Cape",
     "type":4,
     "cost":150,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3181":{
     "name":"Dog Tags",
@@ -11859,13 +11899,15 @@
     "name":"Royal Golden Robe",
     "type":4,
     "cost":0,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3187":{
     "name":"Gold Jet Pack",
     "type":4,
     "cost":0,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3189":{
     "name":"Green Plaid Scarf",
@@ -11955,19 +11997,22 @@
     "name":"Gold Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3206":{
     "name":"Rainbow Cape",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3207":{
     "name":"Space Cadet Jetpack",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "3208":{
     "name":"Penguin Cup VIP Pass",
@@ -11979,7 +12024,8 @@
     "name":"Unbeatable Keeper Costume",
     "type":4,
     "cost":0,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3210":{
     "name":"DJ Headphones",
@@ -12003,7 +12049,8 @@
     "name":"Troll Cape",
     "type":4,
     "cost":250,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3214":{
     "name":"Coral Shoulder Bag",
@@ -12039,7 +12086,8 @@
     "name":"Shadow Wings",
     "type":4,
     "cost":300,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3221":{
     "name":"Wheel Necklace",
@@ -12111,7 +12159,8 @@
     "name":"Green Butterfly Wings",
     "type":4,
     "cost":200,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3234":{
     "name":"Disgust Neckerchief",
@@ -12147,7 +12196,8 @@
     "name":"Jet Pack",
     "type":4,
     "cost":350,
-    "member":1
+    "member":1,
+    "back": 1
   },
   "3241":{
     "name":"Infinity Scarf",
@@ -25533,13 +25583,15 @@
     "name":"Red Cape",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "10302":{
     "name":"Blue Cape",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "10306":{
     "name":"Red Backpack",
@@ -25563,13 +25615,15 @@
     "name":"Bee Wings",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "10310":{
     "name":"Fairy Wings",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "10313":{
     "name":"Hiking Backpack",
@@ -25581,7 +25635,8 @@
     "name":"Pink Cape",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "10316":{
     "name":"Supply Bag",
@@ -26253,7 +26308,8 @@
     "name":"Royal Robe",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "10794":{
     "name":"Knight's Armor",
@@ -27129,13 +27185,15 @@
     "name":"Faery Wings",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "13007":{
     "name":"Yellow Cape",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "13010":{
     "name":"Candycane Scarf",
@@ -27153,19 +27211,22 @@
     "name":"Green Hooded Cloak",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "13028":{
     "name":"Jet Pack",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "13033":{
     "name":"Snow Fairy Wings",
     "type":4,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "13045":{
     "name":"Pastel Beaded Necklace",
@@ -29673,7 +29734,8 @@
     "name":"The Insta-Hero",
     "type":5,
     "cost":0,
-    "member":0
+    "member":0,
+    "back": 1
   },
   "24024":{
     "name":"Prehistoric Leisure Suit",
