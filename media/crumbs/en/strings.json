@@ -322,6 +322,10 @@
 	"smoothie_find": "is making smoothies in Smoothie Smash",
 	"card_find": "is practicing the ancient art of Card-Jitsu",
 	"sled_find": "is racing down the hill in Sled Racing",
+	"clothing-new-header": "New clothing items this month!",
+	"clothing-party-header": "Party clothing items - limited time only!",
+	"clothing-returning-header": "Last month's items",
+	"clothing-lastchance-header": "Last chance to buy these items!",
 	"errors":{
 		"0":"You need more coins",
 		"1":"You already have this item",
