@@ -326,6 +326,10 @@
 	"clothing-party-header": "Party clothing items - limited time only!",
 	"clothing-returning-header": "Last month's items",
 	"clothing-lastchance-header": "Last chance to buy these items!",
+	"code": "I've got a Code",
+	"code-base": "Unlock your items. Choose an option.",
+	"code-options": "Enter your code!\nMake sure you enter it exactly as it appears.",
+	"code-next": "Next",
 	"errors":{
 		"0":"You need more coins",
 		"1":"You already have this item",

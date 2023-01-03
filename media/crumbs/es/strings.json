@@ -232,6 +232,11 @@
 	"claimGiveaway": "Claim Giveaway",
 	"warnPlayer": "Warn Player",
 	"kickPlayer": "Kick Player",
+
+	"code": "Tengo un Código",
+	"code-base": "Desbloquea tus objetos. Elige una opción.",
+	"code-options": "¡Introduzca su código!\nAsegúrate de introducirlo exactamente como aparece.",
+	"code-next": "Siguiente",
 	
 	"errors":{
 		"0": "You need more coins",

@@ -110,6 +110,12 @@
                 "url": "client/media/interface/menus/servers/servers.json",
                 "path": "client/media/interface/menus/servers/",
                 "key": "servers"
+            },
+            {
+                "type": "multiatlas",
+                "url": "client/media/interface/menus/servers/servers-unlock.json",
+                "path": "client/media/interface/menus/servers",
+                "key": "servers-unlock"
             }
         ]
     },
