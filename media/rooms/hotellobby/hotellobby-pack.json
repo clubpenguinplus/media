@@ -11,6 +11,11 @@
                 "url": "client/media/rooms/hotellobby/hotellobby-anims.json",
                 "type": "animation",
                 "key": "hotellobby-anims"
+            },
+            {
+                "url": "client/media/rooms/hotellobby/hotellobby-physics.json",
+                "type": "json",
+                "key": "hotellobby-physics"
             }
         ]
     },
