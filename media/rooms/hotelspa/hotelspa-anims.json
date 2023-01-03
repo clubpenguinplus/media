@@ -1,0 +1,2733 @@
+{
+    "anims": [
+        {
+            "key": "hotelspa-dumbell",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "dumbell0045",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hotelspa-elevator_anim",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "elevator_anim0011",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelspa-groom-anim",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "groom-anim0155",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelspa-speaker_left",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_left0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hotelspa-speaker_right",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speaker_right0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hotelspa-treadmill-anim",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "treadmill-anim0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hotelspa-wash-anim",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0155",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0156",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0157",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0158",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0159",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0160",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0161",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0162",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0163",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0164",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0165",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0166",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0167",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0168",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0169",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0170",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "wash-anim0171",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
