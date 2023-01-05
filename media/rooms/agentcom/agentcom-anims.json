@@ -1,0 +1,2368 @@
+{
+    "anims": [
+        {
+            "key": "agentcom-dooropen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-doorclose",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "lobbydoor0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-defender",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderanim0025",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-defenderlights",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "defenderlights0125",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-drillsopen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-drillsout",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "drillsscreen0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-systemopen",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-systemout",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "systemscreen0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "agentcom-computer",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "agentcom",
+                    "frame": "computeranim0121",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}
