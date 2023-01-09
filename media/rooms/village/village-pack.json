@@ -2,27 +2,6 @@
     "section1": {
         "files": [
             {
-                "url": [
-                    "client/media/rooms/village/skichair.webm"
-                ],
-                "type": "video",
-                "key": "village-skichair"
-            },
-            {
-                "url": [
-                    "client/media/rooms/village/skichairfh.webm"
-                ],
-                "type": "video",
-                "key": "village-skichairfh"
-            },
-            {
-                "url": [
-                    "client/media/rooms/village/tubelift.webm"
-                ],
-                "type": "video",
-                "key": "village-tubelift"
-            },
-            {
                 "type": "multiatlas",
                 "url": "client/media/rooms/village/village.json",
                 "path": "client/media/rooms/village",
@@ -37,6 +16,20 @@
                 "url": "client/media/rooms/village/village-physics.json",
                 "type": "json",
                 "key": "village-physics"
+            },
+            {
+                "url": [
+                    "client/media/rooms/village/skichair.webm"
+                ],
+                "type": "video",
+                "key": "village-skichair"
+            },
+            {
+                "url": [
+                    "client/media/rooms/village/tubelift.webm"
+                ],
+                "type": "video",
+                "key": "village-tubelift"
             }
         ]
     },
