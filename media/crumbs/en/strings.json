@@ -354,6 +354,7 @@
 	"music": "Igloo Music",
 	"hide": "Hide",
 	"backyard": "Backyard",
+	"show": "Show",
 	"errors":{
 		"0":"You need more coins",
 		"1":"You already have this item",
