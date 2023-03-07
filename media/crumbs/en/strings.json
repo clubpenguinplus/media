@@ -351,6 +351,9 @@
 	"resettingpassword": "Resetting your password...",
 	"passwordreset": "Your password has been reset. You can now log in with your new password.",
 	"passwordwrongkey": "The password reset link you clicked is invalid or has expired. Please try again.",
+	"music": "Igloo Music",
+	"hide": "Hide",
+	"backyard": "Backyard",
 	"errors":{
 		"0":"You need more coins",
 		"1":"You already have this item",
