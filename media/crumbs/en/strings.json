@@ -355,6 +355,13 @@
 	"hide": "Hide",
 	"backyard": "Backyard",
 	"show": "Show",
+	"stampbookguide": "Stamp Book Guide",
+	"easy": "Easy",
+	"medium": "Medium",
+	"hard": "Hard",
+	"extreme": "Extreme",
+	"editstampbook": "Edit Stamp Book",
+	"savestampbook": "Save Stamp Book",
 	"errors":{
 		"0":"You need more coins",
 		"1":"You already have this item",
