@@ -101,6 +101,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "client/media/games/card/anims/pow_71_attack.json",
+                "path": "client/media/games/card/anims",
+                "key": "pow_71_attack"
+            },
+            {
+                "type": "multiatlas",
                 "url": "client/media/interface/windows/prompt/prompt.json",
                 "path": "client/media/interface/windows/prompt/",
                 "key": "prompt"

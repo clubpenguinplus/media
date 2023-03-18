@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "pow_88_react-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 205,
+				"h": 144
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "layer0_.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 740,
+						"y": 494,
+						"w": 203,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 203,
+						"h": 142
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e1b347d4917f092814d158c2a6545522:ec4b6e006dae7732e8408621f654b86d:6a75b83696afe2ccf77c51c9bdd96418$"
+	}
+}

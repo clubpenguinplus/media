@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "pow_249_attack-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 205,
+				"h": 144
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "layer0_",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 740,
+						"y": 494,
+						"w": 203,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 203,
+						"h": 142
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c48cf0a7f179b63f1e0b05ad3c7df2d3:ec4b6e006dae7732e8408621f654b86d:9b5ff8940c28196f34824e020e0857e3$"
+	}
+}
