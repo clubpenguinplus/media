@@ -3,19 +3,22 @@
       "name": "Rockhopper ",
       "groupid": 6,
       "difficulty": 2,
-      "description": "Be in the same room as Rockhopper"
+      "description": "Be in the same room as Rockhopper",
+      "disabled": true
     },
     "8": {
       "name": "Gary",
       "groupid": 6,
       "difficulty": 3,
-      "description": "Be in the same room as Gary the Gadget Guy"
+      "description": "Be in the same room as Gary the Gadget Guy",
+      "disabled": true
     },
     "9": {
       "name": "Stage Crew",
       "groupid": 7,
       "difficulty": 1,
-      "description": "Operate the Switchbox 3000"
+      "description": "Operate the Switchbox 3000",
+      "disabled": true
     },
     "10": {
       "name": "Underground",
@@ -51,7 +54,7 @@
       "name": "Going Places",
       "groupid": 7,
       "difficulty": 2,
-      "description": "Waddle around 20 rooms"
+      "description": "Waddle around 30 rooms"
     },
     "16": {
       "name": "Dance Party",
@@ -87,7 +90,8 @@
       "name": "Puffle Owner",
       "groupid": 7,
       "difficulty": 3,
-      "description": "Adopt and care for 16 puffles"
+      "description": "Adopt and care for 16 puffles",
+      "disabled": true
     },
     "22": {
       "name": "Floor Filler",
@@ -141,43 +145,50 @@
       "name": "Ninja Meeting",
       "groupid": 7,
       "difficulty": 4,
-      "description": "Meet 10 black belts in the Dojo"
+      "description": "Meet 10 black belts in the Dojo",
+      "disabled": true
     },
     "31": {
       "name": "Cadence ",
       "groupid": 6,
       "difficulty": 3,
-      "description": "Be in the same room as Cadence"
+      "description": "Be in the same room as Cadence",
+      "disabled": true
     },
     "32": {
       "name": "Franky",
       "groupid": 6,
       "difficulty": 3,
-      "description": "Be in the same room as Franky"
+      "description": "Be in the same room as Franky",
+      "disabled": true
     },
     "33": {
       "name": "Aunt Arctic",
       "groupid": 6,
       "difficulty": 4,
-      "description": "Be in the same room as Aunt Arctic"
+      "description": "Be in the same room as Aunt Arctic",
+      "disabled": true
     },
     "34": {
       "name": "G Billy",
       "groupid": 6,
       "difficulty": 3,
-      "description": "Be in the same room as G Billy"
+      "description": "Be in the same room as G Billy",
+      "disabled": true
     },
     "35": {
       "name": "Petey K",
       "groupid": 6,
       "difficulty": 3,
-      "description": "Be in the same room as Petey K"
+      "description": "Be in the same room as Petey K",
+      "disabled": true
     },
     "36": {
       "name": "Stompin' Bob",
       "groupid": 6,
       "difficulty": 3,
-      "description": "Be in the same room as Stompin' Bob"
+      "description": "Be in the same room as Stompin' Bob",
+      "disabled": true
     },
     "37": {
       "name": "Lift Off!",
@@ -399,7 +410,8 @@
       "name": "Aqua Puffle",
       "groupid": 13,
       "difficulty": 1,
-      "description": "Take your pink puffle for a deep-sea dive"
+      "description": "Take your pink puffle for a deep-sea dive",
+      "disabled": true
     },
     "74": {
       "name": "Soda Success",
@@ -441,7 +453,8 @@
       "name": "Bubble Catch",
       "groupid": 13,
       "difficulty": 2,
-      "description": "Collect a pink puffle's bubble"
+      "description": "Collect a pink puffle's bubble",
+      "disabled": true
     },
     "81": {
       "name": "Pearl Capture",
@@ -519,7 +532,8 @@
       "name": "Puffle Surfin'",
       "groupid": 15,
       "difficulty": 1,
-      "description": "Take your red puffle for a surf lesson"
+      "description": "Take your red puffle for a surf lesson",
+      "disabled": true
     },
     "95": {
       "name": "Easy Flip",
@@ -555,7 +569,8 @@
       "name": "Podium Puffle",
       "groupid": 15,
       "difficulty": 2,
-      "description": "Finish in 1st, 2nd or 3rd place with your puffle"
+      "description": "Finish in 1st, 2nd or 3rd place with your puffle",
+      "disabled": true
     },
     "101": {
       "name": "Flip Star",
@@ -939,121 +954,141 @@
       "name": "Happy Room",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Make 10 penguins smile in a room"
+      "description": "Make 10 penguins smile in a room",
+      "disabled": true
     },
     "183": {
       "name": "Party Puzzle",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Solve a puzzle at a party"
+      "description": "Solve a puzzle at a party",
+      "disabled": true
     },
     "184": {
       "name": "Snack Shack",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Serve snacks from a booth, using any food emote"
+      "description": "Serve snacks from a booth, using any food emote",
+      "disabled": true
     },
     "185": {
       "name": "Target Champion",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Hit 50 targets in a task at a party"
+      "description": "Hit 50 targets in a task at a party",
+      "disabled": true
     },
     "186": {
       "name": "Celebration",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Blow out the candles on the Anniversary Cake"
+      "description": "Blow out the candles on the Anniversary Cake",
+      "disabled": true
     },
     "187": {
       "name": "Monster Mash",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Wear a monster outfit at the Halloween Party"
+      "description": "Wear a monster outfit at the Halloween Party",
+      "disabled": true
     },
     "188": {
       "name": "Scavenger Hunt",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Complete a Scavenger Hunt"
+      "description": "Complete a Scavenger Hunt",
+      "disabled": true
     },
     "189": {
       "name": "Construction",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Join in construction at a party with your jackhamm"
+      "description": "Join in construction at a party with your jackhamm",
+      "disabled": true
     },
     "190": {
       "name": "Explorer",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Visit all the decorated party rooms"
+      "description": "Visit all the decorated party rooms",
+      "disabled": true
     },
     "191": {
       "name": "Volunteer",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Donate to a Coins For Change cause"
+      "description": "Donate to a Coins For Change cause",
+      "disabled": true
     },
     "193": {
       "name": "Path Finder",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Complete a maze at a party"
+      "description": "Complete a maze at a party",
+      "disabled": true
     },
     "197": {
       "name": "Field Agent",
       "groupid": 7,
       "difficulty": 1,
-      "description": "Earn 1 EPF medal"
+      "description": "Earn 1 EPF medal",
+      "disabled": true
     },
     "198": {
       "name": "Special Agent",
       "groupid": 7,
       "difficulty": 2,
-      "description": "Earn 5 EPF medals"
+      "description": "Earn 5 EPF medals",
+      "disabled": true
     },
     "199": {
       "name": "Special Forces",
       "groupid": 7,
       "difficulty": 2,
-      "description": "Earn 10 EPF medals"
+      "description": "Earn 10 EPF medals",
+      "disabled": true
     },
     "200": {
       "name": "Elite Protector",
       "groupid": 7,
       "difficulty": 3,
-      "description": "Earn 25 EPF medals"
+      "description": "Earn 25 EPF medals",
+      "disabled": true
     },
     "201": {
       "name": "Island Guardian",
       "groupid": 7,
       "difficulty": 4,
-      "description": "Earn 50 EPF medals"
+      "description": "Earn 50 EPF medals",
+      "disabled": true
     },
     "202": {
       "name": "Puffle Pilot ",
       "groupid": 11,
       "difficulty": 1,
-      "description": "Bring a green puffle into the game"
+      "description": "Bring a green puffle into the game",
+      "disabled": true
     },
     "203": {
       "name": "Puffle Bonus ",
       "groupid": 11,
       "difficulty": 2,
-      "description": "Your green puffle collects 200 coins"
+      "description": "Your green puffle collects 200 coins",
+      "disabled": true
     },
     "204": {
       "name": "Puffle Plus ",
       "groupid": 11,
       "difficulty": 3,
-      "description": "Your green puffle collects 450 coins"
+      "description": "Your green puffle collects 450 coins",
+      "disabled": true
     },
     "205": {
       "name": "Puffle Boost",
       "groupid": 11,
       "difficulty": 4,
-      "description": "Your green puffle gets a gas can when you run out "
+      "description": "Your green puffle gets a gas can when you run out ",
+      "disabled": true
     },
     "206": {
       "name": "Cart Pro",
@@ -1119,13 +1154,15 @@
       "name": "Ultimate Duo",
       "groupid": 28,
       "difficulty": 3,
-      "description": "Perform 20 tricks with your puffle"
+      "description": "Perform 20 tricks with your puffle",
+      "disabled": true
     },
     "228": {
       "name": "Puffle Power",
       "groupid": 28,
       "difficulty": 2,
-      "description": "Recover from a wobble with a puffle"
+      "description": "Recover from a wobble with a puffle",
+      "disabled": true
     },
     "230": {
       "name": "Grasshopper",
@@ -1287,25 +1324,29 @@
       "name": "Sensei",
       "groupid": 6,
       "difficulty": 4,
-      "description": "Be in the same room as Sensei"
+      "description": "Be in the same room as Sensei",
+      "disabled": true
     },
     "292": {
       "name": "Out At Sea",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Sail away from the island in a boat"
+      "description": "Sail away from the island in a boat",
+      "disabled": true
     },
     "294": {
       "name": "Top Volunteer",
       "groupid": 23,
       "difficulty": 3,
-      "description": "Give a 5000 coin donation to Coins For Change"
+      "description": "Give a 5000 coin donation to Coins For Change",
+      "disabled": true
     },
     "296": {
       "name": "Epic Volunteer",
       "groupid": 23,
       "difficulty": 4,
-      "description": "Give a 10,000 coin donation to Coins For Change"
+      "description": "Give a 10,000 coin donation to Coins For Change",
+      "disabled": true
     },
     "298": {
       "name": "Ready For Duty",
@@ -1389,13 +1430,15 @@
       "name": "Party Puffle",
       "groupid": 23,
       "difficulty": 0,
-      "description": "Walk your puffle to their party room"
+      "description": "Walk your puffle to their party room",
+      "disabled": true
     },
     "332": {
       "name": "Food Fight",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Throw your meal in a place where food is found"
+      "description": "Throw your meal in a place where food is found",
+      "disabled": true
     },
     "334": {
       "name": "Begin Build",
@@ -1473,19 +1516,22 @@
       "name": "Rookie",
       "groupid": 6,
       "difficulty": 4,
-      "description": "Be in the same room as Rookie"
+      "description": "Be in the same room as Rookie",
+      "disabled": true
     },
     "360": {
       "name": "Noble Knight",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Wear a knight costume at the Medieval party"
+      "description": "Wear a knight costume at the Medieval party",
+      "disabled": true
     },
     "362": {
       "name": "Go Green",
       "groupid": 7,
       "difficulty": 1,
-      "description": "Recycle 10 objects at the Recycling Plant"
+      "description": "Recycle 10 objects at the Recycling Plant",
+      "disabled": true
     },
     "364": {
       "name": "Tree Mob",
@@ -1647,7 +1693,8 @@
       "name": "Music Maestro ",
       "groupid": 23,
       "difficulty": 2,
-      "description": "Solve a musical puzzle at a party"
+      "description": "Solve a musical puzzle at a party",
+      "disabled": true
     },
     "427": {
       "name": "Bonus Snack",
@@ -1719,19 +1766,22 @@
       "name": "Stunt Penguin",
       "groupid": 23,
       "difficulty": 3,
-      "description": "Complete an obstacle course"
+      "description": "Complete an obstacle course",
+      "disabled": true
     },
     "439": {
       "name": "Mountaineer",
       "groupid": 23,
       "difficulty": 3,
-      "description": "Reach a mountain peak"
+      "description": "Reach a mountain peak",
+      "disabled": true
     },
     "440": {
       "name": "Snowboarder",
       "groupid": 23,
       "difficulty": 1,
-      "description": "Do a snowboard dance at a party"
+      "description": "Do a snowboard dance at a party",
+      "disabled": true
     },
     "443": {
       "name": "Track Herbert ",
@@ -1743,13 +1793,15 @@
       "name": "Trick-or-treat",
       "groupid": 23,
       "difficulty": 2,
-      "description": "See 10 Trick-or-Treat igloos at the Halloween Part"
+      "description": "See 10 Trick-or-Treat igloos at the Halloween Part",
+      "disabled": true
     },
     "448": {
       "name": "PH",
       "groupid": 6,
       "difficulty": 1,
-      "description": "Be in the same room as PH"
+      "description": "Be in the same room as PH",
+      "disabled": true
     },
     "450": {
       "name": "Fruit Squeeze",
@@ -1851,7 +1903,8 @@
       "name": "Herbert",
       "groupid": 6,
       "difficulty": 4,
-      "description": "Be in the same room as Herbert"
+      "description": "Be in the same room as Herbert",
+      "disabled": true
     },
     "467": {
       "name": "3 Ninja Combo",
@@ -1983,48 +2036,56 @@
       "name": "3 Gems",
       "groupid": 7,
       "difficulty": 4,
-      "description": "Earn the Fire, Water, and Snow Gems"
+      "description": "Earn the Fire, Water, and Snow Gems",
+      "disabled": true
     },
     "489": {
       "name": "Puffle Dig",
       "groupid": 7,
       "difficulty": 1,
-      "description": "Walk a puffle and find treasure"
+      "description": "Walk a puffle and find treasure",
+      "disabled": true
     },
     "490": {
       "name": "First Dig",
       "groupid": 7,
       "difficulty": 2,
-      "description": "See another player's puffle find their first treas"
+      "description": "See another player's puffle find their first treas",
+      "disabled": true
     },
     "491": {
       "name": "Every Color",
       "groupid": 7,
       "difficulty": 2,
-      "description": "Dig up treasure with 11 different color puffles"
+      "description": "Dig up treasure with 11 different color puffles",
+      "disabled": true
     },
     "492": {
       "name": "Dig All Day",
       "groupid": 7,
       "difficulty": 2,
-      "description": "Find puffle treasure 5 times in a day"
+      "description": "Find puffle treasure 5 times in a day",
+      "disabled": true
     },
     "493": {
       "name": "Big Dig",
       "groupid": 7,
       "difficulty": 3,
-      "description": "Find over 50 coins in a puffle dig"
+      "description": "Find over 50 coins in a puffle dig",
+      "disabled": true
     },
     "494": {
       "name": "Treasure Box",
       "groupid": 7,
       "difficulty": 3,
-      "description": "Find an item in a puffle treasure dig"
+      "description": "Find an item in a puffle treasure dig",
+      "disabled": true
     },
     "495": {
       "name": "Tasty Treasure",
       "groupid": 7,
       "difficulty": 1,
-      "description": "Find your puffle's favorite food in a treasure dig"
+      "description": "Find your puffle's favorite food in a treasure dig",
+      "disabled": true
     }
 }
