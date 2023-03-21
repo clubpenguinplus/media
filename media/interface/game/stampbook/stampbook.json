@@ -5,12 +5,12 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 2047,
-				"h": 2038
+				"h": 2043
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "bg",
+					"filename": "stampbook/bg",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -31,7 +31,7 @@
 					}
 				},
 				{
-					"filename": "polaroid_shadow",
+					"filename": "stampbook/polaroid_shadow",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"filename": "arrow",
+					"filename": "stampbook/arrow",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -73,7 +73,7 @@
 					}
 				},
 				{
-					"filename": "contents-instruct",
+					"filename": "stampbook/contents-instruct",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -94,7 +94,7 @@
 					}
 				},
 				{
-					"filename": "clasp/6",
+					"filename": "stampbook/clasp/6",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -115,7 +115,7 @@
 					}
 				},
 				{
-					"filename": "edit-hover",
+					"filename": "stampbook/edit-hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -136,7 +136,7 @@
 					}
 				},
 				{
-					"filename": "clasp/4",
+					"filename": "stampbook/clasp/4",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -157,7 +157,7 @@
 					}
 				},
 				{
-					"filename": "clasp/1",
+					"filename": "stampbook/clasp/1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -178,7 +178,7 @@
 					}
 				},
 				{
-					"filename": "edit",
+					"filename": "stampbook/edit",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -199,7 +199,7 @@
 					}
 				},
 				{
-					"filename": "editor_background",
+					"filename": "stampbook/editor_background",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -220,7 +220,7 @@
 					}
 				},
 				{
-					"filename": "close",
+					"filename": "stampbook/close",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -241,7 +241,7 @@
 					}
 				},
 				{
-					"filename": "page_back",
+					"filename": "stampbook/page_back",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -262,7 +262,7 @@
 					}
 				},
 				{
-					"filename": "page_forward",
+					"filename": "stampbook/page_forward",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -283,7 +283,7 @@
 					}
 				},
 				{
-					"filename": "edit_top",
+					"filename": "stampbook/edit_top",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -304,7 +304,7 @@
 					}
 				},
 				{
-					"filename": "clasp/3",
+					"filename": "stampbook/clasp/3",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -325,7 +325,7 @@
 					}
 				},
 				{
-					"filename": "polaroidlocked",
+					"filename": "stampbook/polaroidlocked",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -346,133 +346,133 @@
 					}
 				},
 				{
-					"filename": "polaroid2",
+					"filename": "stampbook/hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 284,
-						"h": 284
+						"w": 302,
+						"h": 182
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 284,
-						"h": 284
+						"w": 302,
+						"h": 182
 					},
 					"frame": {
 						"x": 1527,
 						"y": 1046,
+						"w": 302,
+						"h": 182
+					}
+				},
+				{
+					"filename": "stampbook/close-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 215
+					},
+					"frame": {
+						"x": 1831,
+						"y": 1046,
+						"w": 108,
+						"h": 215
+					}
+				},
+				{
+					"filename": "stampbook/categories/9000",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 93
+					},
+					"frame": {
+						"x": 1941,
+						"y": 1051,
+						"w": 90,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/9001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 91
+					},
+					"frame": {
+						"x": 1941,
+						"y": 1146,
+						"w": 90,
+						"h": 91
+					}
+				},
+				{
+					"filename": "stampbook/polaroid2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 284,
+						"h": 284
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 284,
+						"h": 284
+					},
+					"frame": {
+						"x": 1527,
+						"y": 1230,
 						"w": 284,
 						"h": 284
 					}
 				},
 				{
-					"filename": "editor_side",
+					"filename": "stampbook/wordmark",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 232,
-						"h": 559
+						"w": 228,
+						"h": 149
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 232,
-						"h": 559
+						"w": 228,
+						"h": 149
 					},
 					"frame": {
 						"x": 1813,
-						"y": 1051,
-						"w": 232,
-						"h": 559
-					}
-				},
-				{
-					"filename": "polaroid1",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 262,
-						"h": 262
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 262,
-						"h": 262
-					},
-					"frame": {
-						"x": 1527,
-						"y": 1332,
-						"w": 262,
-						"h": 262
-					}
-				},
-				{
-					"filename": "polaroid3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 261,
-						"h": 262
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 261,
-						"h": 262
-					},
-					"frame": {
-						"x": 1527,
-						"y": 1596,
-						"w": 261,
-						"h": 262
-					}
-				},
-				{
-					"filename": "wordmark",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 228,
-						"h": 149
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 228,
-						"h": 149
-					},
-					"frame": {
-						"x": 1790,
-						"y": 1612,
+						"y": 1263,
 						"w": 228,
 						"h": 149
 					}
 				},
 				{
-					"filename": "save",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 71,
-						"h": 94
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 71,
-						"h": 94
-					},
-					"frame": {
-						"x": 1527,
-						"y": 1860,
-						"w": 71,
-						"h": 94
-					}
-				},
-				{
-					"filename": "clasp/5",
+					"filename": "stampbook/clasp/5",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -486,35 +486,56 @@
 						"h": 81
 					},
 					"frame": {
-						"x": 1527,
-						"y": 1956,
+						"x": 1813,
+						"y": 1414,
 						"w": 82,
 						"h": 81
 					}
 				},
 				{
-					"filename": "categories/11",
+					"filename": "stampbook/sidebutton-hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 100,
-						"h": 93
+						"w": 73,
+						"h": 83
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 100,
-						"h": 93
+						"w": 73,
+						"h": 83
 					},
 					"frame": {
-						"x": 1600,
-						"y": 1860,
-						"w": 100,
-						"h": 93
+						"x": 1897,
+						"y": 1414,
+						"w": 73,
+						"h": 83
 					}
 				},
 				{
-					"filename": "sidebutton",
+					"filename": "stampbook/save",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 94
+					},
+					"frame": {
+						"x": 1972,
+						"y": 1414,
+						"w": 71,
+						"h": 94
+					}
+				},
+				{
+					"filename": "stampbook/sidebutton",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -528,14 +549,14 @@
 						"h": 80
 					},
 					"frame": {
-						"x": 1611,
-						"y": 1955,
+						"x": 1813,
+						"y": 1497,
 						"w": 69,
 						"h": 80
 					}
 				},
 				{
-					"filename": "sidebutton-active",
+					"filename": "stampbook/sidebutton-active",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -549,157 +570,136 @@
 						"h": 76
 					},
 					"frame": {
-						"x": 1682,
-						"y": 1955,
+						"x": 1884,
+						"y": 1499,
 						"w": 69,
 						"h": 76
 					}
 				},
 				{
-					"filename": "categories/13",
+					"filename": "stampbook/polaroid1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 100,
-						"h": 93
+						"w": 262,
+						"h": 262
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 100,
-						"h": 93
+						"w": 262,
+						"h": 262
 					},
 					"frame": {
-						"x": 1702,
-						"y": 1860,
-						"w": 100,
-						"h": 93
+						"x": 1527,
+						"y": 1516,
+						"w": 262,
+						"h": 262
 					}
 				},
 				{
-					"filename": "categories/14",
+					"filename": "stampbook/polaroid2-bg",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 100,
-						"h": 93
+						"w": 255,
+						"h": 236
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 100,
-						"h": 93
+						"w": 255,
+						"h": 236
+					},
+					"frame": {
+						"x": 1791,
+						"y": 1579,
+						"w": 255,
+						"h": 236
+					}
+				},
+				{
+					"filename": "stampbook/polaroid3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 261,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 261,
+						"h": 262
+					},
+					"frame": {
+						"x": 1527,
+						"y": 1780,
+						"w": 261,
+						"h": 262
+					}
+				},
+				{
+					"filename": "stampbook/help",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 67
+					},
+					"frame": {
+						"x": 1955,
+						"y": 1510,
+						"w": 67,
+						"h": 67
+					}
+				},
+				{
+					"filename": "stampbook/polaroid1-bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 238,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 238,
+						"h": 214
 					},
 					"frame": {
 						"x": 1790,
-						"y": 1763,
-						"w": 100,
-						"h": 93
+						"y": 1817,
+						"w": 238,
+						"h": 214
 					}
 				},
 				{
-					"filename": "help",
+					"filename": "stampbook/polaroid3-bg",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 67,
-						"h": 67
+						"w": 238,
+						"h": 214
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 67,
-						"h": 67
+						"w": 238,
+						"h": 214
 					},
 					"frame": {
-						"x": 1753,
-						"y": 1955,
-						"w": 67,
-						"h": 67
-					}
-				},
-				{
-					"filename": "categories/15",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1804,
-						"y": 1858,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/16",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1892,
-						"y": 1763,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "sidebutton-hover",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 73,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 73,
-						"h": 83
-					},
-					"frame": {
-						"x": 1822,
-						"y": 1953,
-						"w": 73,
-						"h": 83
-					}
-				},
-				{
-					"filename": "categories/23",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 96,
-						"h": 92
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 96,
-						"h": 92
-					},
-					"frame": {
-						"x": 1906,
-						"y": 1858,
-						"w": 96,
-						"h": 92
+						"x": 1790,
+						"y": 1817,
+						"w": 238,
+						"h": 214
 					}
 				}
 			]
@@ -708,13 +708,13 @@
 			"image": "stampbook-1.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1805,
+				"w": 1848,
 				"h": 2048
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/party",
+					"filename": "stampbook/pagebgs/party",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -735,7 +735,112 @@
 					}
 				},
 				{
-					"filename": "colour/1",
+					"filename": "stampbook/editor_side",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 559
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 232,
+						"h": 559
+					}
+				},
+				{
+					"filename": "stampbook/editor_options",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 210,
+						"h": 222
+					},
+					"frame": {
+						"x": 1535,
+						"y": 562,
+						"w": 210,
+						"h": 222
+					}
+				},
+				{
+					"filename": "stampbook/categories/11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1747,
+						"y": 562,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1747,
+						"y": 657,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1747,
+						"y": 752,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/colour/1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -756,7 +861,49 @@
 					}
 				},
 				{
-					"filename": "pagebgs/surfer",
+					"filename": "stampbook/close-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 215
+					},
+					"frame": {
+						"x": 1331,
+						"y": 688,
+						"w": 108,
+						"h": 215
+					}
+				},
+				{
+					"filename": "stampbook/clasp/2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 81
+					},
+					"frame": {
+						"x": 1441,
+						"y": 688,
+						"w": 90,
+						"h": 81
+					}
+				},
+				{
+					"filename": "stampbook/pagebgs/surfer",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -777,91 +924,7 @@
 					}
 				},
 				{
-					"filename": "polaroid2-bg",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 255,
-						"h": 236
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 255,
-						"h": 236
-					},
-					"frame": {
-						"x": 1535,
-						"y": 1,
-						"w": 255,
-						"h": 236
-					}
-				},
-				{
-					"filename": "polaroid1-bg",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 238,
-						"h": 214
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 238,
-						"h": 214
-					},
-					"frame": {
-						"x": 1535,
-						"y": 239,
-						"w": 238,
-						"h": 214
-					}
-				},
-				{
-					"filename": "polaroid3-bg",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 238,
-						"h": 214
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 238,
-						"h": 214
-					},
-					"frame": {
-						"x": 1535,
-						"y": 239,
-						"w": 238,
-						"h": 214
-					}
-				},
-				{
-					"filename": "editor_options",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 212,
-						"h": 224
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 1,
-						"w": 210,
-						"h": 222
-					},
-					"frame": {
-						"x": 1535,
-						"y": 455,
-						"w": 210,
-						"h": 222
-					}
-				},
-				{
-					"filename": "clasp",
+					"filename": "stampbook/clasp",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -876,34 +939,34 @@
 					},
 					"frame": {
 						"x": 1331,
-						"y": 688,
+						"y": 905,
 						"w": 220,
 						"h": 179
 					}
 				},
 				{
-					"filename": "close-active",
+					"filename": "stampbook/categories/7",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 108,
-						"h": 215
+						"w": 118,
+						"h": 89
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 108,
-						"h": 215
+						"w": 118,
+						"h": 89
 					},
 					"frame": {
-						"x": 1331,
-						"y": 869,
-						"w": 108,
-						"h": 215
+						"x": 1441,
+						"y": 786,
+						"w": 118,
+						"h": 89
 					}
 				},
 				{
-					"filename": "close-hover",
+					"filename": "stampbook/page_back-hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -924,28 +987,28 @@
 					}
 				},
 				{
-					"filename": "page_back-hover",
+					"filename": "stampbook/thumbs/clasp/1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 108,
-						"h": 215
+						"w": 120,
+						"h": 83
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 108,
-						"h": 215
+						"w": 120,
+						"h": 83
 					},
 					"frame": {
-						"x": 1441,
-						"y": 869,
-						"w": 108,
-						"h": 215
+						"x": 1331,
+						"y": 1303,
+						"w": 120,
+						"h": 83
 					}
 				},
 				{
-					"filename": "page_forward-hover",
+					"filename": "stampbook/page_forward-hover",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -966,259 +1029,259 @@
 					}
 				},
 				{
-					"filename": "categories/7",
+					"filename": "stampbook/thumbs/clasp/2",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 118,
-						"h": 89
+						"w": 120,
+						"h": 83
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 118,
-						"h": 89
+						"w": 120,
+						"h": 83
 					},
 					"frame": {
-						"x": 1331,
+						"x": 1561,
+						"y": 786,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/clasp/3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1683,
+						"y": 847,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/clasp/4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1561,
+						"y": 871,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/clasp/5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1683,
+						"y": 932,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/clasp/6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1553,
+						"y": 956,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/color/1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1675,
+						"y": 1017,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/color/2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1086,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/color/3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1102,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/color/4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1171,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/color/5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1187,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/color/6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1256,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/categories/23",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 92
+					},
+					"frame": {
+						"x": 1453,
 						"y": 1303,
-						"w": 118,
-						"h": 89
-					}
-				},
-				{
-					"filename": "thumbs/clasp/1",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1553,
-						"y": 679,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/clasp/2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1553,
-						"y": 764,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "categories/25",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 107,
-						"h": 92
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 107,
-						"h": 92
-					},
-					"frame": {
-						"x": 1451,
-						"y": 1303,
-						"w": 107,
+						"w": 96,
 						"h": 92
 					}
 				},
 				{
-					"filename": "categories/19",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1675,
-						"y": 679,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "thumbs/clasp/3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1675,
-						"y": 774,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/clasp/4",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1553,
-						"y": 849,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/clasp/5",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1551,
-						"y": 934,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/clasp/6",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1551,
-						"y": 1019,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/color/1",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1551,
-						"y": 1104,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/color/2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1551,
-						"y": 1189,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/color/3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1675,
-						"y": 859,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/color/4",
+					"filename": "stampbook/thumbs/pattern/1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1233,13 +1296,13 @@
 					},
 					"frame": {
 						"x": 1673,
-						"y": 944,
+						"y": 1272,
 						"w": 120,
 						"h": 83
 					}
 				},
 				{
-					"filename": "thumbs/color/5",
+					"filename": "stampbook/thumbs/pattern/2",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1253,161 +1316,14 @@
 						"h": 83
 					},
 					"frame": {
-						"x": 1673,
-						"y": 1029,
+						"x": 1551,
+						"y": 1341,
 						"w": 120,
 						"h": 83
 					}
 				},
 				{
-					"filename": "thumbs/color/6",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1673,
-						"y": 1114,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/pattern/1",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1673,
-						"y": 1199,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "categories/26",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 107,
-						"h": 92
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 107,
-						"h": 92
-					},
-					"frame": {
-						"x": 1560,
-						"y": 1274,
-						"w": 107,
-						"h": 92
-					}
-				},
-				{
-					"filename": "thumbs/pattern/2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1669,
-						"y": 1284,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "categories/22",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1560,
-						"y": 1368,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "thumbs/pattern/3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1662,
-						"y": 1369,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/pattern/4",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 120,
-						"h": 83
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 120,
-						"h": 83
-					},
-					"frame": {
-						"x": 1662,
-						"y": 1454,
-						"w": 120,
-						"h": 83
-					}
-				},
-				{
-					"filename": "thumbs/pattern/5",
+					"filename": "stampbook/thumbs/pattern/3",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1428,7 +1344,49 @@
 					}
 				},
 				{
-					"filename": "thumbs/pattern/6",
+					"filename": "stampbook/thumbs/pattern/4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1673,
+						"y": 1357,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/pattern/5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 83
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1426,
+						"w": 120,
+						"h": 83
+					}
+				},
+				{
+					"filename": "stampbook/thumbs/pattern/6",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1449,133 +1407,49 @@
 					}
 				},
 				{
-					"filename": "categories/28",
+					"filename": "stampbook/categories/25",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 100,
-						"h": 93
+						"w": 107,
+						"h": 92
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 100,
-						"h": 93
+						"w": 107,
+						"h": 92
 					},
 					"frame": {
-						"x": 1413,
-						"y": 1567,
-						"w": 100,
-						"h": 93
+						"x": 1657,
+						"y": 1442,
+						"w": 107,
+						"h": 92
 					}
 				},
 				{
-					"filename": "categories/32",
+					"filename": "stampbook/categories/26",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 100,
-						"h": 93
+						"w": 107,
+						"h": 92
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1413,
-						"y": 1662,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/34",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1413,
-						"y": 1757,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/38",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1413,
-						"y": 1852,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/46",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1413,
-						"y": 1947,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/48",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
+						"w": 107,
+						"h": 92
 					},
 					"frame": {
 						"x": 1535,
-						"y": 1463,
-						"w": 100,
-						"h": 93
+						"y": 1511,
+						"w": 107,
+						"h": 92
 					}
 				},
 				{
-					"filename": "categories/52",
+					"filename": "stampbook/categories/15",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1589,14 +1463,56 @@
 						"h": 93
 					},
 					"frame": {
-						"x": 1515,
+						"x": 1413,
 						"y": 1567,
 						"w": 100,
 						"h": 93
 					}
 				},
 				{
-					"filename": "categories/54",
+					"filename": "stampbook/categories/16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1644,
+						"y": 1536,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/19",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1746,
+						"y": 1536,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/22",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1611,13 +1527,55 @@
 					},
 					"frame": {
 						"x": 1515,
+						"y": 1605,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/28",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1413,
 						"y": 1662,
 						"w": 100,
 						"h": 93
 					}
 				},
 				{
-					"filename": "categories/56",
+					"filename": "stampbook/categories/32",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1617,
+						"y": 1631,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/34",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1632,13 +1590,76 @@
 					},
 					"frame": {
 						"x": 1515,
+						"y": 1700,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/38",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1413,
 						"y": 1757,
 						"w": 100,
 						"h": 93
 					}
 				},
 				{
-					"filename": "categories/57",
+					"filename": "stampbook/categories/46",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1631,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/48",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1617,
+						"y": 1726,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/52",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1653,13 +1674,97 @@
 					},
 					"frame": {
 						"x": 1515,
+						"y": 1795,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/54",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1413,
 						"y": 1852,
 						"w": 100,
 						"h": 93
 					}
 				},
 				{
-					"filename": "categories/58",
+					"filename": "stampbook/categories/56",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1726,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/57",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1413,
+						"y": 1947,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/58",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 93
+					},
+					"frame": {
+						"x": 1617,
+						"y": 1821,
+						"w": 100,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stampbook/categories/60",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1674,13 +1779,13 @@
 					},
 					"frame": {
 						"x": 1515,
-						"y": 1947,
+						"y": 1890,
 						"w": 100,
 						"h": 93
 					}
 				},
 				{
-					"filename": "categories/60",
+					"filename": "stampbook/categories/8",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1694,35 +1799,14 @@
 						"h": 93
 					},
 					"frame": {
-						"x": 1617,
-						"y": 1558,
+						"x": 1719,
+						"y": 1821,
 						"w": 100,
 						"h": 93
 					}
 				},
 				{
-					"filename": "categories/8",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 100,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 100,
-						"h": 93
-					},
-					"frame": {
-						"x": 1617,
-						"y": 1653,
-						"w": 100,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/6",
+					"filename": "stampbook/categories/6",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1737,13 +1821,13 @@
 					},
 					"frame": {
 						"x": 1617,
-						"y": 1748,
+						"y": 1916,
 						"w": 96,
 						"h": 92
 					}
 				},
 				{
-					"filename": "categories/5",
+					"filename": "stampbook/categories/5",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1757,73 +1841,10 @@
 						"h": 92
 					},
 					"frame": {
-						"x": 1617,
-						"y": 1842,
+						"x": 1715,
+						"y": 1916,
 						"w": 95,
 						"h": 92
-					}
-				},
-				{
-					"filename": "categories/9000",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 90,
-						"h": 93
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 90,
-						"h": 93
-					},
-					"frame": {
-						"x": 1714,
-						"y": 1842,
-						"w": 90,
-						"h": 93
-					}
-				},
-				{
-					"filename": "categories/9001",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 90,
-						"h": 91
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 90,
-						"h": 91
-					},
-					"frame": {
-						"x": 1617,
-						"y": 1936,
-						"w": 90,
-						"h": 91
-					}
-				},
-				{
-					"filename": "clasp/2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 90,
-						"h": 81
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 90,
-						"h": 81
-					},
-					"frame": {
-						"x": 1709,
-						"y": 1937,
-						"w": 90,
-						"h": 81
 					}
 				}
 			]
@@ -1838,7 +1859,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/pufflescape",
+					"filename": "stampbook/pagebgs/pufflescape",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1859,7 +1880,7 @@
 					}
 				},
 				{
-					"filename": "colour/2",
+					"filename": "stampbook/colour/2",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1880,7 +1901,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/astro",
+					"filename": "stampbook/pagebgs/astro",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1912,7 +1933,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/waves",
+					"filename": "stampbook/pagebgs/waves",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1933,7 +1954,7 @@
 					}
 				},
 				{
-					"filename": "colour/3",
+					"filename": "stampbook/colour/3",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -1954,7 +1975,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/activities",
+					"filename": "stampbook/pagebgs/activities",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -1986,7 +2007,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/jitsu",
+					"filename": "stampbook/pagebgs/jitsu",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2007,7 +2028,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/mascots",
+					"filename": "stampbook/pagebgs/mascots",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2028,7 +2049,7 @@
 					}
 				},
 				{
-					"filename": "colour/4",
+					"filename": "stampbook/colour/4",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2049,7 +2070,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/pins",
+					"filename": "stampbook/pagebgs/pins",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2081,7 +2102,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/pufflelaunch",
+					"filename": "stampbook/pagebgs/pufflelaunch",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2102,7 +2123,7 @@
 					}
 				},
 				{
-					"filename": "colour/5",
+					"filename": "stampbook/colour/5",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2123,7 +2144,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/rescue",
+					"filename": "stampbook/pagebgs/rescue",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2155,7 +2176,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/defender",
+					"filename": "stampbook/pagebgs/defender",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2176,7 +2197,7 @@
 					}
 				},
 				{
-					"filename": "colour/6",
+					"filename": "stampbook/colour/6",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2197,7 +2218,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/waterjitsu",
+					"filename": "stampbook/pagebgs/waterjitsu",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2229,7 +2250,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/aqua",
+					"filename": "stampbook/pagebgs/aqua",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2250,7 +2271,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/entertainment",
+					"filename": "stampbook/pagebgs/entertainment",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2271,7 +2292,7 @@
 					}
 				},
 				{
-					"filename": "pattern/1",
+					"filename": "stampbook/pattern/1",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2292,7 +2313,7 @@
 					}
 				},
 				{
-					"filename": "editor_top",
+					"filename": "stampbook/editor_top",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2324,7 +2345,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/thinice",
+					"filename": "stampbook/pagebgs/thinice",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2345,7 +2366,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/contents",
+					"filename": "stampbook/pagebgs/contents",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2366,7 +2387,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/games",
+					"filename": "stampbook/pagebgs/games",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2387,7 +2408,7 @@
 					}
 				},
 				{
-					"filename": "pattern/2",
+					"filename": "stampbook/pattern/2",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2408,7 +2429,7 @@
 					}
 				},
 				{
-					"filename": "dividers",
+					"filename": "stampbook/dividers",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2440,7 +2461,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/snowjitsu",
+					"filename": "stampbook/pagebgs/snowjitsu",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2461,7 +2482,7 @@
 					}
 				},
 				{
-					"filename": "pattern/3",
+					"filename": "stampbook/pattern/3",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2482,7 +2503,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/firejitsu",
+					"filename": "stampbook/pagebgs/firejitsu",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2514,7 +2535,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/missions",
+					"filename": "stampbook/pagebgs/missions",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2535,7 +2556,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/smoothie",
+					"filename": "stampbook/pagebgs/smoothie",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2556,7 +2577,7 @@
 					}
 				},
 				{
-					"filename": "pattern/5",
+					"filename": "stampbook/pattern/5",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2588,7 +2609,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/jetpack",
+					"filename": "stampbook/pagebgs/jetpack",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2609,7 +2630,7 @@
 					}
 				},
 				{
-					"filename": "pattern/6",
+					"filename": "stampbook/pattern/6",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2641,7 +2662,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/fishing",
+					"filename": "stampbook/pagebgs/fishing",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
@@ -2662,7 +2683,7 @@
 					}
 				},
 				{
-					"filename": "pagebgs/treasurehunt",
+					"filename": "stampbook/pagebgs/treasurehunt",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2694,7 +2715,7 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "pagebgs/pizzatron",
+					"filename": "stampbook/pagebgs/pizzatron",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2715,7 +2736,7 @@
 					}
 				},
 				{
-					"filename": "pattern/4",
+					"filename": "stampbook/pattern/4",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2741,6 +2762,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:2c18524003df1660cca4036cfd406acd:a33601f0b1d2f915d16502801bbbce44:34dc820110a2e5347a2e3e1c12839f29$"
+		"smartupdate": "$TexturePacker:SmartUpdate:a2d94c5dd938806c00661310814b1e97:a5311353c9fd1ba411266591d96a7fe7:34dc820110a2e5347a2e3e1c12839f29$"
 	}
 }
