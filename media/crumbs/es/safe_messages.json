@@ -1,114 +1,119 @@
 [
     {
         "id": 1,
-        "name": "Hello",
+        "name": "Hola",
         "menu": [
             {
                 "id": 100,
-                "name": "Hi",
+                "name": "Hola",
                 "menu": [
                     {
                         "id": 101,
-                        "name": "Hi there!"
+                        "name": "Hola amigos"
                     },
                     {
                         "id": 102,
-                        "name": "Hi everyone"
+                        "name": "Hola a todos"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Ok",
+        "menu": [
             {
                 "id": 120,
-                "name": "Greetings",
-                "wide": 2,
+                "name": "Saludos",
                 "menu": [
                     {
                         "id": 121,
-                        "name": "Greetings everyone"
+                        "name": "Saludos a todos"
                     },
                     {
                         "id": 122,
-                        "name": "Greetings Earthling"
+                        "name": "Felicidades, pingüino"
                     }
                 ]
             },
             {
                 "id": 130,
-                "name": "Welcome",
+                "name": "Bienvenido",
                 "menu": [
                     {
                         "id": 131,
-                        "name": "Welcome to my igloo"
+                        "name": "¡Bienvenido a mi iglú!"
                     },
                     {
                         "id": 132,
-                        "name": "Welcome back!"
+                        "name": "¡Bienvenido de nuevo!"
                     }
                 ]
             },
             {
                 "id": 140,
-                "name": "Hey there!"
+                "name": "¿Qué tal?"
             },
             {
                 "id": 150,
-                "name": "What's up?",
+                "name": "¿Qué hay de nuevo?",
                 "menu": [
                     {
                         "id": 151,
-                        "name": "How are you doing?"
+                        "name": "¿Cómo estás hoy?"
                     },
                     {
                         "id": 152,
-                        "name": "How's it going?"
+                        "name": "¿Cómo va todo?"
                     },
                     {
                         "id": 153,
-                        "name": "What's new?"
+                        "name": "¿Qué cuentas?"
                     }
                 ]
             },
             {
                 "id": 160,
-                "name": "Good day",
+                "name": "Buen día",
                 "menu": [
                     {
                         "id": 161,
-                        "name": "Good morning"
+                        "name": "Buen día"
                     },
                     {
                         "id": 162,
-                        "name": "Good afternoon"
+                        "name": "Buenas tardes"
                     },
                     {
                         "id": 163,
-                        "name": "Good night"
+                        "name": "Buenas noches"
                     },
                     {
                         "id": 164,
-                        "name": "Good evening"
+                        "name": "¡Qué duermas bien!"
                     }
                 ]
             },
             {
                 "id": 170,
-                "name": "Silly",
+                "name": "Payaso",
                 "menu": [
                     {
                         "id": 171,
-                        "name": "Hulloo"
+                        "name": "Oa"
                     },
                     {
                         "id": 172,
-                        "name": "Waz up?"
+                        "name": "¿Qué onda?"
                     },
                     {
                         "id": 173,
-                        "name": "Ahoy!"
+                        "name": "ABORRRDO!!!"
                     },
                     {
                         "id": 174,
-                        "name": "Come in agent!"
+                        "name": "¡Adelante, agente!"
                     }
                 ]
             }
@@ -116,222 +121,219 @@
     },
     {
         "id": 2,
-        "name": "Goodbye",
+        "name": "Adiós",
         "menu": [
             {
                 "id": 210,
-                "name": "Later",
+                "name": "Más tarde",
                 "menu": [
                     {
                         "id": 211,
-                        "name": "See you tomorrow"
+                        "name": "Nos vemos mañana"
                     },
                     {
                         "id": 212,
-                        "name": "See you later"
+                        "name": "Nos vemos más tarde"
                     }
                 ]
             },
             {
                 "id": 220,
-                "name": "Bye"
+                "name": "Adiós"
             },
             {
                 "id": 230,
-                "name": "I'll be right back"
+                "name": "Ya vuelvo"
             },
             {
                 "id": 240,
-                "name": "I have to go"
+                "name": "Me tengo que ir"
             },
             {
                 "id": 250,
-                "name": "Farewell",
+                "name": "Despedida",
                 "menu": [
                     {
                         "id": 251,
-                        "name": "Take care"
+                        "name": "Cuídate"
                     },
                     {
                         "id": 252,
-                        "name": "Have a nice day!"
+                        "name": "¡Que tengas un buen día!"
                     },
                     {
                         "id": 253,
-                        "name": "Good luck!"
+                        "name": "¡Buena suerte!"
                     },
                     {
                         "id": 254,
-                        "name": "Enjoy!"
+                        "name": "¡Pásala bien!"
                     },
                     {
                         "id": 255,
-                        "name": "Cheers"
+                        "name": "Nos vemos"
                     },
                     {
                         "id": 256,
-                        "name": "Ta ta for now!"
+                        "name": "¡Hasta pronto!"
                     }
                 ]
             },
             {
                 "id": 260,
-                "name": "Peace!"
+                "name": "¡Paz!"
             }
         ]
     },
     {
         "id": 3,
-        "name": "Friend",
-        "wide": 2,
+        "name": "amigo",
         "menu": [
             {
                 "id": 300,
-                "name": "Wanna be friends?"
+                "name": "¿Quieres ser mi amigo?"
             },
             {
                 "id": 310,
-                "name": "Follow me",
+                "name": "Síganme",
                 "menu": [
                     {
                         "id": 311,
-                        "name": "Come to my igloo"
+                        "name": "Ven a mi iglú"
                     },
                     {
                         "id": 312,
-                        "name": "Party at my place!"
+                        "name": "¡Hay fiesta en mi iglú!"
                     }
                 ]
             },
             {
                 "id": 320,
-                "name": "I like ...",
+                "name": "Me gusta ...",
                 "menu": [
                     {
                         "id": 321,
-                        "name": "I like your outfit!"
+                        "name": "¡Me gusta tu ropa!"
                     },
                     {
                         "id": 322,
-                        "name": "I like your igloo!"
+                        "name": "¡Me gusta tu iglú!"
                     },
                     {
                         "id": 323,
-                        "name": "I like your puffles!"
+                        "name": "¡Me gustan tus puffles!"
                     },
                     {
                         "id": 324,
-                        "name": "I like your hair!"
+                        "name": "¡Me gusta tu cabello!"
                     }
                 ]
             },
             {
                 "id": 330,
-                "name": "Thank you",
+                "name": "Gracias",
                 "menu": [
                     {
                         "id": 331,
-                        "name": "Thanks for playing"
+                        "name": "Gracias por jugar conmigo"
                     },
                     {
                         "id": 332,
-                        "name": "Thanks for visiting"
+                        "name": "Gracias por tu visita"
                     },
                     {
                         "id": 333,
-                        "name": "No, thank you"
+                        "name": "No, gracias "
                     }
                 ]
             },
             {
                 "id": 340,
-                "name": "No problem"
+                "name": "No hay problema"
             },
             {
                 "id": 350,
-                "name": "You are ...",
-                "wide": 2,
+                "name": "Eres ...",
                 "menu": [
                     {
                         "id": 351,
-                        "name": "You are great!"
+                        "name": "¡Eres genial!"
                     },
                     {
                         "id": 352,
-                        "name": "You are cool!"
+                        "name": "¡Tienes mucha onda!"
                     },
                     {
                         "id": 353,
-                        "name": "You are funny!"
+                        "name": "¡Eres gracioso!"
                     },
                     {
                         "id": 354,
-                        "name": "You are silly!"
+                        "name": "¡Eres payaso!"
                     },
                     {
                         "id": 355,
-                        "name": "You are awesome!"
+                        "name": "¡Eres increíble!"
                     },
                     {
                         "id": 356,
-                        "name": "You are a good friend!"
+                        "name": "¡Eres un buen amigo!"
                     }
                 ]
             },
             {
                 "id": 360,
-                "name": "Igloo",
-                "wide": 2,
+                "name": "Iglú",
                 "menu": [
                     {
                         "id": 361,
-                        "name": "Cool igloo!"
+                        "name": "¡Qué buen iglú!"
                     },
                     {
                         "id": 362,
-                        "name": "Great decorating!"
+                        "name": "¡Qué linda decoración!"
                     },
                     {
                         "id": 363,
-                        "name": "Awesome design"
+                        "name": "¡Guau, qué buen diseño!"
                     },
                     {
                         "id": 364,
-                        "name": "I like your igloo"
+                        "name": "Me encanta tu iglú"
                     },
                     {
                         "id": 365,
-                        "name": "Great party!"
+                        "name": "¡Qué buena fiesta!"
                     },
                     {
                         "id": 366,
-                        "name": "Thanks for coming to my party!"
+                        "name": "¡Gracias por venir a mi fiesta!"
                     },
                     {
                         "id": 367,
-                        "name": "Your puffles look hungry."
+                        "name": "Tus puffles parecen tener hambre"
                     }
                 ]
             },
             {
                 "id": 370,
-                "name": "Sorry",
+                "name": "Disculpa",
                 "menu": [
                     {
                         "id": 371,
-                        "name": "Sorry, I am busy"
+                        "name": "Disculpa, estoy ocupado"
                     },
                     {
                         "id": 372,
-                        "name": "Sorry, I need to go"
+                        "name": "Disculpa, me tengo que ir"
                     },
                     {
                         "id": 373,
-                        "name": "Please forgive me"
+                        "name": "Por favor, perdóname"
                     },
                     {
                         "id": 374,
-                        "name": "I forgive you"
+                        "name": "Te perdono"
                     }
                 ]
             }
@@ -339,89 +341,85 @@
     },
     {
         "id": 4,
-        "name": "Questions",
+        "name": "Preguntas",
         "menu": [
             {
                 "id": 400,
-                "name": "What?",
-                "wide": 2,
+                "name": "¿Cuál es?",
                 "menu": [
                     {
                         "id": 401,
-                        "name": "What is your favorite animal?"
+                        "name": "¿Cuál es tu animal favorito?"
                     },
                     {
                         "id": 402,
-                        "name": "What is your favorite game?"
+                        "name": "¿Cuál es su juego favorito?"
                     },
                     {
                         "id": 403,
-                        "name": "What is your favorite sport?"
+                        "name": "¿Cuál es tu deporte favorito?"
                     },
                     {
                         "id": 405,
-                        "name": "What is your favorite music?"
+                        "name": "¿Cuál es tu música favorita?"
                     },
                     {
                         "id": 407,
-                        "name": "What are your hobbies?"
+                        "name": "¿Tienes algún pasatiempo?"
                     }
                 ]
             },
             {
                 "id": 410,
-                "name": "Where?",
-                "wide": 2,
+                "name": "¿Dónde?",
                 "menu": [
                     {
                         "id": 412,
-                        "name": "Where do you want to go?"
+                        "name": "¿Adónde quieren ir?"
                     },
                     {
                         "id": 413,
-                        "name": "Where are you going?"
+                        "name": "¿Adónde vas?"
                     },
                     {
                         "id": 414,
-                        "name": "Where did you find that?"
+                        "name": "¿Dónde encontraste eso?"
                     },
                     {
                         "id": 415,
-                        "name": "Where did you find that pin?"
+                        "name": "¿Dónde encontraste ese pin?"
                     }
                 ]
             },
             {
                 "id": 420,
-                "name": "When?",
-                "wide": 2,
+                "name": "¿Cuándo?",
                 "menu": [
                     {
                         "id": 421,
-                        "name": "When is your party?"
+                        "name": "¿Cuándo es tu fiesta?"
                     },
                     {
                         "id": 422,
-                        "name": "When are rehearsals?"
+                        "name": "¿Cuándo es el ensayo?"
                     }
                 ]
             },
             {
                 "id": 430,
-                "name": "How are you today?"
+                "name": "¿Cómo estás hoy?"
             },
             {
                 "id": 450,
-                "name": "Can I have a tour?"
+                "name": "¿Puedo contratar un tour?"
             },
             {
                 "id": 460,
                 "name": "EPF",
-                "wide": 2,
                 "menu": [
                     {
                         "id": 461,
-                        "name": "Pssst. I want to be an EPF Agent. Can you send me an invite?"
+                        "name": "Psss, quiero unirme a la EPF, ¿dónde es el cuartel?"
                     }
                 ]
             }
@@ -429,37 +427,37 @@
     },
     {
         "id": 5,
-        "name": "Answers",
+        "name": "Respuestas",
         "menu": [
             {
                 "id": 10000,
-                "name": "Animals",
+                "name": "Animales",
                 "menu": [
                     {
                         "id": 10100,
-                        "name": "Cats",
+                        "name": "Gatos",
                         "menu": [
                             {
                                 "id": 10101,
-                                "name": "Lion"
+                                "name": "León"
                             },
                             {
                                 "id": 10102,
-                                "name": "Tiger"
+                                "name": "Tigre"
                             },
                             {
                                 "id": 10103,
-                                "name": "Leopard"
+                                "name": "Leopardo"
                             },
                             {
                                 "id": 10104,
-                                "name": "Cheetah"
+                                "name": "Chita"
                             }
                         ]
                     },
                     {
                         "id": 10200,
-                        "name": "Dogs",
+                        "name": "Perros",
                         "menu": [
                             {
                                 "id": 10201,
@@ -471,19 +469,19 @@
                             },
                             {
                                 "id": 10203,
-                                "name": "Dalmatian"
+                                "name": "Dálmata"
                             },
                             {
                                 "id": 10204,
-                                "name": "Poodle"
+                                "name": "Caniche"
                             },
                             {
                                 "id": 10205,
-                                "name": "Spaniel"
+                                "name": "Cocker spaniel"
                             },
                             {
                                 "id": 10206,
-                                "name": "Shepherd"
+                                "name": "Pastor"
                             },
                             {
                                 "id": 10207,
@@ -491,17 +489,17 @@
                             },
                             {
                                 "id": 10208,
-                                "name": "Retriever"
+                                "name": "Labrador"
                             },
                             {
                                 "id": 10209,
-                                "name": "Wolf"
+                                "name": "Lobo"
                             }
                         ]
                     },
                     {
                         "id": 10300,
-                        "name": "Horses"
+                        "name": "Caballos"
                     },
                     {
                         "id": 10400,
@@ -509,74 +507,73 @@
                         "menu": [
                             {
                                 "id": 10410,
-                                "name": "Lizard"
+                                "name": "Lagarto"
                             },
                             {
                                 "id": 10420,
-                                "name": "Turtle"
+                                "name": "Tortuga inflable"
                             },
                             {
                                 "id": 10430,
-                                "name": "Snake"
+                                "name": "Víbora"
                             }
                         ]
                     },
                     {
                         "id": 10500,
-                        "name": "Hamster"
+                        "name": "Hámster"
                     },
                     {
                         "id": 10600,
-                        "name": "Monkey"
+                        "name": "Mono"
                     },
                     {
                         "id": 10700,
-                        "name": "Bears"
+                        "name": "Oso"
                     },
                     {
                         "id": 10800,
-                        "name": "Fish",
+                        "name": "Pez",
                         "menu": [
                             {
                                 "id": 10810,
-                                "name": "Goldfish"
+                                "name": "Pez de colores"
                             }
                         ]
                     },
                     {
                         "id": 10900,
-                        "name": "Birds",
+                        "name": "Aves",
                         "menu": [
                             {
                                 "id": 10901,
-                                "name": "Penguin"
+                                "name": "Pingüino"
                             }
                         ]
                     },
                     {
                         "id": 11000,
-                        "name": "Elephants"
+                        "name": "Elefantes"
                     },
                     {
                         "id": 12000,
                         "name": "Puffles",
-                        "wide": 2,
                         "menu": [
                             {
                                 "id": 12001,
-                                "name": "Cute puffles"
+                                "name": "Qué lindos puffles"
                             },
                             {
                                 "id": 12002,
-                                "name": "Cool puffles"
+                                "name": "¡Qué onda tienen tus puffles!"
                             },
                             {
                                 "id": 12003,
-                                "name": "Your puffles are hungry"
+                                "name": "Tus puffles tienen hambre"
                             },
                             {
                                 "id": 12004,
-                                "name": "Let's walk our puffles"
+                                "name": "¿Sacamos a pasear a los puffles? "
                             }
                         ]
                     }
@@ -584,43 +581,43 @@
             },
             {
                 "id": 50000,
-                "name": "Games",
+                "name": "Juegos",
                 "menu": [
                     {
                         "id": 51100,
-                        "name": "Astro Barrier"
+                        "name": "Barra espacial"
                     },
                     {
                         "id": 51150,
-                        "name": "Aqua Grabber"
+                        "name": "Aqua grabber"
                     },
                     {
                         "id": 51300,
-                        "name": "Bean Counters"
+                        "name": "Atrapabolsas"
                     },
                     {
                         "id": 51320,
-                        "name": "Cart Surfer"
+                        "name": "Carrito surfero"
                     },
                     {
                         "id": 51321,
-                        "name": "Catchin Waves"
+                        "name": "Olas con onda"
                     },
                     {
                         "id": 51330,
-                        "name": "Find Four"
+                        "name": "4 en fila"
                     },
                     {
                         "id": 51200,
-                        "name": "Hydro-Hopper"
+                        "name": "Saltos acuáticos"
                     },
                     {
                         "id": 51350,
-                        "name": "Ice Fishing"
+                        "name": "Pesca hielo"
                     },
                     {
                         "id": 51360,
-                        "name": "Jet Pack Adventure"
+                        "name": "Aventuras en jet-pack"
                     },
                     {
                         "id": 51400,
@@ -630,41 +627,37 @@
             },
             {
                 "id": 52000,
-                "name": "More Games",
+                "name": "Más juegos",
                 "menu": [
-                    {
-                        "id": 51420,
-                        "name": "Paint By Letters"
-                    },
                     {
                         "id": 51450,
                         "name": "Pizzatron 3000"
                     },
                     {
                         "id": 51500,
-                        "name": "Sled Racing"
+                        "name": "Carrera de trineos"
                     },
                     {
                         "id": 51600,
-                        "name": "Puffle Round-Up"
+                        "name": "Fuga de puffles"
                     },
                     {
                         "id": 51700,
-                        "name": "Thin Ice"
+                        "name": "Hielo fino"
                     },
                     {
                         "id": 51750,
-                        "name": "Treasure Hunt"
+                        "name": "Búsqueda del tesoro"
                     },
                     {
-                        "id": 51760,
-                        "name": "DJ3K"
+                        "id": 100245,
+                        "name": "SuperDJ"
                     }
                 ]
             },
             {
                 "id": 20000,
-                "name": "Sports",
+                "name": "Deportes",
                 "menu": [
                     {
                         "id": 20100,
@@ -672,67 +665,67 @@
                     },
                     {
                         "id": 20200,
-                        "name": "Baseball"
+                        "name": "Balón de béisbol"
                     },
                     {
                         "id": 20300,
-                        "name": "Basketball"
+                        "name": "Baloncesto"
                     },
                     {
                         "id": 20400,
-                        "name": "Football"
+                        "name": "Fútbol americano"
                     },
                     {
                         "id": 20500,
-                        "name": "Soccer"
+                        "name": "Fútbol"
                     },
                     {
                         "id": 20600,
-                        "name": "Volleyball"
+                        "name": "Voleibol"
                     },
                     {
                         "id": 20700,
-                        "name": "Water sports",
+                        "name": "Deportes agua",
                         "menu": [
                             {
                                 "id": 20710,
-                                "name": "Water Ski"
+                                "name": "Esquí acuático"
                             },
                             {
                                 "id": 20720,
-                                "name": "Wakeboard"
+                                "name": "Tabla de wakeboard\r\n"
                             },
                             {
                                 "id": 20730,
-                                "name": "Ski Biscuit"
+                                "name": "Esquí con flotador"
                             },
                             {
                                 "id": 20740,
-                                "name": "Swimming"
+                                "name": "Natación"
                             }
                         ]
                     },
                     {
                         "id": 20800,
-                        "name": "Winter Sports",
+                        "name": "Deportes invierno",
                         "menu": [
                             {
                                 "id": 20810,
-                                "name": "Skiing",
+                                "name": "Esquí",
                                 "menu": [
                                     {
                                         "id": 20811,
-                                        "name": "Cross Country"
+                                        "name": "De fondo"
                                     },
                                     {
                                         "id": 20812,
-                                        "name": "Downhill"
+                                        "name": "Alpino"
                                     }
                                 ]
                             },
                             {
                                 "id": 20820,
-                                "name": "Sledding"
+                                "name": "Trineo"
                             },
                             {
                                 "id": 20830,
@@ -740,25 +733,25 @@
                             },
                             {
                                 "id": 20840,
-                                "name": "Skating"
+                                "name": "Patinaje"
                             }
                         ]
                     },
                     {
                         "id": 20900,
-                        "name": "Adventure",
+                        "name": "Aventuras",
                         "menu": [
                             {
                                 "id": 20910,
-                                "name": "Hiking"
+                                "name": "Caminata"
                             },
                             {
                                 "id": 20920,
-                                "name": "Rock Climbing"
+                                "name": "Alpinismo"
                             },
                             {
                                 "id": 20930,
-                                "name": "Fishing"
+                                "name": "Pesca"
                             }
                         ]
                     }
@@ -766,7 +759,7 @@
             },
             {
                 "id": 40000,
-                "name": "Music",
+                "name": "Música",
                 "menu": [
                     {
                         "id": 41000,
@@ -786,7 +779,7 @@
                     },
                     {
                         "id": 45000,
-                        "name": "Classical"
+                        "name": "Clásica"
                     },
                     {
                         "id": 46000,
@@ -798,43 +791,43 @@
                     },
                     {
                         "id": 48000,
-                        "name": "Techno"
+                        "name": "Electrónica"
                     }
                 ]
             },
             {
                 "id": 60000,
-                "name": "Hobbies",
+                "name": "Pasatiempos",
                 "menu": [
                     {
                         "id": 61000,
-                        "name": "Reading",
+                        "name": "Lectura",
                         "menu": [
                             {
                                 "id": 61100,
-                                "name": "Fiction books"
+                                "name": "Ficción"
                             },
                             {
                                 "id": 61200,
-                                "name": "Non-fiction books"
+                                "name": "No ficción"
                             },
                             {
                                 "id": 61300,
-                                "name": "Comics"
+                                "name": "Cómics"
                             },
                             {
                                 "id": 61400,
-                                "name": "Magazines"
+                                "name": "Revistas"
                             }
                         ]
                     },
                     {
                         "id": 62000,
-                        "name": "The Internet"
+                        "name": "Internet"
                     },
                     {
                         "id": 63000,
-                        "name": "Dance",
+                        "name": "Bailar",
                         "menu": [
                             {
                                 "id": 63100,
@@ -842,29 +835,29 @@
                             },
                             {
                                 "id": 63200,
-                                "name": "Tap dance"
+                                "name": "Zapateo"
                             },
                             {
                                 "id": 63300,
-                                "name": "Jazz dance"
+                                "name": "Jazz"
                             },
                             {
                                 "id": 63400,
-                                "name": "Hip Hop dance"
+                                "name": "Hip-hop"
                             },
                             {
                                 "id": 63500,
-                                "name": "Modern dance"
+                                "name": "Baile moderno"
                             }
                         ]
                     },
                     {
                         "id": 64000,
-                        "name": "Gymnastics"
+                        "name": "Gimnasia"
                     },
                     {
                         "id": 65000,
-                        "name": "Martial Arts",
+                        "name": "Artes marciales",
                         "menu": [
                             {
                                 "id": 65100,
@@ -872,65 +865,65 @@
                             },
                             {
                                 "id": 65200,
-                                "name": "Judo"
+                                "name": "Yudo"
                             },
                             {
                                 "id": 65300,
-                                "name": "Tae Kwon Do"
+                                "name": "Taekwondo"
                             }
                         ]
                     },
                     {
                         "id": 66000,
-                        "name": "Listening to music"
+                        "name": "Escuchar música"
                     },
                     {
                         "id": 67000,
-                        "name": "Music Lessons",
+                        "name": "Tomar clases de música",
                         "menu": [
                             {
                                 "id": 67100,
-                                "name": "Playing piano"
+                                "name": "Tocar el piano"
                             },
                             {
                                 "id": 67200,
-                                "name": "Playing guitar"
+                                "name": "Tocar la guitarra"
                             },
                             {
                                 "id": 67300,
-                                "name": "Playing the drums"
+                                "name": "Tocar la batería"
                             }
                         ]
                     },
                     {
                         "id": 68000,
-                        "name": "Arts and Crafts"
+                        "name": "Manualidades"
                     },
                     {
                         "id": 69000,
-                        "name": "Hanging Out"
+                        "name": "Salir"
                     }
                 ]
             },
             {
                 "id": 80000,
-                "name": "Location",
+                "name": "Lugar",
                 "menu": [
                     {
                         "id": 81000,
-                        "name": "USA"
+                        "name": "Estados Unidos"
                     },
                     {
                         "id": 82000,
-                        "name": "Canada"
+                        "name": "Canadá"
                     },
                     {
                         "id": 82100,
-                        "name": "Mexico"
+                        "name": "México"
                     },
                     {
                         "id": 82200,
-                        "name": "Central America",
+                        "name": "América Central",
                         "menu": [
                             {
                                 "id": 82201,
@@ -938,63 +931,63 @@
                             },
                             {
                                 "id": 82202,
-                                "name": "Haiti"
+                                "name": "Haití"
                             }
                         ]
                     },
                     {
                         "id": 83000,
-                        "name": "Europe",
+                        "name": "Europa",
                         "menu": [
                             {
                                 "id": 83010,
-                                "name": "UK",
+                                "name": "Reino Unido",
                                 "menu": [
                                     {
                                         "id": 83011,
-                                        "name": "England"
+                                        "name": "Inglaterra"
                                     },
                                     {
                                         "id": 83012,
-                                        "name": "Scotland"
+                                        "name": "Escocia"
                                     },
                                     {
                                         "id": 83013,
-                                        "name": "Wales"
+                                        "name": "Gales"
                                     },
                                     {
                                         "id": 83014,
-                                        "name": "Ireland"
+                                        "name": "Irlanda"
                                     }
                                 ]
                             },
                             {
                                 "id": 83020,
-                                "name": "France"
+                                "name": "Francia"
                             },
                             {
                                 "id": 83030,
-                                "name": "Germany"
+                                "name": "Alemania"
                             },
                             {
                                 "id": 83040,
-                                "name": "Spain"
+                                "name": "España"
                             },
                             {
                                 "id": 83050,
-                                "name": "Italy"
+                                "name": "Italia"
                             },
                             {
                                 "id": 83060,
-                                "name": "Poland"
+                                "name": "Polonia"
                             },
                             {
                                 "id": 83070,
-                                "name": "Switzerland"
+                                "name": "Suiza"
                             },
                             {
                                 "id": 83080,
-                                "name": "Greece"
+                                "name": "Grecia"
                             }
                         ]
                     },
@@ -1016,11 +1009,11 @@
                             },
                             {
                                 "id": 84040,
-                                "name": "Japan"
+                                "name": "Japón"
                             },
                             {
                                 "id": 84050,
-                                "name": "Russia"
+                                "name": "Rusia"
                             }
                         ]
                     },
@@ -1030,11 +1023,11 @@
                         "menu": [
                             {
                                 "id": 85010,
-                                "name": "New South Wales"
+                                "name": "Nueva Gales del Sur"
                             },
                             {
                                 "id": 85020,
-                                "name": "Northern Territory"
+                                "name": "Territorio del Norte"
                             },
                             {
                                 "id": 85030,
@@ -1042,7 +1035,7 @@
                             },
                             {
                                 "id": 85040,
-                                "name": "South Australia"
+                                "name": " Meridional"
                             },
                             {
                                 "id": 85050,
@@ -1054,21 +1047,21 @@
                             },
                             {
                                 "id": 85070,
-                                "name": "Western Australia"
+                                "name": " Occidental"
                             }
                         ]
                     },
                     {
                         "id": 86000,
-                        "name": "Africa"
+                        "name": "África"
                     },
                     {
                         "id": 87000,
-                        "name": "Middle East"
+                        "name": "Medio oriente"
                     },
                     {
                         "id": 88000,
-                        "name": "South America",
+                        "name": "América del Sur",
                         "menu": [
                             {
                                 "id": 88010,
@@ -1076,7 +1069,7 @@
                             },
                             {
                                 "id": 88020,
-                                "name": "Brazil"
+                                "name": "Brasil"
                             },
                             {
                                 "id": 88030,
@@ -1096,7 +1089,7 @@
                             },
                             {
                                 "id": 88070,
-                                "name": "Peru"
+                                "name": "Perú"
                             },
                             {
                                 "id": 88080,
@@ -1114,129 +1107,129 @@
                         "menu": [
                             {
                                 "id": 89010,
-                                "name": "Town Center",
+                                "name": "Centro",
                                 "menu": [
                                     {
                                         "id": 89011,
-                                        "name": "Coffee Shop"
+                                        "name": "Cafetería"
                                     },
                                     {
                                         "id": 89012,
-                                        "name": "Book Room"
+                                        "name": "Biblioteca"
                                     },
                                     {
                                         "id": 89013,
-                                        "name": "Night Club"
+                                        "name": "Disco"
                                     },
                                     {
                                         "id": 89014,
-                                        "name": "Lounge"
+                                        "name": "Living"
                                     },
                                     {
                                         "id": 89015,
-                                        "name": "Gift Shop"
+                                        "name": "Tienda de regalos"
                                     },
                                     {
                                         "id": 89016,
-                                        "name": "Boiler Room"
+                                        "name": "Sala de calderas"
                                     }
                                 ]
                             },
                             {
                                 "id": 89020,
-                                "name": "Ski Village",
+                                "name": "Centro de esquí",
                                 "menu": [
                                     {
-                                        "id": 89021,
-                                        "name": "Sport Shop"
+                                        "id": 100154,
+                                        "name": "E.P.F."
                                     },
                                     {
-                                        "id": 89022,
-                                        "name": "Ski Lodge"
+                                        "id": 100326,
+                                        "name": "Refugio pufflístico"
                                     },
                                     {
-                                        "id": 89023,
-                                        "name": "Lodge Attic"
+                                        "id": 100327,
+                                        "name": "Ático misterioso"
                                     },
                                     {
                                         "id": 89024,
-                                        "name": "Ski Hill"
+                                        "name": "Montaña"
                                     }
                                 ]
                             },
                             {
                                 "id": 89030,
-                                "name": "The Plaza",
+                                "name": "Plaza",
                                 "menu": [
                                     {
                                         "id": 89031,
-                                        "name": "Pet Shop"
+                                        "name": "Tienda de mascotas"
                                     },
                                     {
-                                        "id": 89033,
-                                        "name": "The Stage"
+                                        "id": 100330,
+                                        "name": "El Centro Comercial"
                                     },
                                     {
                                         "id": 89032,
-                                        "name": "Pizza Parlor"
+                                        "name": "Pizzería"
                                     },
                                     {
                                         "id": 89034,
-                                        "name": "The Forest"
+                                        "name": "Bosque"
                                     },
                                     {
                                         "id": 89035,
-                                        "name": "The Cove"
+                                        "name": "Bahía"
                                     }
                                 ]
                             },
                             {
                                 "id": 89040,
-                                "name": "The Beach",
+                                "name": "Playa",
                                 "menu": [
                                     {
                                         "id": 89041,
-                                        "name": "The Lighthouse"
+                                        "name": "Faro"
                                     },
                                     {
                                         "id": 89042,
-                                        "name": "Beacon"
+                                        "name": "Mirador"
                                     },
                                     {
                                         "id": 89043,
-                                        "name": "The Migrator"
+                                        "name": "Migrator"
                                     }
                                 ]
                             },
                             {
                                 "id": 89050,
-                                "name": "Underground",
+                                "name": "Subterráneo",
                                 "menu": [
                                     {
                                         "id": 89051,
-                                        "name": "The Pool"
+                                        "name": "Piscina subterránea"
                                     },
                                     {
                                         "id": 89052,
-                                        "name": "The Mine"
+                                        "name": "Mina"
                                     }
                                 ]
                             },
                             {
                                 "id": 89080,
-                                "name": "Other",
+                                "name": "Otro",
                                 "menu": [
                                     {
                                         "id": 89081,
-                                        "name": "Dock"
+                                        "name": "Muelle"
                                     },
                                     {
                                         "id": 89082,
-                                        "name": "Snow Forts"
+                                        "name": "Fuerte nevado"
                                     },
                                     {
                                         "id": 89083,
-                                        "name": "Stadium"
+                                        "name": "Estadio"
                                     },
                                     {
                                         "id": 89084,
@@ -1244,17 +1237,17 @@
                                     },
                                     {
                                         "id": 89085,
-                                        "name": "Mine Shack"
+                                        "name": "Cabaña de la Mina"
                                     }
                                 ]
                             },
                             {
                                 "id": 89086,
-                                "name": "Your igloo"
+                                "name": "Tu iglú"
                             },
                             {
                                 "id": 89087,
-                                "name": "My igloo"
+                                "name": "Mi iglú"
                             }
                         ]
                     }
@@ -1262,108 +1255,105 @@
             },
             {
                 "id": 90000,
-                "name": "Mood",
+                "name": "Humor",
                 "menu": [
                     {
                         "id": 90100,
-                        "name": "Good"
+                        "name": "Muy bien"
                     },
                     {
                         "id": 90200,
-                        "name": "Great!"
+                        "name": "¡Excelente! "
                     },
                     {
                         "id": 90300,
-                        "name": "All right"
+                        "name": "Bien"
                     },
                     {
                         "id": 90400,
-                        "name": "Not bad"
+                        "name": "Más o menos"
                     }
                 ]
             },
             {
                 "id": 99998,
-                "name": "Boy"
+                "name": "Niño"
             },
             {
                 "id": 99999,
-                "name": "Girl"
+                "name": "Niña"
             }
         ]
     },
     {
         "id": 6,
-        "name": "Game",
-        "action": "game",
-        "wide": 2,
+        "name": "Juegos",
         "menu": [
             {
                 "id": 600,
-                "name": "Want to play a game?"
+                "name": "¿Quieres jugar?"
             },
             {
                 "id": 601,
-                "name": "Want to play Sled Racing?"
+                "name": "¿Quieres correr una Carrera de trineos?"
             },
             {
                 "id": 602,
-                "name": "Want to play Mancala?"
+                "name": "¿Quieres jugar al Mancala?"
             },
             {
                 "id": 603,
-                "name": "Want to play Find Four?"
+                "name": "¿Quieres jugar a 4 en fila?"
             },
             {
                 "id": 604,
-                "name": "Want to play Hockey?"
+                "name": "¿Quieres jugar al hockey?"
             },
             {
                 "id": 620,
-                "name": "Good game!"
+                "name": "¡Buen juego!"
             },
             {
                 "id": 630,
-                "name": "Good move!"
+                "name": "¡Qué jugada!"
             },
             {
                 "id": 640,
-                "name": "Play again?"
+                "name": "¿Quieres jugar otra vez?"
             },
             {
                 "id": 650,
-                "name": "Tag!",
+                "name": "Tú la llevas",
                 "menu": [
                     {
                         "id": 651,
-                        "name": "Tag, you're it!"
+                        "name": "¡Tocado, tú la traes!"
                     },
                     {
                         "id": 652,
-                        "name": "You're it!"
+                        "name": "¡Tú la llevas!"
                     }
                 ]
             },
             {
                 "id": 660,
-                "name": "Hide and Seek",
-                "wide": 2,
+                "name": "¡Escondidas!",
                 "menu": [
                     {
                         "id": 661,
-                        "name": "I found you!"
+                        "name": "¡Te encontré!"
                     },
                     {
                         "id": 662,
-                        "name": "Ready or not, here I come!"
+                        "name": "¡Allá voy!"
                     },
                     {
                         "id": 663,
-                        "name": "You found me!"
+                        "name": "¡Me encontraste!"
                     },
                     {
                         "id": 664,
-                        "name": "10, 9, 8, 7, 6, 5, 4, 3, 2, 1!"
+                        "name": "¡10, 9, 8, 7, 6, 5, 4, 3, 2, 1!"
                     }
                 ]
             }
@@ -1371,202 +1361,133 @@
     },
     {
         "id": 7,
-        "name": "Activities",
+        "name": "Actividades",
         "menu": [
             {
                 "id": 701,
-                "name": "Tell a joke",
-                "action": "joke"
+                "name": "Contar un chiste"
             },
             {
                 "id": 702,
-                "name": "Give a tour",
-                "action": "tour"
+                "name": "Dar un tour"
             },
             {
-                "id": 710,
-                "name": "Event",
+                "id": 736,
+                "name": "Concurso",
                 "menu": [
                     {
-                        "id": 711,
-                        "name": "Party",
-                        "wide": 2,
-                        "menu": [
-                            {
-                                "id": 712,
-                                "name": "Party at my igloo"
-                            }
-                        ]
-                    },
-                    {
-                        "id": 716,
-                        "name": "Fashion show",
-                        "wide": 2,
-                        "menu": [
-                            {
-                                "id": 717,
-                                "name": "Fashion show at my igloo"
-                            }
-                        ]
-                    },
-                    {
-                        "id": 721,
-                        "name": "Auditions",
-                        "wide": 2,
-                        "menu": [
-                            {
-                                "id": 722,
-                                "name": "Auditions at my igloo"
-                            },
-                            {
-                                "id": 723,
-                                "name": "Dress rehearsal at my igloo"
-                            }
-                        ]
-                    },
-                    {
-                        "id": 726,
-                        "name": "Concert",
-                        "wide": 2,
-                        "menu": [
-                            {
-                                "id": 727,
-                                "name": "Concert at my igloo"
-                            }
-                        ]
-                    },
-                    {
-                        "id": 731,
-                        "name": "Practice",
-                        "wide": 2,
-                        "menu": [
-                            {
-                                "id": 732,
-                                "name": "Practice at my igloo"
-                            }
-                        ]
-                    },
-                    {
-                        "id": 736,
-                        "name": "Contest",
-                        "wide": 2,
-                        "menu": [
-                            {
-                                "id": 737,
-                                "name": "Contest at my igloo"
-                            }
-                        ]
+                        "id": 737,
+                        "name": "Concurso en mi iglú"
                     }
                 ]
             },
             {
                 "id": 738,
-                "name": "Colors!",
-                "wide": 2,
+                "name": "¡Colores!",
                 "menu": [
                     {
                         "id": 739,
-                        "name": "Everyone turn red!"
+                        "name": "¡Háganse todos rojos!"
                     },
                     {
                         "id": 740,
-                        "name": "Everyone turn yellow!"
+                        "name": "¡Háganse todos amarillos!"
                     },
                     {
                         "id": 741,
-                        "name": "Everyone turn blue!"
+                        "name": "¡Háganse todos azules!"
                     },
                     {
                         "id": 742,
-                        "name": "Everyone turn green!"
+                        "name": "¡Háganse todos verdes!"
                     },
                     {
                         "id": 743,
-                        "name": "Everyone turn pink!"
+                        "name": "¡Háganse todos rosas!"
                     },
                     {
                         "id": 744,
-                        "name": "Everyone turn black!"
+                        "name": "¡Háganse todos negros!"
                     },
                     {
                         "id": 745,
-                        "name": "Everyone turn purple!"
+                        "name": "¡Háganse todos violetas!"
                     },
                     {
                         "id": 746,
-                        "name": "Everyone turn orange!"
+                        "name": "¡Háganse todos naranjas!"
                     }
                 ]
             },
             {
                 "id": 750,
-                "name": "Time",
+                "name": "Tiempo",
                 "menu": [
                     {
                         "id": 751,
-                        "name": "In 5 minutes"
+                        "name": "En 5 minutos"
                     },
                     {
                         "id": 752,
-                        "name": "In 10 minutes"
+                        "name": "En 10 minutos"
                     },
                     {
                         "id": 753,
-                        "name": "In 15 minutes"
+                        "name": "En 15 minutos"
                     },
                     {
                         "id": 754,
-                        "name": "In 30 minutes"
+                        "name": "En 30 minutos"
                     },
                     {
                         "id": 755,
-                        "name": "In an hour"
+                        "name": "En una hora"
                     },
                     {
                         "id": 756,
-                        "name": "Today"
+                        "name": "Hoy"
                     },
                     {
                         "id": 757,
-                        "name": "Tomorrow"
+                        "name": "Mañana"
                     },
                     {
                         "id": 758,
-                        "name": "Yesterday"
+                        "name": "Ayer"
                     }
                 ]
             },
             {
                 "id": 790,
-                "name": "Days of the week",
+                "name": "Días semana",
                 "menu": [
                     {
                         "id": 791,
-                        "name": "Monday"
+                        "name": "Lunes"
                     },
                     {
                         "id": 792,
-                        "name": "Tuesday"
+                        "name": "Martes"
                     },
                     {
                         "id": 793,
-                        "name": "Wednesday"
+                        "name": "Miércoles"
                     },
                     {
                         "id": 794,
-                        "name": "Thursday"
+                        "name": "Jueves"
                     },
                     {
                         "id": 795,
-                        "name": "Friday"
+                        "name": "Viernes"
                     },
                     {
                         "id": 796,
-                        "name": "Saturday"
+                        "name": "Sábado"
                     },
                     {
                         "id": 797,
-                        "name": "Sunday"
+                        "name": "Domingo"
                     }
                 ]
             }
@@ -1574,70 +1495,66 @@
     },
     {
         "id": 8,
-        "name": "Grub!",
+        "name": "¡Au!",
         "menu": [
             {
                 "id": 801,
-                "name": "That was not nice"
+                "name": "Eso no me gusta"
             },
             {
                 "id": 802,
-                "name": "Please go away"
+                "name": "Por favor, vete"
             },
             {
                 "id": 803,
-                "name": "Stop that!"
+                "name": "¡Deja de hacer eso!"
             },
             {
                 "id": 804,
-                "name": "Nevermind"
+                "name": "Olvídalo"
             },
             {
                 "id": 805,
-                "name": "Aaaaaah!"
+                "name": "¡Aaaaaah!"
             },
             {
                 "id": 806,
-                "name": "Shiver me timbers"
+                "name": "¡Por mis barbas!"
             }
         ]
     },
     {
         "id": 10,
-        "name": "Hurray!",
+        "name": "¡Hurra!",
         "menu": [
             {
                 "id": 851,
-                "name": "Woo hoo!"
+                "name": "¡Guauu!"
             },
             {
                 "id": 852,
-                "name": "All right!"
+                "name": "¡Muy bien!"
             },
             {
                 "id": 853,
-                "name": "Yay!"
+                "name": "¡Eso es!"
             },
             {
                 "id": 854,
-                "name": "Great performance!"
+                "name": "¡Buena actuación!"
             },
             {
                 "id": 855,
-                "name": "Great job!"
+                "name": "¡Buen trabajo!"
             }
         ]
     },
     {
         "id": 20,
-        "name": "Yes"
+        "name": "Sí"
     },
     {
         "id": 21,
         "name": "No"
-    },
-    {
-        "id": 22,
-        "name": "Ok"
     }
 ]

@@ -1,4 +1,5 @@
 scripts/client/clubpenguinplus.js
+media/game_configs/
 *.bak
 *.zip
 *.DS_Store

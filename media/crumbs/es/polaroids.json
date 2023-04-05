@@ -1,0 +1,342 @@
+{
+    "Personajes": [
+        {
+            "id": 10,
+            "stamps": 1
+        },
+        {
+            "id": 11,
+            "stamps": 4
+        },
+        {
+            "id": 12,
+            "stamps": 7
+        }
+    ],
+    "Actividades": [
+        {
+            "id": 1,
+            "stamps": 1
+        },
+        {
+            "id": 2,
+            "stamps": 9
+        },
+        {
+            "id": 3,
+            "stamps": 17
+        }
+    ],
+    "Aventuras en jet-pack": [
+        {
+            "id": 13,
+            "stamps": 1
+        },
+        {
+            "id": 14,
+            "stamps": 7
+        },
+        {
+            "id": 15,
+            "stamps": 14
+        },
+        {
+            "id": 41,
+            "stamps": 18
+        }
+    ],
+    "Aqua grabber": [
+        {
+            "id": 4,
+            "stamps": 1
+        },
+        {
+            "id": 5,
+            "stamps": 10
+        },
+        {
+            "id": 6,
+            "stamps": 20
+        }
+    ],
+    "Barra espacial": [
+        {
+            "id": 7,
+            "stamps": 1
+        },
+        {
+            "id": 8,
+            "stamps": 6
+        },
+        {
+            "id": 9,
+            "stamps": 12
+        }
+    ],
+    "Olas con onda": [
+        {
+            "id": 25,
+            "stamps": 1
+        },
+        {
+            "id": 26,
+            "stamps": 10
+        },
+        {
+            "id": 27,
+            "stamps": 22
+        }
+    ],
+    "Hielo fino": [
+        {
+            "id": 22,
+            "stamps": 1
+        },
+        {
+            "id": 23,
+            "stamps": 5
+        },
+        {
+            "id": 24,
+            "stamps": 9
+        }
+    ],
+    "Rescata puffles": [
+        {
+            "id": 33,
+            "stamps": 1
+        },
+        {
+            "id": 32,
+            "stamps": 15
+        },
+        {
+            "id": 34,
+            "stamps": 27
+        }
+    ],
+    "Misiones": [
+        {
+            "id": 35,
+            "stamps": 1
+        },
+        {
+            "id": 36,
+            "stamps": 11
+        },
+        {
+            "id": 37,
+            "stamps": 22
+        }
+    ],
+    "Fiesta": [
+        {
+            "id": 30,
+            "stamps": 1
+        },
+        {
+            "id": 31,
+            "stamps": 2
+        },
+        {
+            "id": 52,
+            "stamps": 12
+        }
+    ],
+    "Día de juegos": [
+        {
+            "id": 28,
+            "stamps": 1
+        },
+        {
+            "id": 29,
+            "stamps": 7
+        },
+        {
+            "id": 51,
+            "stamps": 14
+        }
+    ],
+    "Carrito surfero": [
+        {
+            "id": 38,
+            "stamps": 1
+        },
+        {
+            "id": 39,
+            "stamps": 6
+        },
+        {
+            "id": 40,
+            "stamps": 12
+        }
+    ],
+    "Card-jitsu Fuego": [
+        {
+            "id": 45,
+            "stamps": 1
+        },
+        {
+            "id": 46,
+            "stamps": 4
+        },
+        {
+            "id": 47,
+            "stamps": 8
+        }
+    ],
+    "Card-jitsu Agua": [
+        {
+            "id": 48,
+            "stamps": 1
+        },
+        {
+            "id": 49,
+            "stamps": 4
+        },
+        {
+            "id": 50,
+            "stamps": 8
+        }
+    ],
+    "Card-jitsu": [
+        {
+            "id": 42,
+            "stamps": 1
+        },
+        {
+            "id": 43,
+            "stamps": 5
+        },
+        {
+            "id": 44,
+            "stamps": 10
+        }
+    ],
+    "Defensor del sistema": [
+        {
+            "id": 53,
+            "stamps": 1
+        },
+        {
+            "id": 54,
+            "stamps": 5
+        },
+        {
+            "id": 55,
+            "stamps": 14
+        }
+    ],
+    "Puffle al viento": [
+        {
+            "id": 56,
+            "stamps": 1
+        },
+        {
+            "id": 57,
+            "stamps": 6
+        },
+        {
+            "id": 58,
+            "stamps": 12
+        }
+    ],
+    "Tuercas y tornillos": [
+        {
+            "id": 59,
+            "stamps": 1
+        },
+        {
+            "id": 60,
+            "stamps": 2
+        },
+        {
+            "id": 61,
+            "stamps": 3
+        }
+    ],
+    "Pesca hielo": [
+        {
+            "id": 62,
+            "stamps": 1
+        },
+        {
+            "id": 63,
+            "stamps": 5
+        },
+        {
+            "id": 64,
+            "stamps": 10
+        }
+    ],
+    "Pizzatron": [
+        {
+            "id": 65,
+            "stamps": 1
+        },
+        {
+            "id": 66,
+            "stamps": 5
+        },
+        {
+            "id": 67,
+            "stamps": 10
+        }
+    ],
+    "Búsqueda del tesoro": [
+        {
+            "id": 68,
+            "stamps": 1
+        },
+        {
+            "id": 69,
+            "stamps": 3
+        },
+        {
+            "id": 70,
+            "stamps": 5
+        }
+    ],
+    "Burbupuffle": [
+        {
+            "id": 71,
+            "stamps": 1
+        },
+        {
+            "id": 72,
+            "stamps": 5
+        },
+        {
+            "id": 73,
+            "stamps": 11
+        }
+    ],
+    "Puré de frutas": [
+        {
+            "id": 74,
+            "stamps": 1
+        },
+        {
+            "id": 75,
+            "stamps": 6
+        },
+        {
+            "id": 76,
+            "stamps": 12
+        }
+    ],
+    "Card-jitsu Nieve": [
+        {
+            "id": 77,
+            "stamps": 5
+        },
+        {
+            "id": 78,
+            "stamps": 12
+        },
+        {
+            "id": 79,
+            "stamps": 21
+        }
+    ]
+}
