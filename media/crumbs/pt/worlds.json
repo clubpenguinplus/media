@@ -1,1 +1,42 @@
-{"live":{"Login":{"host":"login.cpplus.pw","login":true,"path":"/socket/"},"Blizzard":{"host":"blizzard.cpplus.pw","path":"/socket/","unlock":true}},"local":{"Login":{"host":"","path":"/world/login/socket/","login":true},"Blizzard":{"host":"","path":"/world/blizzard/socket/","unlock":true}},"dev":{"Login":{"host":"login.cpplus.pw","login":true,"path":"/socket/"},"Blizzard":{"host":"blizzard.cpplus.pw","path":"/socket/","unlock":true},"Development":{"host":"development.cpplus.pw","path":"/socket/"}}}
+{
+    "live": {
+        "Login": {
+            "host": "login.cpplus.pw",
+            "login": true,
+            "path": "/socket/"
+        },
+        "Blizzard": {
+            "host": "blizzard.cpplus.pw",
+            "path": "/socket/",
+            "unlock": true
+        }
+    },
+    "local": {
+        "Login": {
+            "host": "",
+            "path": "/world/login/socket/",
+            "login": true
+        },
+        "Blizzard": {
+            "host": "",
+            "path": "/world/blizzard/socket/",
+            "unlock": true
+        }
+    },
+    "dev": {
+        "Login": {
+            "host": "login.cpplus.pw",
+            "login": true,
+            "path": "/socket/"
+        },
+        "Blizzard": {
+            "host": "blizzard.cpplus.pw",
+            "path": "/socket/",
+            "unlock": true
+        },
+        "Development": {
+            "host": "development.cpplus.pw",
+            "path": "/socket/"
+        }
+    }
+}
