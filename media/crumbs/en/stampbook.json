@@ -84,7 +84,21 @@
             "frame": "pagebgs/mascots",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 10,
+                "stamps": 1
+            },
+            {
+                "id": 11,
+                "stamps": 4
+            },
+            {
+                "id": 12,
+                "stamps": 7
+            }
+        ]
     },
     "party": {
         "id": "party",
@@ -105,7 +119,21 @@
             "y": 853,
             "scaleX": 0.9,
             "scaleY": 0.9
-        }
+        },
+        "polaroids": [
+            {
+                "id": 30,
+                "stamps": 1
+            },
+            {
+                "id": 31,
+                "stamps": 2
+            },
+            {
+                "id": 52,
+                "stamps": 12
+            }
+        ]
     },
     "activities": {
         "id": "activities",
@@ -124,7 +152,21 @@
             "frame": "pagebgs/activities",
             "x": 744,
             "y": 749
-        }
+        },
+        "polaroids": [
+            {
+                "id": 1,
+                "stamps": 1
+            },
+            {
+                "id": 2,
+                "stamps": 9
+            },
+            {
+                "id": 3,
+                "stamps": 17
+            }
+        ]
     },
     "games": {
         "id": "games",
@@ -258,7 +300,21 @@
             "frame": "pagebgs/aqua",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 4,
+                "stamps": 1
+            },
+            {
+                "id": 5,
+                "stamps": 10
+            },
+            {
+                "id": 6,
+                "stamps": 20
+            }
+        ]
     },
     "astro": {
         "id": "astro",
@@ -277,7 +333,21 @@
             "frame": "pagebgs/astro",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 7,
+                "stamps": 1
+            },
+            {
+                "id": 8,
+                "stamps": 6
+            },
+            {
+                "id": 9,
+                "stamps": 12
+            }
+        ]
     },
     "card": {
         "id": "card",
@@ -296,7 +366,21 @@
             "frame": "pagebgs/jitsu",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 42,
+                "stamps": 1
+            },
+            {
+                "id": 43,
+                "stamps": 5
+            },
+            {
+                "id": 44,
+                "stamps": 10
+            }
+        ]
     },
     "cjfire": {
         "id": "cjfire",
@@ -315,7 +399,21 @@
             "frame": "pagebgs/firejitsu",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 45,
+                "stamps": 1
+            },
+            {
+                "id": 46,
+                "stamps": 4
+            },
+            {
+                "id": 47,
+                "stamps": 8
+            }
+        ]
     },
     "cjsnow": {
         "id": "cjsnow",
@@ -334,7 +432,21 @@
             "frame": "pagebgs/snowjitsu",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 77,
+                "stamps": 5
+            },
+            {
+                "id": 78,
+                "stamps": 12
+            },
+            {
+                "id": 79,
+                "stamps": 21
+            }
+        ]
     },
     "cjwater": {
         "id": "cjwater",
@@ -353,7 +465,21 @@
             "frame": "pagebgs/waterjitsu",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 48,
+                "stamps": 1
+            },
+            {
+                "id": 49,
+                "stamps": 4
+            },
+            {
+                "id": 50,
+                "stamps": 8
+            }
+        ]
     },
     "cart": {
         "id": "cart",
@@ -372,7 +498,21 @@
             "frame": "pagebgs/surfer",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 38,
+                "stamps": 1
+            },
+            {
+                "id": 39,
+                "stamps": 6
+            },
+            {
+                "id": 40,
+                "stamps": 12
+            }
+        ]
     },
     "waves": {
         "id": "waves",
@@ -391,7 +531,21 @@
             "frame": "pagebgs/waves",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 25,
+                "stamps": 1
+            },
+            {
+                "id": 26,
+                "stamps": 10
+            },
+            {
+                "id": 27,
+                "stamps": 22
+            }
+        ]
     },
     "fishing": {
         "id": "fishing",
@@ -410,7 +564,21 @@
             "frame": "pagebgs/fishing",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 62,
+                "stamps": 1
+            },
+            {
+                "id": 63,
+                "stamps": 5
+            },
+            {
+                "id": 64,
+                "stamps": 10
+            }
+        ]
     },
     "jpa": {
         "id": "jpa",
@@ -429,7 +597,25 @@
             "frame": "pagebgs/jetpack",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 13,
+                "stamps": 1
+            },
+            {
+                "id": 14,
+                "stamps": 7
+            },
+            {
+                "id": 15,
+                "stamps": 14
+            },
+            {
+                "id": 41,
+                "stamps": 18
+            }
+        ]
     },
     "missions": {
         "id": "missions",
@@ -448,7 +634,21 @@
             "frame": "pagebgs/missions",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 35,
+                "stamps": 1
+            },
+            {
+                "id": 36,
+                "stamps": 11
+            },
+            {
+                "id": 37,
+                "stamps": 22
+            }
+        ]
     },
     "pizzatron": {
         "id": "pizzatron",
@@ -467,7 +667,21 @@
             "frame": "pagebgs/pizzatron",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 65,
+                "stamps": 1
+            },
+            {
+                "id": 66,
+                "stamps": 5
+            },
+            {
+                "id": 67,
+                "stamps": 10
+            }
+        ]
     },
     "launch": {
         "id": "launch",
@@ -486,7 +700,21 @@
             "frame": "pagebgs/pufflelaunch",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 56,
+                "stamps": 1
+            },
+            {
+                "id": 57,
+                "stamps": 6
+            },
+            {
+                "id": 58,
+                "stamps": 12
+            }
+        ]
     },
     "rescue": {
         "id": "rescue",
@@ -505,7 +733,21 @@
             "frame": "pagebgs/rescue",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 33,
+                "stamps": 1
+            },
+            {
+                "id": 32,
+                "stamps": 15
+            },
+            {
+                "id": 34,
+                "stamps": 27
+            }
+        ]
     },
     "pufflescape": {
         "id": "pufflescape",
@@ -524,7 +766,21 @@
             "frame": "pagebgs/pufflescape",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 71,
+                "stamps": 1
+            },
+            {
+                "id": 72,
+                "stamps": 5
+            },
+            {
+                "id": 73,
+                "stamps": 11
+            }
+        ]
     },
     "smoothie": {
         "id": "smoothie",
@@ -543,7 +799,21 @@
             "frame": "pagebgs/smoothie",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 74,
+                "stamps": 1
+            },
+            {
+                "id": 75,
+                "stamps": 6
+            },
+            {
+                "id": 76,
+                "stamps": 12
+            }
+        ]
     },
     "sysdef": {
         "id": "sysdef",
@@ -562,7 +832,21 @@
             "frame": "pagebgs/defender",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 53,
+                "stamps": 1
+            },
+            {
+                "id": 54,
+                "stamps": 5
+            },
+            {
+                "id": 55,
+                "stamps": 14
+            }
+        ]
     },
     "thinice": {
         "id": "thinice",
@@ -581,7 +865,21 @@
             "frame": "pagebgs/thinice",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 22,
+                "stamps": 1
+            },
+            {
+                "id": 23,
+                "stamps": 5
+            },
+            {
+                "id": 24,
+                "stamps": 9
+            }
+        ]
     },
     "hunt": {
         "id": "hunt",
@@ -600,7 +898,21 @@
             "frame": "pagebgs/treasurehunt",
             "x": 744,
             "y": 862
-        }
+        },
+        "polaroids": [
+            {
+                "id": 68,
+                "stamps": 1
+            },
+            {
+                "id": 69,
+                "stamps": 3
+            },
+            {
+                "id": 70,
+                "stamps": 5
+            }
+        ]
     },
     "pins": {
         "id": "pins",

@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "51-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 264,
+				"h": 201
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bodyBG",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 28,
+						"w": 224,
+						"h": 199
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 224,
+						"h": 199
+					}
+				},
+				{
+					"filename": "body",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 137,
+						"w": 36,
+						"h": 67
+					},
+					"frame": {
+						"x": 227,
+						"y": 1,
+						"w": 36,
+						"h": 67
+					}
+				},
+				{
+					"filename": "background",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 227,
+						"y": 70,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:616f5f423b94a145988e34172e13d553:0493ecd0d6aa9d81f95621e623990647:034f3e75b401b667beec653e567a5cd9$"
+	}
+}
