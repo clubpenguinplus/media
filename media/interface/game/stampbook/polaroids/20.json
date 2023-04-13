@@ -10,24 +10,24 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "background",
+					"filename": "bodyBG",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 3,
-						"h": 3
+						"w": 224,
+						"h": 199
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 3,
-						"h": 3
+						"w": 224,
+						"h": 199
 					}
 				},
 				{
@@ -35,18 +35,18 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 57,
-						"y": 57,
+						"x": 32,
+						"y": 29,
 						"w": 113,
 						"h": 116
 					},
 					"frame": {
-						"x": 6,
-						"y": 1,
+						"x": 1,
+						"y": 202,
 						"w": 113,
 						"h": 116
 					}
@@ -56,41 +56,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 57,
-						"y": 57,
+						"x": 32,
+						"y": 29,
 						"w": 101,
 						"h": 116
 					},
 					"frame": {
-						"x": 121,
-						"y": 1,
+						"x": 116,
+						"y": 202,
 						"w": 101,
 						"h": 116
-					}
-				},
-				{
-					"filename": "bodyBG",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 260,
-						"h": 240
-					},
-					"spriteSourceSize": {
-						"x": 25,
-						"y": 28,
-						"w": 224,
-						"h": 199
-					},
-					"frame": {
-						"x": 1,
-						"y": 119,
-						"w": 224,
-						"h": 199
 					}
 				}
 			]
@@ -99,6 +78,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:505070495b5bb645ef5f8c75b01e792d:bfb4399e2a5b3283fa27ca448b052449:8fdec325e15e2a30a0461135750d8606$"
+		"smartupdate": "$TexturePacker:SmartUpdate:74e7f23534a07d3146ca0bfdc44c1e24:093fa0996ba45a775ed7893e822c0dd5:8fdec325e15e2a30a0461135750d8606$"
 	}
 }

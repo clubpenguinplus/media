@@ -14,12 +14,12 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 79,
-						"y": 77,
+						"x": 54,
+						"y": 49,
 						"w": 131,
 						"h": 101
 					},
@@ -35,12 +35,12 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 102,
-						"y": 82,
+						"x": 77,
+						"y": 54,
 						"w": 108,
 						"h": 106
 					},
@@ -56,12 +56,12 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 25,
-						"y": 95,
+						"x": 0,
+						"y": 67,
 						"w": 92,
 						"h": 113
 					},
@@ -77,12 +77,12 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 100,
-						"y": 55,
+						"x": 75,
+						"y": 27,
 						"w": 134,
 						"h": 156
 					},
@@ -98,12 +98,12 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 25,
-						"y": 28,
+						"x": 0,
+						"y": 0,
 						"w": 224,
 						"h": 199
 					},
@@ -120,6 +120,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:59a99a6c10082d384d5721c0fb26076c:a3fdbd8f0ba736bf2bec82ef049e35ba:ea2e352909163fd6019a41d04d59d02c$"
+		"smartupdate": "$TexturePacker:SmartUpdate:eda9e89bc1ee7bb118e40c6d5d0b4f06:b27ff984c56d94fcaa44d5613e563b96:ea2e352909163fd6019a41d04d59d02c$"
 	}
 }

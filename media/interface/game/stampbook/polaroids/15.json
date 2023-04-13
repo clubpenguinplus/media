@@ -10,24 +10,24 @@
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "background",
+					"filename": "bodyBG",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 3,
-						"h": 3
+						"w": 224,
+						"h": 199
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 3,
-						"h": 3
+						"w": 224,
+						"h": 199
 					}
 				},
 				{
@@ -35,18 +35,18 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 105,
-						"y": 104,
+						"x": 80,
+						"y": 76,
 						"w": 70,
 						"h": 58
 					},
 					"frame": {
-						"x": 6,
-						"y": 1,
+						"x": 1,
+						"y": 202,
 						"w": 70,
 						"h": 58
 					}
@@ -56,41 +56,20 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 260,
-						"h": 240
+						"w": 224,
+						"h": 199
 					},
 					"spriteSourceSize": {
-						"x": 105,
-						"y": 104,
+						"x": 80,
+						"y": 76,
 						"w": 62,
 						"h": 58
 					},
 					"frame": {
-						"x": 78,
-						"y": 1,
+						"x": 73,
+						"y": 202,
 						"w": 62,
 						"h": 58
-					}
-				},
-				{
-					"filename": "bodyBG",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 260,
-						"h": 240
-					},
-					"spriteSourceSize": {
-						"x": 25,
-						"y": 28,
-						"w": 224,
-						"h": 199
-					},
-					"frame": {
-						"x": 1,
-						"y": 61,
-						"w": 224,
-						"h": 199
 					}
 				}
 			]
@@ -99,6 +78,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:45bede04b3923a66f53e967e8aae20d1:680369f608bb96d45007664c4d82d33c:de80d7a32e6b832b93a9fa8c32d1f4bd$"
+		"smartupdate": "$TexturePacker:SmartUpdate:c98dadc6613345e630f9a3c57da08552:427e62e4edbf632c98212dcea87af2cf:de80d7a32e6b832b93a9fa8c32d1f4bd$"
 	}
 }
