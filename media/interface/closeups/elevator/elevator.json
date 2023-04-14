@@ -1,0 +1,367 @@
+{
+	"textures": [
+		{
+			"image": "elevator-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2021,
+				"h": 1984
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "text-pt",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 556,
+						"h": 706
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 24,
+						"w": 497,
+						"h": 658
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 497,
+						"h": 658
+					}
+				},
+				{
+					"filename": "text-en",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 556,
+						"h": 706
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 24,
+						"w": 492,
+						"h": 677
+					},
+					"frame": {
+						"x": 1523,
+						"y": 661,
+						"w": 492,
+						"h": 677
+					}
+				},
+				{
+					"filename": "gymBtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1171,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1171,
+						"h": 213
+					}
+				},
+				{
+					"filename": "gymBtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1171,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1171,
+						"h": 213
+					}
+				},
+				{
+					"filename": "text-es",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 556,
+						"h": 706
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 21,
+						"w": 543,
+						"h": 680
+					},
+					"frame": {
+						"x": 1,
+						"y": 1178,
+						"w": 543,
+						"h": 680
+					}
+				},
+				{
+					"filename": "closeBtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 1860,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "closeBtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 1860,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "closeBtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 1860,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "gymBtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1171,
+						"h": 213
+					},
+					"frame": {
+						"x": 546,
+						"y": 1340,
+						"w": 1171,
+						"h": 213
+					}
+				},
+				{
+					"filename": "lobbyBtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1171,
+						"h": 213
+					},
+					"frame": {
+						"x": 546,
+						"y": 1555,
+						"w": 1171,
+						"h": 213
+					}
+				},
+				{
+					"filename": "lobbyBtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1171,
+						"h": 213
+					},
+					"frame": {
+						"x": 546,
+						"y": 1555,
+						"w": 1171,
+						"h": 213
+					}
+				},
+				{
+					"filename": "lobbyBtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1171,
+						"h": 213
+					},
+					"frame": {
+						"x": 546,
+						"y": 1770,
+						"w": 1171,
+						"h": 213
+					}
+				}
+			]
+		},
+		{
+			"image": "elevator-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1172,
+				"h": 430
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "roofBtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1170,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1170,
+						"h": 213
+					}
+				},
+				{
+					"filename": "roofBtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1170,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1170,
+						"h": 213
+					}
+				},
+				{
+					"filename": "roofBtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 1170,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 216,
+						"w": 1170,
+						"h": 213
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9028c4070c73e70f43fba5063b1d5eec:6894372abc72444a63e97d0562cd797e:2fb531a350fc13f66ed1abac476f2712$"
+	}
+}

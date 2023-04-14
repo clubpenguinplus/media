@@ -1,0 +1,1669 @@
+{
+	"textures": [
+		{
+			"image": "rainbowquest-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2026,
+				"h": 2037
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1522,
+						"h": 962
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1522,
+						"h": 962
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1522,
+						"h": 962
+					}
+				},
+				{
+					"filename": "task4/card-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 696
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 696
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 500,
+						"h": 696
+					}
+				},
+				{
+					"filename": "task4/card",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 696
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 696
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1,
+						"w": 500,
+						"h": 696
+					}
+				},
+				{
+					"filename": "task1/card",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 495,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 495,
+						"h": 694
+					},
+					"frame": {
+						"x": 503,
+						"y": 965,
+						"w": 495,
+						"h": 694
+					}
+				},
+				{
+					"filename": "header",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 466,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 466,
+						"h": 239
+					},
+					"frame": {
+						"x": 1,
+						"y": 1663,
+						"w": 466,
+						"h": 239
+					}
+				},
+				{
+					"filename": "puffle-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 471,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 471,
+						"h": 232
+					},
+					"frame": {
+						"x": 1525,
+						"y": 699,
+						"w": 471,
+						"h": 232
+					}
+				},
+				{
+					"filename": "puffle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 471,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 471,
+						"h": 232
+					},
+					"frame": {
+						"x": 1000,
+						"y": 965,
+						"w": 471,
+						"h": 232
+					}
+				},
+				{
+					"filename": "task4/preview",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 403,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 403,
+						"h": 268
+					},
+					"frame": {
+						"x": 1000,
+						"y": 1199,
+						"w": 403,
+						"h": 268
+					}
+				},
+				{
+					"filename": "bonus-coins-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 465,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 465,
+						"h": 206
+					},
+					"frame": {
+						"x": 1000,
+						"y": 1469,
+						"w": 465,
+						"h": 206
+					}
+				},
+				{
+					"filename": "bonus-coins",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 465,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 465,
+						"h": 206
+					},
+					"frame": {
+						"x": 1525,
+						"y": 933,
+						"w": 465,
+						"h": 206
+					}
+				},
+				{
+					"filename": "task1/preview",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 407,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 402,
+						"h": 265
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1141,
+						"w": 402,
+						"h": 265
+					}
+				},
+				{
+					"filename": "task2/preview",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 396,
+						"h": 255
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 396,
+						"h": 255
+					},
+					"frame": {
+						"x": 1467,
+						"y": 1408,
+						"w": 396,
+						"h": 255
+					}
+				},
+				{
+					"filename": "task3/preview",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 392,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 392,
+						"h": 250
+					},
+					"frame": {
+						"x": 1467,
+						"y": 1665,
+						"w": 392,
+						"h": 250
+					}
+				},
+				{
+					"filename": "task3/item-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 140,
+						"h": 207
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1141,
+						"w": 140,
+						"h": 207
+					}
+				},
+				{
+					"filename": "brown-btn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 203,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 202,
+						"h": 69
+					},
+					"frame": {
+						"x": 1,
+						"y": 1904,
+						"w": 202,
+						"h": 69
+					}
+				},
+				{
+					"filename": "brown-btn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 203,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 202,
+						"h": 69
+					},
+					"frame": {
+						"x": 205,
+						"y": 1904,
+						"w": 202,
+						"h": 69
+					}
+				},
+				{
+					"filename": "task4/item-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 0,
+						"w": 153,
+						"h": 209
+					},
+					"frame": {
+						"x": 469,
+						"y": 1663,
+						"w": 153,
+						"h": 209
+					}
+				},
+				{
+					"filename": "task1/icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 157
+					},
+					"frame": {
+						"x": 624,
+						"y": 1661,
+						"w": 231,
+						"h": 157
+					}
+				},
+				{
+					"filename": "task2/item-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 0,
+						"w": 139,
+						"h": 154
+					},
+					"frame": {
+						"x": 857,
+						"y": 1661,
+						"w": 139,
+						"h": 154
+					}
+				},
+				{
+					"filename": "task2/icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 157
+					},
+					"frame": {
+						"x": 998,
+						"y": 1677,
+						"w": 179,
+						"h": 157
+					}
+				},
+				{
+					"filename": "task4/icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 150
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1677,
+						"w": 167,
+						"h": 150
+					}
+				},
+				{
+					"filename": "brown-btn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 203,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 201,
+						"h": 68
+					},
+					"frame": {
+						"x": 624,
+						"y": 1820,
+						"w": 201,
+						"h": 68
+					}
+				},
+				{
+					"filename": "task3/green-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 1975,
+						"w": 163,
+						"h": 57
+					}
+				},
+				{
+					"filename": "task3/green-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 57
+					},
+					"frame": {
+						"x": 166,
+						"y": 1975,
+						"w": 163,
+						"h": 57
+					}
+				},
+				{
+					"filename": "task1/coins-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 140,
+						"h": 100
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1350,
+						"w": 140,
+						"h": 100
+					}
+				},
+				{
+					"filename": "task3/item-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 150,
+						"h": 171
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1452,
+						"w": 150,
+						"h": 171
+					}
+				},
+				{
+					"filename": "task1/coins-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 148
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1625,
+						"w": 152,
+						"h": 148
+					}
+				},
+				{
+					"filename": "task3/icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 147
+					},
+					"frame": {
+						"x": 1861,
+						"y": 1775,
+						"w": 162,
+						"h": 147
+					}
+				},
+				{
+					"filename": "task1/checkbox",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 62,
+						"h": 61
+					},
+					"frame": {
+						"x": 331,
+						"y": 1975,
+						"w": 62,
+						"h": 61
+					}
+				},
+				{
+					"filename": "task3/coins-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 144
+					},
+					"frame": {
+						"x": 469,
+						"y": 1874,
+						"w": 152,
+						"h": 144
+					}
+				},
+				{
+					"filename": "task2/coins-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 151,
+						"h": 145
+					},
+					"frame": {
+						"x": 623,
+						"y": 1890,
+						"w": 151,
+						"h": 145
+					}
+				},
+				{
+					"filename": "task4/green-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 64
+					},
+					"frame": {
+						"x": 1179,
+						"y": 1829,
+						"w": 165,
+						"h": 64
+					}
+				},
+				{
+					"filename": "task4/coins-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 4,
+						"w": 139,
+						"h": 97
+					},
+					"frame": {
+						"x": 857,
+						"y": 1817,
+						"w": 139,
+						"h": 97
+					}
+				},
+				{
+					"filename": "task4/coins-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 147
+					},
+					"frame": {
+						"x": 998,
+						"y": 1836,
+						"w": 151,
+						"h": 147
+					}
+				},
+				{
+					"filename": "task4/green-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 64
+					},
+					"frame": {
+						"x": 1151,
+						"y": 1895,
+						"w": 165,
+						"h": 64
+					}
+				},
+				{
+					"filename": "task4/green-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 64
+					},
+					"frame": {
+						"x": 1151,
+						"y": 1961,
+						"w": 165,
+						"h": 64
+					}
+				},
+				{
+					"filename": "task3/coins-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 140,
+						"h": 97
+					},
+					"frame": {
+						"x": 776,
+						"y": 1916,
+						"w": 140,
+						"h": 97
+					}
+				},
+				{
+					"filename": "lights0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 21
+					},
+					"frame": {
+						"x": 776,
+						"y": 2015,
+						"w": 124,
+						"h": 21
+					}
+				},
+				{
+					"filename": "task4/checkbox-checked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 65
+					},
+					"frame": {
+						"x": 918,
+						"y": 1916,
+						"w": 78,
+						"h": 65
+					}
+				},
+				{
+					"filename": "lights0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 21
+					},
+					"frame": {
+						"x": 902,
+						"y": 2015,
+						"w": 124,
+						"h": 21
+					}
+				},
+				{
+					"filename": "task1/checkbox-checked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 69
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1677,
+						"w": 75,
+						"h": 69
+					}
+				},
+				{
+					"filename": "task3/checkbox-checked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 67
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1748,
+						"w": 76,
+						"h": 67
+					}
+				},
+				{
+					"filename": "task4/checkbox",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 82,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 62,
+						"h": 61
+					},
+					"frame": {
+						"x": 395,
+						"y": 1975,
+						"w": 62,
+						"h": 61
+					}
+				},
+				{
+					"filename": "task2/checkbox",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 62,
+						"h": 60
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1199,
+						"w": 62,
+						"h": 60
+					}
+				},
+				{
+					"filename": "task2/coins-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 7,
+						"w": 141,
+						"h": 96
+					},
+					"frame": {
+						"x": 1318,
+						"y": 1895,
+						"w": 141,
+						"h": 96
+					}
+				},
+				{
+					"filename": "task2/coins-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 4,
+						"w": 124,
+						"h": 83
+					},
+					"frame": {
+						"x": 1461,
+						"y": 1917,
+						"w": 124,
+						"h": 83
+					}
+				},
+				{
+					"filename": "task4/coins-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 147
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 123,
+						"h": 84
+					},
+					"frame": {
+						"x": 1587,
+						"y": 1917,
+						"w": 123,
+						"h": 84
+					}
+				},
+				{
+					"filename": "lights0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 21
+					},
+					"frame": {
+						"x": 1318,
+						"y": 1993,
+						"w": 124,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lights0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 21
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1917,
+						"w": 124,
+						"h": 21
+					}
+				},
+				{
+					"filename": "lights0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 124,
+						"h": 21
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1940,
+						"w": 124,
+						"h": 21
+					}
+				},
+				{
+					"filename": "task3/checkbox",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 61,
+						"h": 59
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1261,
+						"w": 61,
+						"h": 59
+					}
+				},
+				{
+					"filename": "task2/checkbox-checked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 78,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 77,
+						"h": 66
+					},
+					"frame": {
+						"x": 1712,
+						"y": 1963,
+						"w": 77,
+						"h": 66
+					}
+				},
+				{
+					"filename": "closeBtn-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 409,
+						"y": 1904,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "closeBtn-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 409,
+						"y": 1904,
+						"w": 53,
+						"h": 53
+					}
+				},
+				{
+					"filename": "closeBtn",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 66,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 53,
+						"h": 53
+					},
+					"frame": {
+						"x": 409,
+						"y": 1904,
+						"w": 53,
+						"h": 53
+					}
+				}
+			]
+		},
+		{
+			"image": "rainbowquest-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 953,
+				"h": 1958
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "task2/card-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 489,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 481,
+						"h": 684
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 481,
+						"h": 684
+					}
+				},
+				{
+					"filename": "task3/card-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 677
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 468,
+						"h": 677
+					},
+					"frame": {
+						"x": 484,
+						"y": 1,
+						"w": 468,
+						"h": 677
+					}
+				},
+				{
+					"filename": "task2/card",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 489,
+						"h": 695
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 481,
+						"h": 684
+					},
+					"frame": {
+						"x": 1,
+						"y": 687,
+						"w": 481,
+						"h": 684
+					}
+				},
+				{
+					"filename": "task3/card",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 468,
+						"h": 677
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 468,
+						"h": 677
+					},
+					"frame": {
+						"x": 484,
+						"y": 680,
+						"w": 468,
+						"h": 677
+					}
+				},
+				{
+					"filename": "bonus-item-locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 465,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 465,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1373,
+						"w": 465,
+						"h": 206
+					}
+				},
+				{
+					"filename": "bonus-item",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 465,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 465,
+						"h": 206
+					},
+					"frame": {
+						"x": 1,
+						"y": 1581,
+						"w": 465,
+						"h": 206
+					}
+				},
+				{
+					"filename": "task1/item-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 37,
+						"w": 150,
+						"h": 168
+					},
+					"frame": {
+						"x": 1,
+						"y": 1789,
+						"w": 150,
+						"h": 168
+					}
+				},
+				{
+					"filename": "task2/item-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 150,
+						"h": 167
+					},
+					"frame": {
+						"x": 153,
+						"y": 1789,
+						"w": 150,
+						"h": 167
+					}
+				},
+				{
+					"filename": "task4/item-collected",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 150,
+						"h": 167
+					},
+					"frame": {
+						"x": 305,
+						"y": 1789,
+						"w": 150,
+						"h": 167
+					}
+				},
+				{
+					"filename": "task1/item-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 0,
+						"w": 152,
+						"h": 209
+					},
+					"frame": {
+						"x": 468,
+						"y": 1373,
+						"w": 152,
+						"h": 209
+					}
+				},
+				{
+					"filename": "task3/item-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 178,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 151,
+						"h": 209
+					},
+					"frame": {
+						"x": 468,
+						"y": 1584,
+						"w": 151,
+						"h": 209
+					}
+				},
+				{
+					"filename": "task2/item-locked",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 206
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 0,
+						"w": 150,
+						"h": 206
+					},
+					"frame": {
+						"x": 622,
+						"y": 1359,
+						"w": 150,
+						"h": 206
+					}
+				},
+				{
+					"filename": "task1/item-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 0,
+						"w": 140,
+						"h": 204
+					},
+					"frame": {
+						"x": 774,
+						"y": 1359,
+						"w": 140,
+						"h": 204
+					}
+				},
+				{
+					"filename": "task3/green-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 57
+					},
+					"frame": {
+						"x": 457,
+						"y": 1795,
+						"w": 163,
+						"h": 57
+					}
+				},
+				{
+					"filename": "task1/green-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 58
+					},
+					"frame": {
+						"x": 457,
+						"y": 1854,
+						"w": 151,
+						"h": 58
+					}
+				},
+				{
+					"filename": "task4/item-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 175,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 0,
+						"w": 140,
+						"h": 203
+					},
+					"frame": {
+						"x": 621,
+						"y": 1584,
+						"w": 140,
+						"h": 203
+					}
+				},
+				{
+					"filename": "task1/green-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 58
+					},
+					"frame": {
+						"x": 622,
+						"y": 1789,
+						"w": 151,
+						"h": 58
+					}
+				},
+				{
+					"filename": "task1/green-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 58
+					},
+					"frame": {
+						"x": 622,
+						"y": 1849,
+						"w": 151,
+						"h": 58
+					}
+				},
+				{
+					"filename": "task2/green-btn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 55
+					},
+					"frame": {
+						"x": 774,
+						"y": 1565,
+						"w": 150,
+						"h": 55
+					}
+				},
+				{
+					"filename": "task1/coins-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 123,
+						"h": 83
+					},
+					"frame": {
+						"x": 763,
+						"y": 1622,
+						"w": 123,
+						"h": 83
+					}
+				},
+				{
+					"filename": "task2/green-btn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 55
+					},
+					"frame": {
+						"x": 763,
+						"y": 1707,
+						"w": 150,
+						"h": 55
+					}
+				},
+				{
+					"filename": "task3/coins-collect",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 0,
+						"w": 123,
+						"h": 81
+					},
+					"frame": {
+						"x": 775,
+						"y": 1764,
+						"w": 123,
+						"h": 81
+					}
+				},
+				{
+					"filename": "task2/green-btn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 55
+					},
+					"frame": {
+						"x": 775,
+						"y": 1847,
+						"w": 150,
+						"h": 55
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8346845141140d56dcea8591ff8fa698:6eccfcbf97e825cf05bb185c2bc99106:c11e9f624498b17f6c7568a52b5d7480$"
+	}
+}
