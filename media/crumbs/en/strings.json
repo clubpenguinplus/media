@@ -459,6 +459,7 @@
         "49": "Your account has not previously logged in from this device. Please check your email for a link to verify this login location.",
         "50": "This is not a valid code.",
         "51": "You have already redeemed this code.",
-        "52": "Please enter a name for your Puffle."
+        "52": "Please enter a name for your Puffle.",
+        "53": "You cannot have more than 75 puffles."
     }
 }
