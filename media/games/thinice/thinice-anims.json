@@ -698,7 +698,9 @@
             ],
             "frameRate": 24,
             "skipMissedFrames": true,
-            "showBeforeDelay": false
+            "showBeforeDelay": false,
+            "showOnStart": true,
+            "hideOnComplete": true
         },
         {
             "key": "thinice-tile_22_float",
