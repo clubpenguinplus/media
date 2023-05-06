@@ -458,6 +458,9 @@
         "48": "Desculpe, mas seu nome de usuário deve conter apenas letras, números e espaços.",
         "49": "Sua conta não fez login anteriormente neste dispositivo. Por favor, verifique seu e-mail para obter um link para verificar este local de login.",
         "50": "Este não é um código válido.",
-        "51": "Você já resgatou este código."
+        "51": "Você já resgatou este código.",
+        "52": "Digite um nome para seu Puffle.",
+        "53": "Você não pode ter mais de 75 puffles.",
+        "54": "Ainda estamos trabalhando nesse recurso! Volte mais tarde."
     }
 }

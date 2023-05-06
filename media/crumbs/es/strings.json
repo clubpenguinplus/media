@@ -458,6 +458,9 @@
         "48": "Lo sentimos, pero su nombre de usuario debe contener solo letras, números y espacios.",
         "49": "Su cuenta no ha iniciado sesión previamente desde este dispositivo. Verifique su correo electrónico en busca de un enlace para verificar esta ubicación de inicio de sesión.",
         "50": "Este no es un código válido.",
-        "51": "Ya has validado este código."
+        "51": "Ya has validado este código.",
+        "52": "Introduzca un nombre para su Puffle.",
+        "53": "No puedes tener más de 75 puffles.",
+        "54": "Seguimos trabajando en esta función. Vuelve a comprobarlo más tarde."
     }
 }

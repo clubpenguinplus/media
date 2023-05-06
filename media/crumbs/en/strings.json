@@ -460,6 +460,7 @@
         "50": "This is not a valid code.",
         "51": "You have already redeemed this code.",
         "52": "Please enter a name for your Puffle.",
-        "53": "You cannot have more than 75 puffles."
+        "53": "You cannot have more than 75 puffles.",
+        "54": "We're still working on this feature! Please check back later."
     }
 }
