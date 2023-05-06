@@ -15957,22 +15957,26 @@
     "5471": {
         "name": "Tabla de skate profesional patrocinada",
         "type": 6,
-        "cost": 100
+        "cost": 100,
+        "depth": 1
     },
     "5472": {
         "name": "Tabla de skate de fluffy",
         "type": 6,
-        "cost": 100
+        "cost": 100,
+        "depth": 1
     },
     "5473": {
         "name": "Tabla de skate rosa galáctico",
         "type": 6,
-        "cost": 100
+        "cost": 100,
+        "depth": 1
     },
     "5474": {
         "name": "Tabla de skate de oso malvado",
         "type": 6,
-        "cost": 100
+        "cost": 100,
+        "depth": 1
     },
     "5475": {
         "name": "",

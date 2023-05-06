@@ -406,6 +406,10 @@
     "puffle-1007-personality": "Curious, demanding",
     "puffle-1007-wild": "Getting stuck in trees",
     "puffle-1007-fact": "Loves to hide in tiny spaces",
+    "map-places": "Places",
+    "map-games": "Games",
+    "map-shops": "Shops",
+    "map-pets": "Pets",
     "errors": {
         "0": "You need more coins",
         "1": "You already have this item",
