@@ -410,7 +410,7 @@
     "map-games": "Juegos",
     "map-shops": "Tiendas",
     "map-pets": "Mascotas",
-    "free-item-popup": "You have found a {args[0].\nWould you like to pick it up?",
+    "free-item-popup": "You have found a {args[0]}.\nWould you like to pick it up?",
     "paid-item-popup": "Would you like to buy {args[0]} for {args[1]} coins?\nYou currently have {args[2]} coins.",
     "okay": "Okay",
     "new-inventory-item": "{args[0]} has been added to your inventory.",

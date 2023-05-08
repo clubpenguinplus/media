@@ -410,7 +410,7 @@
     "map-games": "Jogos",
     "map-shops": "Lojas",
     "map-pets": "Puffles",
-    "free-item-popup": "Você achou {args[0].\nQuer colocar no seu inventário?",
+    "free-item-popup": "Você achou {args[0]}.\nQuer colocar no seu inventário?",
     "paid-item-popup": "Comprar {args[0]} por {args[1]} moedas?\nVocê tem {args[2]} moedas.",
     "okay": "Ok",
     "new-inventory-item": "{args[0]} já está no seu inventário.",
