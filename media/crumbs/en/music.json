@@ -1,4 +1,5 @@
 {
+    "0": "This JSON was manually compiled and written by the Club Penguin Plus team, using data from Bluestk's music spreadsheet, and the Club Penguin Wiki. You cannot find this data compilied like this elsewhere on the web. Please do not use without credit!",
     "1": {
         "name": "King of Kingston",
         "composer": "Paul Sumpter",
@@ -288,8 +289,176 @@
         "name": "CP Music Mashup 2016",
         "composer": "David Fairfield"
     },
+    "100": {
+        "name": "Yessir",
+        "composer": "Brian Nimens",
+        "alternate_names": [
+            "Mind That Buoy!",
+            "Hydro Hopper Theme"
+        ]
+    },
     "101": {
-        "name": "Organic Journey"
+        "name": "Organic Journey",
+        "composer": "Doug Brown",
+        "alternate_names": [
+            "Melodie du Crouton",
+            "Bean Counters Theme"
+        ]
+    },
+    "102": {
+        "name": "Renewed",
+        "composer": "Johnny Bone",
+        "alternate_names": [
+            "Southern Roundup",
+            "Puffle Roundup Theme"
+        ]
+    },
+    "103": {
+        "name": "Paris St. Germain",
+        "composer": "Jeremy Sherman",
+        "alternate_names": [
+            "Ice Fishing Theme"
+        ]
+    },
+    "104": {
+        "name": "Epic Suspense",
+        "composer": "Bjorn Lynne",
+        "alternate_names": [
+            "Cave Runner"
+        ]
+    },
+    "105": {
+        "name": "Maximum Wave",
+        "composer": "Danny Brown and Dan Wojciechowski",
+        "alternate_names": [
+            "Cart Surfer Theme"
+        ]
+    },
+    "106": {
+        "name": "Pizzatron 3000",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Pizzatron 3000 Theme"
+        ]
+    },
+    "110": {
+        "name": "Time Travellers",
+        "composer": "Thomasz Stobierski",
+        "alternate_names": [
+            "Jet Pack Adventure Theme"
+        ]
+    },
+    "111": {
+        "name": "Thin Ice",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Thin Ice Theme"
+        ]
+    },
+    "113": {
+        "name": "Catchin' Waves",
+        "composer": "Friction Music",
+        "alternate_names": [
+            "Catchin' Waves Theme"
+        ]
+    },
+    "114": {
+        "name": "Deep Reef",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Aqua Grabber Theme",
+            "Clam Waters"
+        ]
+    },
+    "115": {
+        "name": "Algae Reef",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Aqua Grabber Theme",
+            "Soda Seas"
+        ]
+    },
+    "116": {
+        "name": "Ninja Training",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Card-Jitsu Theme"
+        ]
+    },
+    "117": {
+        "name": "Sled Racing",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Sled Racing Theme"
+        ]
+    },
+    "118": {
+        "name": "Fire Path",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Card-Jitsu Fire Theme"
+        ]
+    },
+    "119": {
+        "name": "Ice Flow",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Puffle Rescue Theme",
+            "The Icelands"
+        ]
+    },
+    "120": {
+        "name": "In The Cave",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Puffle Rescue Theme",
+            "In The Caves"
+        ]
+    },
+    "121": {
+        "name": "Waterscape",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Puffle Rescue Theme",
+            "The Sea"
+        ]
+    },
+    "122": {
+        "name": "Blast Off!",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Boss Bullet Success"
+        ]
+    },
+    "123": {
+        "name": "Own The Skies",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Puffle Launch Boss"
+        ]
+    },
+    "124": {
+        "name": "Ramp It Up!",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Puffle Launch Theme"
+        ]
+    },
+    "125": {
+        "name": "Herbert Boss Battle",
+        "composer": "Chris Hendricks",
+        "alternate_names": [
+            "Bring on the Hydra",
+            "Battle of Doom"
+        ]
+    },
+    "198": {
+        "name": "Mystic Jungle",
+        "composer": "Arial Mann"
+    },
+    "199": {
+        "name": "Destination Groove",
+        "composer": "Arial Mann"
     },
     "242": {
         "name": "Mix Maestro"
