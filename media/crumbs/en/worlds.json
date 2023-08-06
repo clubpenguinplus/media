@@ -1,12 +1,12 @@
 {
     "live": {
         "Login": {
-            "host": "login.cpplus.pw",
+            "host": "https://login.cpplus.pw",
             "login": true,
             "path": "/socket/"
         },
         "Blizzard": {
-            "host": "blizzard.cpplus.pw",
+            "host": "https://blizzard.cpplus.pw",
             "path": "/socket/",
             "unlock": true
         }
@@ -25,17 +25,17 @@
     },
     "dev": {
         "Login": {
-            "host": "login.cpplus.pw",
+            "host": "https://login.cpplus.pw",
             "login": true,
             "path": "/socket/"
         },
         "Blizzard": {
-            "host": "blizzard.cpplus.pw",
+            "host": "https://blizzard.cpplus.pw",
             "path": "/socket/",
             "unlock": true
         },
         "Development": {
-            "host": "development.cpplus.pw",
+            "host": "https://development.cpplus.pw",
             "path": "/socket/"
         }
     }
