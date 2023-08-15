@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "client/media/rooms/cloudforest/cloudforest.json",
+                "path": "client/media/rooms/cloudforest",
+                "key": "cloudforest"
+            },
+            {
+                "url": "client/media/rooms/cloudforest/cloudforest-anims.json",
+                "type": "animation",
+                "key": "cloudforest-anims"
+            },
+            {
+                "url": "client/media/rooms/cloudforest/cloudforest-physics.json",
+                "type": "json",
+                "key": "cloudforest-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,672 @@
+{
+    "anims": [
+        {
+            "key": "puffle1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "puffle2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "puffle3",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "puffle4",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "puffle5",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "puffle6",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        },
+        {
+            "key": "puffle7",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cloudforest",
+                    "frame": "puffle_jumping0013",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showBeforeDelay": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}
