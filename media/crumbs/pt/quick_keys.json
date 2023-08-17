@@ -59,6 +59,9 @@
         "o": {
             "action": "send_safe",
             "value": 22
+        },
+        "escape": {
+            "action": "cancel_snowball"
         }
     },
     "emotes": {
