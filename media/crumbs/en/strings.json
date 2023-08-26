@@ -420,6 +420,7 @@
     "map-pets": "Pets",
     "free-item-popup": "You have found a {args[0]}.\nWould you like to pick it up?",
     "paid-item-popup": "Would you like to buy {args[0]} for {args[1]} coins?\nYou currently have {args[2]} coins.",
+    "medals-item-popup": "Would you like to buy {args[0]} for {args[1]} medals?\nYou currently have {args[2]} medals.",
     "okay": "Okay",
     "new-inventory-item": "{args[0]} has been added to your inventory.",
     "confirm-igloo-change": "Are you sure you want to change your igloo? \nYour flooring will be lost. \nIgloo items will be saved in your inventory.",
@@ -582,6 +583,7 @@
         "60": "You are not on the latest version of the game. Please clear your cache, and refresh the page to update.",
         "61": "Please exit your game before leaving the room",
         "62": "Please fill out all fields",
-        "63": "Sorry this server is full. Please select another server."
+        "63": "Sorry this server is full. Please select another server.",
+        "64": "You need more medals"
     }
 }

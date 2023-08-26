@@ -420,6 +420,7 @@
     "map-pets": "Puffles",
     "free-item-popup": "Você achou {args[0]}.\nQuer colocar no seu inventário?",
     "paid-item-popup": "Comprar {args[0]} por {args[1]} moedas?\nVocê tem {args[2]} moedas.",
+    "medals-item-popup": "Would you like to buy {args[0]} for {args[1]} medals?\nYou currently have {args[2]} medals.",
     "okay": "Ok",
     "new-inventory-item": "{args[0]} já está no seu inventário.",
     "confirm-igloo-change": "Você quer adicionar um iglu? \nTodos os itens serão guardados no depósito.",
@@ -563,6 +564,7 @@
         "60": "Seu jogo está desatualizado. Limpe seu cache e recarregue a página para atualizar.",
         "61": "Saia do jogo antes de sair da sala.",
         "62": "Preencha todos os campos primeiro.",
-        "63": "Parece que o servidor está cheio. Selecione outro servidor."
+        "63": "Parece que o servidor está cheio. Selecione outro servidor.",
+        "64": "You need more medals"
     }
 }
