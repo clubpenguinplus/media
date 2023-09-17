@@ -1,0 +1,94 @@
+{
+	"textures": [
+		{
+			"image": "sweetswirl-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 1914
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "bg-upper",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 1393,
+						"h": 950
+					},
+					"frame": {
+						"x": 1,
+						"y": 963,
+						"w": 1393,
+						"h": 950
+					}
+				}
+			]
+		},
+		{
+			"image": "sweetswirl-1.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1234,
+				"h": 449
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg_lower",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 500,
+						"w": 1232,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1232,
+						"h": 447
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:64c23ecff550adb06058d41320b929d3:5bfc3cea3b9e44aa37e73fcdca7fa63b:61ae0126c72ec3ac26e8a11540c96ecd$"
+	}
+}
