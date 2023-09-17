@@ -4,32 +4,11 @@
 			"image": "spacedome-0.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1504,
+				"w": 1667,
 				"h": 1784
 			},
 			"scale": 1,
 			"frames": [
-				{
-					"filename": "bg-upper",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 1520,
-						"h": 960
-					},
-					"spriteSourceSize": {
-						"x": 18,
-						"y": 26,
-						"w": 1502,
-						"h": 881
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 1502,
-						"h": 881
-					}
-				},
 				{
 					"filename": "fg",
 					"rotated": false,
@@ -46,9 +25,93 @@
 					},
 					"frame": {
 						"x": 1,
-						"y": 884,
+						"y": 1,
 						"w": 1501,
 						"h": 899
+					}
+				},
+				{
+					"filename": "bg-upper",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 26,
+						"w": 1502,
+						"h": 881
+					},
+					"frame": {
+						"x": 1,
+						"y": 902,
+						"w": 1502,
+						"h": 881
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 203,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 17,
+						"w": 162,
+						"h": 213
+					},
+					"frame": {
+						"x": 1504,
+						"y": 1,
+						"w": 162,
+						"h": 213
+					}
+				},
+				{
+					"filename": "door-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 203,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 17,
+						"w": 128,
+						"h": 213
+					},
+					"frame": {
+						"x": 1504,
+						"y": 216,
+						"w": 128,
+						"h": 213
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 203,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 17,
+						"w": 128,
+						"h": 213
+					},
+					"frame": {
+						"x": 1504,
+						"y": 216,
+						"w": 128,
+						"h": 213
 					}
 				}
 			]
@@ -89,6 +152,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:5e0dc94dd6835aee86a77984a7e406af:d7c70788432d227933296209372411fc:16d202876bc7296dec1f9f47b50069a1$"
+		"smartupdate": "$TexturePacker:SmartUpdate:bd31cfefc3ab8fb1480de5e42c1d718f:dfe731f128ea640f4527061c9c28e35c:16d202876bc7296dec1f9f47b50069a1$"
 	}
 }

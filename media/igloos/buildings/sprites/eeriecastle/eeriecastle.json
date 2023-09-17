@@ -4,7 +4,7 @@
 			"image": "eeriecastle-0.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1639,
+				"w": 1778,
 				"h": 1924
 			},
 			"scale": 1,
@@ -52,45 +52,24 @@
 					}
 				},
 				{
-					"filename": "door",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 183,
-						"h": 372
-					},
-					"spriteSourceSize": {
-						"x": 49,
-						"y": 81,
-						"w": 115,
-						"h": 247
-					},
-					"frame": {
-						"x": 1523,
-						"y": 1,
-						"w": 115,
-						"h": 247
-					}
-				},
-				{
 					"filename": "door-active",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 183,
-						"h": 372
+						"w": 282,
+						"h": 365
 					},
 					"spriteSourceSize": {
-						"x": 59,
-						"y": 0,
-						"w": 105,
-						"h": 328
+						"x": 0,
+						"y": 8,
+						"w": 254,
+						"h": 357
 					},
 					"frame": {
 						"x": 1523,
-						"y": 250,
-						"w": 105,
-						"h": 328
+						"y": 1,
+						"w": 254,
+						"h": 357
 					}
 				},
 				{
@@ -98,20 +77,41 @@
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 183,
-						"h": 372
+						"w": 282,
+						"h": 365
 					},
 					"spriteSourceSize": {
-						"x": 59,
-						"y": 0,
-						"w": 105,
-						"h": 328
+						"x": 0,
+						"y": 8,
+						"w": 254,
+						"h": 357
 					},
 					"frame": {
 						"x": 1523,
-						"y": 250,
-						"w": 105,
-						"h": 328
+						"y": 1,
+						"w": 254,
+						"h": 357
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 282,
+						"h": 365
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 8,
+						"w": 229,
+						"h": 311
+					},
+					"frame": {
+						"x": 1523,
+						"y": 360,
+						"w": 229,
+						"h": 311
 					}
 				},
 				{
@@ -130,7 +130,7 @@
 					},
 					"frame": {
 						"x": 1523,
-						"y": 580,
+						"y": 673,
 						"w": 52,
 						"h": 164
 					}
@@ -141,6 +141,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:f0fb340d7d214a2925e9fc645005a760:05c402efd1e425e5623c81cb615d5196:4b08061a5998f788536d95e2f6b186b8$"
+		"smartupdate": "$TexturePacker:SmartUpdate:8566d7e14848b09e13c8f4552e1c5afe:366a1cfe2d2b03605afdb3fce4213504:4b08061a5998f788536d95e2f6b186b8$"
 	}
 }

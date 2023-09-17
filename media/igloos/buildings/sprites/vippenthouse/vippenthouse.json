@@ -1,33 +1,33 @@
 {
 	"textures": [
 		{
-			"image": "ship-0.webp",
+			"image": "vippenthouse-0.webp",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1507,
-				"h": 886
+				"w": 1522,
+				"h": 1924
 			},
 			"scale": 1,
 			"frames": [
 				{
 					"filename": "bg",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
 						"w": 1520,
 						"h": 960
 					},
 					"spriteSourceSize": {
-						"x": 8,
-						"y": 128,
-						"w": 1505,
-						"h": 731
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 1505,
-						"h": 731
+						"w": 1520,
+						"h": 960
 					}
 				},
 				{
@@ -39,16 +39,16 @@
 						"h": 960
 					},
 					"spriteSourceSize": {
-						"x": 22,
-						"y": 283,
-						"w": 327,
-						"h": 151
+						"x": 885,
+						"y": 0,
+						"w": 612,
+						"h": 960
 					},
 					"frame": {
 						"x": 1,
-						"y": 734,
-						"w": 327,
-						"h": 151
+						"y": 963,
+						"w": 612,
+						"h": 960
 					}
 				}
 			]
@@ -57,6 +57,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:0aa8688fd22cd43b8eb91c0d956d4c69:08a1493b6e749e486ad47b2687bd42a0:2f94f8997e40aa93a5f47043ff36f125$"
+		"smartupdate": "$TexturePacker:SmartUpdate:2f277ad8e4c327811ef9390522fd5486:99a30ee1f4a7423d63a7e3033bd33821:b44244740fe9ad5ed306b69650a00392$"
 	}
 }
