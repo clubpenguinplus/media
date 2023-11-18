@@ -521,6 +521,10 @@
     "w.p2015.june.congrats3": "Agent. Training missions complete. You are now ready for anything. Be resourceful, be remarkable, be ready!",
     "cjmat-earnbelts": "Earn Your Belts",
     "sled_hint": "Sled Racing",
+    "waddle_sled": "Sled Racing",
+    "waddle_four": "Find Four",
+    "waddle_mancala": "Mancala",
+    "quit_game_prompt": "Are you sure you want to quit?",
     "errors": {
         "0": "You need more coins",
         "1": "You already have this item",
