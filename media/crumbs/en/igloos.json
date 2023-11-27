@@ -29,7 +29,8 @@
     },
     "8": {
         "name": "Secret Deluxe Stone Igloo",
-        "cost": 5000
+        "cost": 5000,
+        "description": "Enjoy the fine\ncraftsmanship\nof this stone igloo.\nWho needs windows?"
     },
     "9": {
         "name": "Deluxe Snow Igloo",
@@ -81,7 +82,8 @@
     },
     "21": {
         "name": "Backyard Igloo",
-        "cost": 4200
+        "cost": 4200,
+        "description": "Party inside and out\nwith this igloo.\nIt's here just in time\nfor a summer BBQ!"
     },
     "22": {
         "name": "Pink Ice Palace",
