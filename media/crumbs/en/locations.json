@@ -7,17 +7,17 @@
     "2": {
         "name": "Beach",
         "cost": 3500,
-        "description": "Soak up the sun on your beach property!"
+        "description": "Soak up the sun on\nyour beach property!"
     },
     "3": {
         "name": "Forest",
         "cost": 3500,
-        "description": "Find your perfect home, deep in the wilderness."
+        "description": "Find your perfect home,\ndeep in the wilderness."
     },
     "4": {
         "name": "Mountain",
         "cost": 3500,
-        "description": "Picture your new home on this breathtaking cliff."
+        "description": "Picture your new home\non this breathtaking cliff."
     },
     "5": {
         "name": "Age Of Dinosaurs",

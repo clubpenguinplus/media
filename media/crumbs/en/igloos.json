@@ -381,6 +381,7 @@
     },
     "98": {
         "name": "Stage Igloo",
-        "cost": 1500
+        "cost": 1500,
+        "description": "Act out class plays\nor make up your own\non this lavish stage!"
     }
 }
