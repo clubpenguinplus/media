@@ -34,7 +34,8 @@
     },
     "9": {
         "name": "Deluxe Snow Igloo",
-        "cost": 3000
+        "cost": 3000,
+        "description": "Need a bigger igloo?\nWant more space?\nThrow larger parties?\nUpgrade your igloo today!"
     },
     "10": {
         "name": "Bamboo Hut",
@@ -119,7 +120,8 @@
     },
     "30": {
         "name": "Snowy Backyard Igloo",
-        "cost": 3000
+        "cost": 3000,
+        "description": "The best igloo for\nthrowing parties!"
     },
     "31": {
         "name": "Cave Igloo",
